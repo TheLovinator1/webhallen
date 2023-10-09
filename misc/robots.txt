@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /se/member/*
+Disallow: /se/checkout
+Allow: /images/*
+Sitemap: https://www.webhallen.com/sitemap.xml
