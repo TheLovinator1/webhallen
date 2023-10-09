@@ -862,19 +862,6 @@
       },
       {
         "button": null,
-        "description": "",
-        "highlightId": 2955,
-        "id": 6856,
-        "imageUrl": "/images/694189",
-        "priority": 5,
-        "product": {
-          "id": 362686,
-          "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
-          "name": "Super Mario Bros Wonder (Switch) inkl Förbokningserbjudande!"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 9960,
           "name": "Spiderman 2"
@@ -887,39 +874,16 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9935,
-          "name": "Assassins Creed Mirage"
-        },
-        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
-        "highlightId": 2950,
-        "id": 6851,
-        "imageUrl": "/images/693364",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/665574",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10115,
-          "name": "Payday 3"
-        },
-        "description": "Payday 3 - ute nu! ",
-        "highlightId": 2936,
-        "id": 6824,
-        "imageUrl": "/images/692338",
-        "priority": 4
+        "description": "",
+        "highlightId": 2955,
+        "id": 6856,
+        "imageUrl": "/images/694189",
+        "priority": 5,
+        "product": {
+          "id": 362686,
+          "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
+          "name": "Super Mario Bros Wonder (Switch) inkl Förbokningserbjudande!"
+        }
       },
       {
         "button": null,
@@ -937,14 +901,38 @@
       {
         "button": null,
         "campaign": {
-          "id": 10107,
-          "name": "Backbone One"
+          "id": 9085,
+          "name": "CLEAROUT"
         },
-        "description": "Köp din Backbone One till pangpris! ",
-        "highlightId": 2932,
-        "id": 6807,
-        "imageUrl": "/images/691110",
-        "priority": 3
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/665574",
+        "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9935,
+          "name": "Assassins Creed Mirage"
+        },
+        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
+        "highlightId": 2950,
+        "id": 6851,
+        "imageUrl": "/images/693364",
+        "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10027,
+          "name": "EA Sports FC 24"
+        },
+        "description": "",
+        "highlightId": 2885,
+        "id": 6683,
+        "imageUrl": "/images/686098",
+        "priority": 2.5
       },
       {
         "button": null,
@@ -974,18 +962,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10027,
-          "name": "EA Sports FC 24"
-        },
-        "description": "",
-        "highlightId": 2885,
-        "id": 6683,
-        "imageUrl": "/images/686098",
-        "priority": 2.5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8666,
           "name": "Playstation 5 Tillbehör"
         },
@@ -993,18 +969,6 @@
         "highlightId": 1619,
         "id": 3916,
         "imageUrl": "/images/617338",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9342,
-          "name": "Gamers Unite REA"
-        },
-        "description": "Nu är Gamers Unite här igen med mera events, cheevos och kampanjpriser!",
-        "highlightId": 2738,
-        "id": 6373,
-        "imageUrl": "/images/690764",
         "priority": 1
       }
     ],
@@ -1523,18 +1487,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9960,
-          "name": "Spiderman 2"
-        },
-        "description": "Förboka Spider-man 2 redan idag!",
-        "highlightId": 2781,
-        "id": 6457,
-        "imageUrl": "/images/680562",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -1542,6 +1494,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9960,
+          "name": "Spiderman 2"
+        },
+        "description": "Förboka Spider-man 2 redan idag!",
+        "highlightId": 2781,
+        "id": 6457,
+        "imageUrl": "/images/680562",
         "priority": 5
       },
       {
@@ -1584,30 +1548,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10153,
-          "name": "Steelseries nyheter"
-        },
-        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
-        "highlightId": 2944,
-        "id": 6838,
-        "imageUrl": "/images/693190",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10107,
-          "name": "Backbone One"
-        },
-        "description": "Köp din Backbone One till pangpris! ",
-        "highlightId": 2932,
-        "id": 6807,
-        "imageUrl": "/images/691110",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8249,
           "name": "Monthly Gaming Deals"
         },
@@ -1619,16 +1559,15 @@
       },
       {
         "button": null,
-        "description": "",
-        "highlightId": 2862,
-        "id": 6835,
-        "imageUrl": "/images/692861",
-        "priority": 2.5,
-        "product": {
-          "id": 364133,
-          "metaTitle": null,
-          "name": "Corsair Darkstar Wireless MMO/MOBA Gaming Mouse"
-        }
+        "campaign": {
+          "id": 10153,
+          "name": "Steelseries nyheter"
+        },
+        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
+        "highlightId": 2944,
+        "id": 6838,
+        "imageUrl": "/images/693190",
+        "priority": 3
       },
       {
         "button": null,
@@ -1641,6 +1580,19 @@
           "id": 364131,
           "metaTitle": null,
           "name": "Corsair HS80 MAX Wireless - Steel Gray"
+        }
+      },
+      {
+        "button": null,
+        "description": "",
+        "highlightId": 2862,
+        "id": 6835,
+        "imageUrl": "/images/692861",
+        "priority": 2.5,
+        "product": {
+          "id": 364133,
+          "metaTitle": null,
+          "name": "Corsair Darkstar Wireless MMO/MOBA Gaming Mouse"
         }
       },
       {
@@ -1680,18 +1632,6 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9342,
-          "name": "Gamers Unite REA"
-        },
-        "description": "Nu är Gamers Unite här igen med mera events, cheevos och kampanjpriser!",
-        "highlightId": 2738,
-        "id": 6373,
-        "imageUrl": "/images/690764",
-        "priority": 1
       }
     ],
     "icon": "gaming",
@@ -3192,18 +3132,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
-        },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10153,
           "name": "Steelseries nyheter"
         },
@@ -3211,6 +3139,18 @@
         "highlightId": 2944,
         "id": 6838,
         "imageUrl": "/images/693190",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
         "priority": 3
       },
       {
@@ -3289,18 +3229,6 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9342,
-          "name": "Gamers Unite REA"
-        },
-        "description": "Nu är Gamers Unite här igen med mera events, cheevos och kampanjpriser!",
-        "highlightId": 2738,
-        "id": 6373,
-        "imageUrl": "/images/690764",
-        "priority": 1
       }
     ],
     "icon": "datorer_tillbehor",
@@ -4281,18 +4209,6 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9342,
-          "name": "Gamers Unite REA"
-        },
-        "description": "Nu är Gamers Unite här igen med mera events, cheevos och kampanjpriser!",
-        "highlightId": 2738,
-        "id": 6373,
-        "imageUrl": "/images/690764",
-        "priority": 1
       }
     ],
     "icon": "datorkomponenter",
@@ -5819,43 +5735,6 @@
     "highlights": [
       {
         "button": null,
-        "campaign": {
-          "id": 9979,
-          "name": "Sony WF-1000XM5"
-        },
-        "description": "Nya trådlösa hörlurar från Sony med branschledande ANC",
-        "highlightId": 2802,
-        "id": 6510,
-        "imageUrl": "/images/684117",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10062,
-          "name": "Jabra Elite 8 Active"
-        },
-        "description": "Nya Jabra Elite 8 Active är här! Världens tåligaste hörlurar.",
-        "highlightId": 2888,
-        "id": 6763,
-        "imageUrl": "https://www.webhallen.com/images/686425-SE-Jabra-E8A-tile-Cat-Banner-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "description": "Upplev konsertljud med nya Marshall Motif II ANC",
-        "highlightId": 2899,
-        "id": 6788,
-        "imageUrl": "https://www.webhallen.com/images/688692-Webhallen-Tile-banner-992x558?raw",
-        "priority": 5,
-        "product": {
-          "id": 363875,
-          "metaTitle": null,
-          "name": "Marshall Motif II A.N.C True Wireless - Svart"
-        }
-      },
-      {
-        "button": null,
         "description": "Sennheisers nya hörlurar är här. Med ANC & mer än 50h batteritid.",
         "highlightId": 2938,
         "id": 6845,
@@ -5882,6 +5761,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9979,
+          "name": "Sony WF-1000XM5"
+        },
+        "description": "Nya trådlösa hörlurar från Sony med branschledande ANC",
+        "highlightId": 2802,
+        "id": 6510,
+        "imageUrl": "/images/684117",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -5903,18 +5794,6 @@
           "metaTitle": null,
           "name": "Bose Quiet Comfort 45 - Svart"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9342,
-          "name": "Gamers Unite REA"
-        },
-        "description": "Nu är Gamers Unite här igen med mera events, cheevos och kampanjpriser!",
-        "highlightId": 2738,
-        "id": 6373,
-        "imageUrl": "/images/690764",
-        "priority": 1
       }
     ],
     "icon": "ljud_bild",
@@ -7658,13 +7537,13 @@
       {
         "button": null,
         "campaign": {
-          "id": 10112,
-          "name": "OnePlus "
+          "id": 10154,
+          "name": "Samsung Galaxy S22 + Buds2 Bundle"
         },
-        "description": "Nu finns OnePlus i lager igen!",
-        "highlightId": 2935,
-        "id": 6817,
-        "imageUrl": "https://www.webhallen.com/images/692008-OnePlusBackonthemenueSiteMobilTileBa?raw",
+        "description": "Köp Samsung Galaxy S22 och få Buds2 på köpet",
+        "highlightId": 2953,
+        "id": 6854,
+        "imageUrl": "https://www.webhallen.com/images/694128-SamsungSEGalaxyS22Buds2BundleWebhallenC?raw",
         "priority": 5
       },
       {
@@ -7677,30 +7556,6 @@
         "highlightId": 2919,
         "id": 6776,
         "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9857,
-          "name": "Garmin Venu 2-serien"
-        },
-        "description": "Smartwatches för träning och en aktiv livsstil med avancerade hälso- och fitnessfunktioner.",
-        "highlightId": 2683,
-        "id": 6825,
-        "imageUrl": "https://www.webhallen.com/images/683585-Garmin-3rd-992x558-VenuSeries-avp20230712-se?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10154,
-          "name": "Samsung Galaxy S22 + Buds2 Bundle"
-        },
-        "description": "Köp Samsung Galaxy S22 och få Buds2 på köpet",
-        "highlightId": 2953,
-        "id": 6854,
-        "imageUrl": "https://www.webhallen.com/images/694128-SamsungSEGalaxyS22Buds2BundleWebhallenC?raw",
         "priority": 5
       },
       {
@@ -7730,18 +7585,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10075,
-          "name": "iPhone 15"
-        },
-        "description": "Ny kamera. Ny design. Nyförälskelse.",
-        "highlightId": 2920,
-        "id": 6780,
-        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10078,
           "name": "iPhone 15 Pro"
         },
@@ -7754,26 +7597,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10107,
-          "name": "Backbone One"
+          "id": 10075,
+          "name": "iPhone 15"
         },
-        "description": "Köp din Backbone One till pangpris! ",
-        "highlightId": 2932,
-        "id": 6807,
-        "imageUrl": "/images/691110",
+        "description": "Ny kamera. Ny design. Nyförälskelse.",
+        "highlightId": 2920,
+        "id": 6780,
+        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
         "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8984,
-          "name": "Webhallen Revive: Byt in din mobil, iPad eller MacBook - använd värdet på något nytt"
-        },
-        "description": "Byt in din gamla mobil",
-        "highlightId": 2122,
-        "id": 4902,
-        "imageUrl": "/images/619483",
-        "priority": 1
       },
       {
         "button": null,
@@ -7785,6 +7616,18 @@
         "highlightId": 2933,
         "id": 6811,
         "imageUrl": "/images/691686",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8984,
+          "name": "Webhallen Revive: Byt in din mobil, iPad eller MacBook - använd värdet på något nytt"
+        },
+        "description": "Byt in din gamla mobil",
+        "highlightId": 2122,
+        "id": 4902,
+        "imageUrl": "/images/619483",
         "priority": 1
       }
     ],
@@ -8870,18 +8713,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10054,
-          "name": "Philips OneBlade-kampanj"
-        },
-        "description": "Skonsam och smidig rakning med OneBlade. Nu på kampanj!",
-        "highlightId": 2906,
-        "id": 6822,
-        "imageUrl": "https://www.webhallen.com/images/687388-OneBladeSeptember992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -9891,18 +9722,6 @@
           "metaTitle": null,
           "name": "Pokemon Scarlet & Violet 3.5: 151 Elite Trainer Box"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9342,
-          "name": "Gamers Unite REA"
-        },
-        "description": "Nu är Gamers Unite här igen med mera events, cheevos och kampanjpriser!",
-        "highlightId": 2738,
-        "id": 6373,
-        "imageUrl": "/images/690764",
-        "priority": 1
       }
     ],
     "icon": "lek_gadgets",
