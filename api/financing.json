@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "arrangementFee": "0.0000",
+      "code": "002",
+      "interestRate": "19.9900",
+      "minimumOrderAmount": "0.0000",
+      "name": "Webhallen Delbetalningskonto",
+      "numberOfPayments": 24,
+      "settlementFee": "39.0000"
+    },
+    {
+      "arrangementFee": "295.0000",
+      "code": "014",
+      "interestRate": "0.0000",
+      "minimumOrderAmount": "1500.0000",
+      "name": "12 månader",
+      "numberOfPayments": 12,
+      "settlementFee": "39.0000"
+    },
+    {
+      "arrangementFee": "299.0000",
+      "code": "028",
+      "interestRate": "9.9900",
+      "minimumOrderAmount": "1500.0000",
+      "name": "24 månader",
+      "numberOfPayments": 24,
+      "settlementFee": "39.0000"
+    },
+    {
+      "arrangementFee": "299.0000",
+      "code": "040",
+      "interestRate": "9.9900",
+      "minimumOrderAmount": "1500.0000",
+      "name": "36 månader",
+      "numberOfPayments": 36,
+      "settlementFee": "39.0000"
+    }
+  ]
+}

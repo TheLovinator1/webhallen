@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.webhallen.com/sitemap.home.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.webhallen.com/sitemap.section.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.webhallen.com/sitemap.category.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.webhallen.com/sitemap.campaign.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.webhallen.com/sitemap.campaignList.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.webhallen.com/sitemap.infoPages.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.webhallen.com/sitemap.product.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.webhallen.com/sitemap.manufacturer.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.webhallen.com/sitemap.article.xml</loc>
+  </sitemap>
+</sitemapindex>

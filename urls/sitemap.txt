@@ -1,0 +1,9 @@
+https://www.webhallen.com/sitemap.article.xml
+https://www.webhallen.com/sitemap.campaign.xml
+https://www.webhallen.com/sitemap.campaignList.xml
+https://www.webhallen.com/sitemap.category.xml
+https://www.webhallen.com/sitemap.home.xml
+https://www.webhallen.com/sitemap.infoPages.xml
+https://www.webhallen.com/sitemap.manufacturer.xml
+https://www.webhallen.com/sitemap.product.xml
+https://www.webhallen.com/sitemap.section.xml
