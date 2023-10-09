@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out this repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - run: git config --global user.email "99759169+LoviBot@users.noreply.github.com"
       - run: git config --global user.name "LoviBot"
       - name: Set env var PUSH_ENABLED to true
