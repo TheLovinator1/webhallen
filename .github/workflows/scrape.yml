@@ -1,0 +1,24 @@
+name: Scrape latest data from Webhallen.com
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "6,26,46 * * * *" # Every 20 minutes
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v3
+      - run: git config --global user.email "99759169+LoviBot@users.noreply.github.com"
+      - run: git config --global user.name "LoviBot"
+      - name: Set env var PUSH_ENABLED to true
+        run: echo "PUSH_ENABLED=true" >> $GITHUB_ENV
+      - name: Set timezone to Stockholm
+        run: sudo timedatectl set-timezone Europe/Stockholm
+      - name: Install xq for formatting xml
+        run: curl -sSL https://raw.githubusercontent.com/sibprogrammer/xq/master/scripts/install.sh | sudo bash
+      - name: Run scraping script
+        run: chmod +x scrape.sh && ./scrape.sh
