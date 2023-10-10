@@ -842,11 +842,11 @@
           "id": 10059,
           "name": "Meta Quest 3"
         },
-        "description": "Förboka Meta Quest 3 och förbered dig på att utöka din värld som aldrig tidigare! ",
-        "highlightId": 2945,
-        "id": 6843,
-        "imageUrl": "/images/693244",
-        "priority": 10000
+        "description": "",
+        "highlightId": 2946,
+        "id": 6883,
+        "imageUrl": "/images/693269",
+        "priority": 5
       },
       {
         "button": null,
@@ -866,7 +866,7 @@
           "id": 9960,
           "name": "Spiderman 2"
         },
-        "description": "Förboka Spider-man 2 redan idag!",
+        "description": "Förboka Spider-man 2 idag!",
         "highlightId": 2781,
         "id": 6457,
         "imageUrl": "/images/680562",
@@ -925,6 +925,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10148,
+          "name": "Lords of the Fallen"
+        },
+        "description": "Föboka Lords of the fallen nu! ",
+        "highlightId": 2960,
+        "id": 6865,
+        "imageUrl": "/images/694802",
+        "priority": 2.5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10027,
           "name": "EA Sports FC 24"
         },
@@ -950,14 +962,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10159,
-          "name": "Lords of the fallen"
+          "id": 9871,
+          "name": "Tech light in fall darkness"
         },
-        "description": "Föboka Lords of the fallen nu! ",
-        "highlightId": 2960,
-        "id": 6865,
-        "imageUrl": "/images/694802",
-        "priority": 2.5
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       },
       {
         "button": null,
@@ -1475,18 +1487,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10059,
-          "name": "Meta Quest 3"
-        },
-        "description": "Förboka Meta Quest 3 och förbered dig på att utöka din värld som aldrig tidigare! ",
-        "highlightId": 2945,
-        "id": 6843,
-        "imageUrl": "/images/693244",
-        "priority": 10000
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -1502,7 +1502,7 @@
           "id": 9960,
           "name": "Spiderman 2"
         },
-        "description": "Förboka Spider-man 2 redan idag!",
+        "description": "Förboka Spider-man 2 idag!",
         "highlightId": 2781,
         "id": 6457,
         "imageUrl": "/images/680562",
@@ -1511,14 +1511,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 9935,
-          "name": "Assassins Creed Mirage"
+          "id": 10059,
+          "name": "Meta Quest 3"
         },
-        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
-        "highlightId": 2950,
-        "id": 6851,
-        "imageUrl": "/images/693364",
-        "priority": 4
+        "description": "",
+        "highlightId": 2946,
+        "id": 6883,
+        "imageUrl": "/images/693269",
+        "priority": 5
       },
       {
         "button": null,
@@ -1548,14 +1548,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
+          "id": 9935,
+          "name": "Assassins Creed Mirage"
         },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
+        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
+        "highlightId": 2950,
+        "id": 6851,
+        "imageUrl": "/images/693364",
+        "priority": 4
       },
       {
         "button": null,
@@ -1567,6 +1567,18 @@
         "highlightId": 2944,
         "id": 6838,
         "imageUrl": "/images/693190",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
         "priority": 3
       },
       {
@@ -1597,6 +1609,18 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 4619,
+          "name": "Webhallen Config"
+        },
+        "description": "Våra egna gaming-datorer!",
+        "highlightId": 6,
+        "id": 53,
+        "imageUrl": "/images/653188",
+        "priority": 2
+      },
+      {
+        "button": null,
         "description": "Uppgradera gamingmusen till Scimitar Wireless!",
         "highlightId": 2863,
         "id": 6802,
@@ -1620,18 +1644,6 @@
           "metaTitle": null,
           "name": "Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 4619,
-          "name": "Webhallen Config"
-        },
-        "description": "Våra egna gaming-datorer!",
-        "highlightId": 6,
-        "id": 53,
-        "imageUrl": "/images/653188",
-        "priority": 2
       }
     ],
     "icon": "gaming",
@@ -3194,6 +3206,18 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 4619,
+          "name": "Webhallen Config"
+        },
+        "description": "Våra egna gaming-datorer!",
+        "highlightId": 6,
+        "id": 53,
+        "imageUrl": "/images/653188",
+        "priority": 2
+      },
+      {
+        "button": null,
         "description": "Uppgradera gamingmusen till Scimitar Wireless!",
         "highlightId": 2863,
         "id": 6802,
@@ -3221,14 +3245,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 4619,
-          "name": "Webhallen Config"
+          "id": 9871,
+          "name": "Tech light in fall darkness"
         },
-        "description": "Våra egna gaming-datorer!",
-        "highlightId": 6,
-        "id": 53,
-        "imageUrl": "/images/653188",
-        "priority": 2
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       }
     ],
     "icon": "datorer_tillbehor",
@@ -3632,13 +3656,6 @@
                 "id": 16577,
                 "metaTitle": null,
                 "name": "Socket 1700 Alder Lake",
-                "subCategories": []
-              },
-              {
-                "icon": "moderkort",
-                "id": 16360,
-                "metaTitle": null,
-                "name": "Socket 1200 Comet Lake-S",
                 "subCategories": []
               }
             ]
@@ -4209,6 +4226,18 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       }
     ],
     "icon": "datorkomponenter",
@@ -4481,43 +4510,7 @@
             "id": 15819,
             "metaTitle": "Smarta Hem med 433MHz",
             "name": "433MHz",
-            "subCategories": [
-              {
-                "icon": "smarta_hem",
-                "id": 15821,
-                "metaTitle": "433MHz Controller - stort utbud med låga priser",
-                "name": "Controller",
-                "subCategories": []
-              },
-              {
-                "icon": "smarta_hem",
-                "id": 15823,
-                "metaTitle": "433MHz Strömbrytare - stort utbud med låga priser",
-                "name": "Strömbrytare",
-                "subCategories": []
-              },
-              {
-                "icon": "smarta_hem",
-                "id": 15825,
-                "metaTitle": "433MHz Fjärrkontroll - stort utbud med låga priser",
-                "name": "Fjärrkontroll",
-                "subCategories": []
-              },
-              {
-                "icon": "smarta_hem",
-                "id": 15826,
-                "metaTitle": "433MHz Termometer - stort utbud med låga priser",
-                "name": "Termometer",
-                "subCategories": []
-              },
-              {
-                "icon": "smarta_hem",
-                "id": 15827,
-                "metaTitle": "433MHz - Övrigt",
-                "name": "Övrigt",
-                "subCategories": []
-              }
-            ]
+            "subCategories": []
           },
           {
             "icon": "smarta_hem",
@@ -5053,6 +5046,18 @@
         "id": 6110,
         "imageUrl": "/images/665574",
         "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       }
     ],
     "icon": "natverk_smarta_hem",
@@ -5294,13 +5299,6 @@
                 "id": 16728,
                 "metaTitle": null,
                 "name": "Portabla",
-                "subCategories": []
-              },
-              {
-                "icon": "projektorer",
-                "id": 16730,
-                "metaTitle": null,
-                "name": "Short throw",
                 "subCategories": []
               },
               {
@@ -5735,19 +5733,6 @@
     "highlights": [
       {
         "button": null,
-        "description": "Sennheisers nya hörlurar är här. Med ANC & mer än 50h batteritid.",
-        "highlightId": 2938,
-        "id": 6845,
-        "imageUrl": "https://www.webhallen.com/images/693193-ACCENTUMWirelessWebhallenTile992x558?raw",
-        "priority": 5,
-        "product": {
-          "id": 363807,
-          "metaTitle": null,
-          "name": "Sennheiser Accentum - Svart"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
@@ -5769,6 +5754,19 @@
         "id": 6510,
         "imageUrl": "/images/684117",
         "priority": 5
+      },
+      {
+        "button": null,
+        "description": "Sennheisers nya hörlurar är här. Med ANC & mer än 50h batteritid.",
+        "highlightId": 2938,
+        "id": 6845,
+        "imageUrl": "https://www.webhallen.com/images/693193-ACCENTUMWirelessWebhallenTile992x558?raw",
+        "priority": 5,
+        "product": {
+          "id": 363807,
+          "metaTitle": null,
+          "name": "Sennheiser Accentum - Svart"
+        }
       },
       {
         "button": null,
@@ -5794,6 +5792,18 @@
           "metaTitle": null,
           "name": "Bose Quiet Comfort 45 - Svart"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       }
     ],
     "icon": "ljud_bild",
@@ -6295,78 +6305,6 @@
     "highlights": [
       {
         "button": null,
-        "campaign": {
-          "id": 10086,
-          "name": "Apple Watch Series 9"
-        },
-        "description": "Smartare. Ljusare. Mäktigare.",
-        "highlightId": 2921,
-        "id": 6783,
-        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10087,
-          "name": "Apple Watch Ultra 2"
-        },
-        "description": "Den mest robusta och kapabla Apple Watch.",
-        "highlightId": 2922,
-        "id": 6785,
-        "imageUrl": "https://www.webhallen.com/images/691698-AppleULTRASEP2023-tile-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10075,
-          "name": "iPhone 15"
-        },
-        "description": "Ny kamera. Ny design. Nyförälskelse.",
-        "highlightId": 2920,
-        "id": 6780,
-        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9945,
-          "name": "MacBook Air"
-        },
-        "description": "MacBook Air. Nu i 15\".",
-        "highlightId": 2772,
-        "id": 6436,
-        "imageUrl": "https://www.webhallen.com/images/680533-Tilebanner-MacbookAir15992x558?raw",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10078,
-          "name": "iPhone 15 Pro"
-        },
-        "description": "Titan. Stark. Lätt. Pro.",
-        "highlightId": 2923,
-        "id": 6794,
-        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9946,
-          "name": "Mac Studio"
-        },
-        "description": "Förvandla vad du vill till en studio.",
-        "highlightId": 2773,
-        "id": 6438,
-        "imageUrl": "https://www.webhallen.com/images/680535-Tilebanner-MacStudio992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
         "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
         "highlightId": 2656,
         "id": 6584,
@@ -6400,6 +6338,66 @@
         "highlightId": 2582,
         "id": 6261,
         "imageUrl": "/images/658281",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10087,
+          "name": "Apple Watch Ultra 2"
+        },
+        "description": "Den mest robusta och kapabla Apple Watch.",
+        "highlightId": 2922,
+        "id": 6785,
+        "imageUrl": "https://www.webhallen.com/images/691698-AppleULTRASEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10078,
+          "name": "iPhone 15 Pro"
+        },
+        "description": "Titan. Stark. Lätt. Pro.",
+        "highlightId": 2923,
+        "id": 6794,
+        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9945,
+          "name": "MacBook Air"
+        },
+        "description": "MacBook Air. Nu i 15\".",
+        "highlightId": 2772,
+        "id": 6436,
+        "imageUrl": "https://www.webhallen.com/images/680533-Tilebanner-MacbookAir15992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9946,
+          "name": "Mac Studio"
+        },
+        "description": "Förvandla vad du vill till en studio.",
+        "highlightId": 2773,
+        "id": 6438,
+        "imageUrl": "https://www.webhallen.com/images/680535-Tilebanner-MacStudio992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10075,
+          "name": "iPhone 15"
+        },
+        "description": "Ny kamera. Ny design. Nyförälskelse.",
+        "highlightId": 2920,
+        "id": 6780,
+        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
         "priority": 1
       }
     ],
@@ -7537,6 +7535,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10154,
           "name": "Samsung Galaxy S22 + Buds2 Bundle"
         },
@@ -7560,15 +7570,16 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
+        "description": "Kampanj på avancerad löparklocka från Garmin",
+        "highlightId": 2843,
+        "id": 6874,
+        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
+        "priority": 5,
+        "product": {
+          "id": 362396,
+          "metaTitle": null,
+          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
+        }
       },
       {
         "button": null,
@@ -7581,30 +7592,6 @@
         "id": 6110,
         "imageUrl": "/images/665574",
         "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10078,
-          "name": "iPhone 15 Pro"
-        },
-        "description": "Titan. Stark. Lätt. Pro.",
-        "highlightId": 2923,
-        "id": 6794,
-        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10075,
-          "name": "iPhone 15"
-        },
-        "description": "Ny kamera. Ny design. Nyförälskelse.",
-        "highlightId": 2920,
-        "id": 6780,
-        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
-        "priority": 3
       },
       {
         "button": null,
@@ -7628,6 +7615,42 @@
         "highlightId": 2122,
         "id": 4902,
         "imageUrl": "/images/619483",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10075,
+          "name": "iPhone 15"
+        },
+        "description": "Ny kamera. Ny design. Nyförälskelse.",
+        "highlightId": 2920,
+        "id": 6780,
+        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10078,
+          "name": "iPhone 15 Pro"
+        },
+        "description": "Titan. Stark. Lätt. Pro.",
+        "highlightId": 2923,
+        "id": 6794,
+        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
         "priority": 1
       }
     ],
@@ -7715,6 +7738,56 @@
             "id": 16726,
             "metaTitle": null,
             "name": "Mill",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "icon": "inredning_belysning",
+        "id": 16549,
+        "metaTitle": null,
+        "name": "Jul",
+        "subCategories": [
+          {
+            "icon": "inredning_belysning",
+            "id": 16550,
+            "metaTitle": null,
+            "name": "Inomhusdekorationer",
+            "subCategories": []
+          },
+          {
+            "icon": "inredning_belysning",
+            "id": 16551,
+            "metaTitle": null,
+            "name": "Julbelysning / Slingor / Kransar",
+            "subCategories": []
+          },
+          {
+            "icon": "inredning_belysning",
+            "id": 16552,
+            "metaTitle": null,
+            "name": "Julgranar",
+            "subCategories": []
+          },
+          {
+            "icon": "inredning_belysning",
+            "id": 16553,
+            "metaTitle": null,
+            "name": "Julstjärnor",
+            "subCategories": []
+          },
+          {
+            "icon": "inredning_belysning",
+            "id": 16555,
+            "metaTitle": null,
+            "name": "Ljusstakar",
+            "subCategories": []
+          },
+          {
+            "icon": "inredning_belysning",
+            "id": 16557,
+            "metaTitle": null,
+            "name": "Tillbehör",
             "subCategories": []
           }
         ]
@@ -8422,6 +8495,56 @@
                 "metaTitle": null,
                 "name": "Ficklampa",
                 "subCategories": []
+              },
+              {
+                "icon": "inredning_belysning",
+                "id": 3239,
+                "metaTitle": "Julbelysning & dekorationer - Ute & Inne",
+                "name": "Jul",
+                "subCategories": [
+                  {
+                    "icon": "inredning_belysning",
+                    "id": 5377,
+                    "metaTitle": "Julbelysning - Inomhusdekorationer",
+                    "name": "Inomhusdekorationer",
+                    "subCategories": []
+                  },
+                  {
+                    "icon": "inredning_belysning",
+                    "id": 5118,
+                    "metaTitle": "Julbelysning - Slingor & Kransar",
+                    "name": "Julbelysning / Slingor / Kransar",
+                    "subCategories": []
+                  },
+                  {
+                    "icon": "inredning_belysning",
+                    "id": 5114,
+                    "metaTitle": "Julbelysning - Julgranar",
+                    "name": "Julgranar",
+                    "subCategories": []
+                  },
+                  {
+                    "icon": "inredning_belysning",
+                    "id": 5116,
+                    "metaTitle": "Julstjärnor - Stort utbud",
+                    "name": "Julstjärnor",
+                    "subCategories": []
+                  },
+                  {
+                    "icon": "inredning_belysning",
+                    "id": 5115,
+                    "metaTitle": "Ljusstakar - Adventsstake",
+                    "name": "Ljusstakar",
+                    "subCategories": []
+                  },
+                  {
+                    "icon": "inredning_belysning",
+                    "id": 5121,
+                    "metaTitle": "Tillbehör till Julen - Julgransmatta m.m",
+                    "name": "Tillbehör",
+                    "subCategories": []
+                  }
+                ]
               }
             ]
           },
@@ -8689,6 +8812,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 9925,
+          "name": "Philips Airfryers & Köksmaskiner"
+        },
+        "description": "Laga nyttig mat enkelt med Philips AirFryer",
+        "highlightId": 2965,
+        "id": 6872,
+        "imageUrl": "https://www.webhallen.com/images/695035-AF-Webhallen-HD9285-oct23-992x558-SE?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9992,
           "name": "Roborock Q Revo"
         },
@@ -8713,18 +8860,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -8733,6 +8868,18 @@
         "id": 6110,
         "imageUrl": "/images/665574",
         "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       },
       {
         "button": null,
@@ -9592,7 +9739,7 @@
         "icon": "godis_dryck",
         "id": 3602,
         "metaTitle": null,
-        "name": "Godis & Dryck",
+        "name": "Godis",
         "subCategories": [
           {
             "icon": "godis_dryck",
@@ -9722,6 +9869,18 @@
           "metaTitle": null,
           "name": "Pokemon Scarlet & Violet 3.5: 151 Elite Trainer Box"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       }
     ],
     "icon": "lek_gadgets",
