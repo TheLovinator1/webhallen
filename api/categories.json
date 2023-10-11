@@ -925,6 +925,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 10167,
+          "name": "Sonic Superstars"
+        },
+        "description": "Förboka Sonic Superstars idag! ",
+        "highlightId": 2968,
+        "id": 6894,
+        "imageUrl": "/images/695604",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10168,
+          "name": "Hot Wheels Unleashed"
+        },
+        "description": "Förboka redan idag! ",
+        "highlightId": 2970,
+        "id": 6897,
+        "imageUrl": "/images/695684",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10148,
           "name": "Lords of the Fallen"
         },
@@ -1543,6 +1567,19 @@
         "id": 6110,
         "imageUrl": "/images/665574",
         "priority": 4
+      },
+      {
+        "button": null,
+        "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
+        "highlightId": 2967,
+        "id": 6901,
+        "imageUrl": "/images/695499",
+        "priority": 4,
+        "product": {
+          "id": 365546,
+          "metaTitle": null,
+          "name": "Sony Inzone H5 Wireless - Black"
+        }
       },
       {
         "button": null,
@@ -3180,18 +3217,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 4619,
-          "name": "Webhallen Config"
-        },
-        "description": "Våra egna gaming-datorer!",
-        "highlightId": 6,
-        "id": 53,
-        "imageUrl": "/images/653188",
-        "priority": 2
-      },
-      {
-        "button": null,
         "description": "Uppgradera gamingmusen till Scimitar Wireless!",
         "highlightId": 2863,
         "id": 6802,
@@ -3215,6 +3240,18 @@
           "metaTitle": null,
           "name": "Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 4619,
+          "name": "Webhallen Config"
+        },
+        "description": "Våra egna gaming-datorer!",
+        "highlightId": 6,
+        "id": 53,
+        "imageUrl": "/images/653188",
+        "priority": 2
       },
       {
         "button": null,
@@ -4204,18 +4241,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10145,
-          "name": "Nvidia RTX - Alan Wake 2 på köpet"
-        },
-        "description": "Köp en GPU/dator ur kampanjen och få Alan Wake 2 Gratis!",
-        "highlightId": 2958,
-        "id": 6862,
-        "imageUrl": "/images/694200",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
@@ -4223,6 +4248,18 @@
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10145,
+          "name": "Nvidia RTX - Alan Wake 2 på köpet"
+        },
+        "description": "Köp en GPU/dator ur kampanjen och få Alan Wake 2 Gratis!",
+        "highlightId": 2958,
+        "id": 6862,
+        "imageUrl": "/images/694200",
         "priority": 1
       }
     ],
@@ -6298,6 +6335,19 @@
     "highlights": [
       {
         "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 352649,
+          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
+          "name": "Apple AirPods Pro 2nd gen (2022)"
+        }
+      },
+      {
+        "button": null,
         "campaign": {
           "id": 9744,
           "name": "Apple HomePod (2nd generation)"
@@ -6379,19 +6429,6 @@
         "id": 6780,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
         "priority": 1
-      },
-      {
-        "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 352649,
-          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
-          "name": "Apple AirPods Pro 2nd gen (2022)"
-        }
       }
     ],
     "icon": "apple",
@@ -7535,6 +7572,31 @@
       {
         "button": null,
         "campaign": {
+          "id": 10073,
+          "name": "Sony Xperia 5 V"
+        },
+        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
+        "highlightId": 2919,
+        "id": 6776,
+        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "description": "Kampanj på avancerad löparklocka från Garmin",
+        "highlightId": 2843,
+        "id": 6874,
+        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
+        "priority": 5,
+        "product": {
+          "id": 362396,
+          "metaTitle": null,
+          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10146,
           "name": "Galaxy Tab S9 FE"
         },
@@ -7571,31 +7633,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10073,
-          "name": "Sony Xperia 5 V"
-        },
-        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
-        "highlightId": 2919,
-        "id": 6776,
-        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "description": "Kampanj på avancerad löparklocka från Garmin",
-        "highlightId": 2843,
-        "id": 6874,
-        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
-        "priority": 5,
-        "product": {
-          "id": 362396,
-          "metaTitle": null,
-          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -7604,6 +7641,30 @@
         "id": 6110,
         "imageUrl": "/images/665574",
         "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10078,
+          "name": "iPhone 15 Pro"
+        },
+        "description": "Titan. Stark. Lätt. Pro.",
+        "highlightId": 2923,
+        "id": 6794,
+        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
+        "priority": 1
       },
       {
         "button": null,
@@ -7639,30 +7700,6 @@
         "highlightId": 2920,
         "id": 6780,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10078,
-          "name": "iPhone 15 Pro"
-        },
-        "description": "Titan. Stark. Lätt. Pro.",
-        "highlightId": 2923,
-        "id": 6794,
-        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
         "priority": 1
       }
     ],
@@ -8824,6 +8861,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9926,
+          "name": "Philips Robotdammsugare"
+        },
+        "description": "Glöm städningen med Philips Robotdammsugare",
+        "highlightId": 2929,
+        "id": 6800,
+        "imageUrl": "https://www.webhallen.com/images/689839-FC-XU7100-Black-Webhallen-sep23-SE992x558?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9925,
           "name": "Philips Airfryers & Köksmaskiner"
         },
@@ -8848,18 +8897,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9926,
-          "name": "Philips Robotdammsugare"
-        },
-        "description": "Glöm städningen med Philips Robotdammsugare",
-        "highlightId": 2929,
-        "id": 6800,
-        "imageUrl": "https://www.webhallen.com/images/689839-FC-XU7100-Black-Webhallen-sep23-SE992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -8868,6 +8905,18 @@
         "id": 6110,
         "imageUrl": "/images/665574",
         "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       },
       {
         "button": null,
@@ -8880,18 +8929,6 @@
         "highlightId": 491,
         "id": 5441,
         "imageUrl": "/images/547367",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -9922,7 +9959,7 @@
           {
             "icon": "xbox_one",
             "id": 4837,
-            "metaTitle": "Fynda billiga spel till Xbox One",
+            "metaTitle": "REA - Fynda billiga Xbox one-spel",
             "name": "Xbox One",
             "subCategories": []
           },
@@ -10001,7 +10038,7 @@
               {
                 "icon": "ovriga_datortillbehor",
                 "id": 4911,
-                "metaTitle": "Fynda billiga datorhögtalare",
+                "metaTitle": "REA Högtalare till dator - Fynda billiga högtalare",
                 "name": "Högtalare",
                 "subCategories": []
               },
@@ -10031,7 +10068,7 @@
           {
             "icon": "racing",
             "id": 5491,
-            "metaTitle": "Fynda billiga gamepads & rattar",
+            "metaTitle": "REA - Köp Gamepad, Rattar & Joysticks billigt",
             "name": "Gamepad, Rattar & Joysticks",
             "subCategories": []
           },
@@ -10117,7 +10154,7 @@
           {
             "icon": "harddiskar",
             "id": 4819,
-            "metaTitle": "Fynda billiga hårddiskar",
+            "metaTitle": "REA Hårddiskar - Fynda billiga hårddiskar online",
             "name": "Hårddisk",
             "subCategories": [
               {
@@ -10367,7 +10404,7 @@
               {
                 "icon": "hifi_stereo",
                 "id": 4897,
-                "metaTitle": null,
+                "metaTitle": "REA HiFi & Stereo - Köp produkter inom Hifi & Stereo",
                 "name": "HiFi / Stereo",
                 "subCategories": []
               },
@@ -10462,7 +10499,7 @@
           {
             "icon": "batteripack_powerbank",
             "id": 4804,
-            "metaTitle": "Fyndvaror Mobiltillbehör - Fynda billiga mobiltillbehör",
+            "metaTitle": "REA Mobiltillbehör - Fynda billiga mobiltillbehör",
             "name": "Mobiltillbehör",
             "subCategories": [
               {
@@ -10482,7 +10519,7 @@
               {
                 "icon": "bluetooth_hogtalare",
                 "id": 5438,
-                "metaTitle": null,
+                "metaTitle": "REA Högtalare till mobil - Köp billiga mobilhögtalare",
                 "name": "Högtalare",
                 "subCategories": []
               },
@@ -10528,7 +10565,7 @@
       {
         "icon": "hem_halsa",
         "id": 16100,
-        "metaTitle": null,
+        "metaTitle": "REA - Fynda produkter inom Hem & Hälsa",
         "name": "Hem & Hälsa",
         "subCategories": [
           {
@@ -10548,7 +10585,7 @@
           {
             "icon": "koksmaskiner",
             "id": 4822,
-            "metaTitle": null,
+            "metaTitle": "REA Husgeråd-produkter - Köp billigt online!",
             "name": "Husgeråd",
             "subCategories": []
           },
