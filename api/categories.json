@@ -842,7 +842,7 @@
           "id": 10059,
           "name": "Meta Quest 3"
         },
-        "description": "",
+        "description": "Äntligen kan du köpa Meta Quest 3!",
         "highlightId": 2946,
         "id": 6883,
         "imageUrl": "/images/693269",
@@ -882,7 +882,7 @@
         "product": {
           "id": 362686,
           "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
-          "name": "Super Mario Bros Wonder (Switch) inkl Förbokningserbjudande!"
+          "name": "Super Mario Bros Wonder (Switch)"
         }
       },
       {
@@ -1514,7 +1514,7 @@
           "id": 10059,
           "name": "Meta Quest 3"
         },
-        "description": "",
+        "description": "Äntligen kan du köpa Meta Quest 3!",
         "highlightId": 2946,
         "id": 6883,
         "imageUrl": "/images/693269",
@@ -1522,16 +1522,15 @@
       },
       {
         "button": null,
-        "description": "Säkra din PS5 + EA Sports FC 24 bundle idag! ",
-        "highlightId": 2943,
-        "id": 6832,
-        "imageUrl": "/images/692842",
-        "priority": 4,
-        "product": {
-          "id": 364348,
-          "metaTitle": null,
-          "name": "Playstation 5 Konsol (PS5) + EA Sports FC 24"
-        }
+        "campaign": {
+          "id": 9935,
+          "name": "Assassins Creed Mirage"
+        },
+        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
+        "highlightId": 2950,
+        "id": 6851,
+        "imageUrl": "/images/693364",
+        "priority": 4
       },
       {
         "button": null,
@@ -1547,15 +1546,16 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9935,
-          "name": "Assassins Creed Mirage"
-        },
-        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
-        "highlightId": 2950,
-        "id": 6851,
-        "imageUrl": "/images/693364",
-        "priority": 4
+        "description": "Säkra din PS5 + EA Sports FC 24 bundle idag! ",
+        "highlightId": 2943,
+        "id": 6832,
+        "imageUrl": "/images/692842",
+        "priority": 4,
+        "product": {
+          "id": 364348,
+          "metaTitle": null,
+          "name": "Playstation 5 Konsol (PS5) + EA Sports FC 24"
+        }
       },
       {
         "button": null,
@@ -1592,19 +1592,6 @@
           "id": 364131,
           "metaTitle": null,
           "name": "Corsair HS80 MAX Wireless - Steel Gray"
-        }
-      },
-      {
-        "button": null,
-        "description": "",
-        "highlightId": 2862,
-        "id": 6835,
-        "imageUrl": "/images/692861",
-        "priority": 2.5,
-        "product": {
-          "id": 364133,
-          "metaTitle": null,
-          "name": "Corsair Darkstar Wireless MMO/MOBA Gaming Mouse"
         }
       },
       {
@@ -3180,19 +3167,6 @@
       },
       {
         "button": null,
-        "description": "",
-        "highlightId": 2862,
-        "id": 6835,
-        "imageUrl": "/images/692861",
-        "priority": 2.5,
-        "product": {
-          "id": 364133,
-          "metaTitle": null,
-          "name": "Corsair Darkstar Wireless MMO/MOBA Gaming Mouse"
-        }
-      },
-      {
-        "button": null,
         "description": "Håll dig säker online - Norton",
         "highlightId": 2089,
         "id": 6836,
@@ -4226,6 +4200,18 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10145,
+          "name": "Nvidia RTX - Alan Wake 2 på köpet"
+        },
+        "description": "Köp en GPU/dator ur kampanjen och få Alan Wake 2 Gratis!",
+        "highlightId": 2958,
+        "id": 6862,
+        "imageUrl": "/images/694200",
+        "priority": 1
       },
       {
         "button": null,
@@ -6013,6 +5999,13 @@
               },
               {
                 "icon": "iphone",
+                "id": 16684,
+                "metaTitle": "iPhone 13 Mini - Liten men kraftfull",
+                "name": "iPhone 13 Mini",
+                "subCategories": []
+              },
+              {
+                "icon": "iphone",
                 "id": 16746,
                 "metaTitle": null,
                 "name": "Begagnat",
@@ -6305,19 +6298,6 @@
     "highlights": [
       {
         "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 352649,
-          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
-          "name": "Apple AirPods Pro 2nd gen (2022)"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 9744,
           "name": "Apple HomePod (2nd generation)"
@@ -6399,6 +6379,19 @@
         "id": 6780,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
         "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 352649,
+          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
+          "name": "Apple AirPods Pro 2nd gen (2022)"
+        }
       }
     ],
     "icon": "apple",
@@ -6489,6 +6482,13 @@
                 "id": 16674,
                 "metaTitle": null,
                 "name": "iPhone 13",
+                "subCategories": []
+              },
+              {
+                "icon": "mobiltelefon",
+                "id": 16677,
+                "metaTitle": "iPhone 13 Mini - Liten men Kraftfull",
+                "name": "iPhone 13 Mini",
                 "subCategories": []
               },
               {
@@ -7532,6 +7532,18 @@
     ],
     "color": "#56697e",
     "highlights": [
+      {
+        "button": null,
+        "campaign": {
+          "id": 10146,
+          "name": "Galaxy Tab S9 FE"
+        },
+        "description": "Köp nya Galaxy Tab S9 FE & få Smart Book Cover på köpet",
+        "highlightId": 2957,
+        "id": 6888,
+        "imageUrl": "https://www.webhallen.com/images/694197-SamsungSEGalaxyTabS9FELaunchOfferWebhall?raw",
+        "priority": 5
+      },
       {
         "button": null,
         "campaign": {
@@ -8836,18 +8848,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9992,
-          "name": "Roborock Q Revo"
-        },
-        "description": "Ny smart robotdammsugare med minimalt underhåll",
-        "highlightId": 2844,
-        "id": 6609,
-        "imageUrl": "https://www.webhallen.com/images/683573-Roborock-Q-Revo-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9926,
           "name": "Philips Robotdammsugare"
         },
@@ -8871,18 +8871,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
-        "priority": 1
-      },
-      {
-        "button": null,
         "category": {
           "id": 2486,
           "internalName": "Luftrenare Allergi",
@@ -8892,6 +8880,18 @@
         "highlightId": 491,
         "id": 5441,
         "imageUrl": "/images/547367",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -8912,7 +8912,7 @@
           {
             "icon": "lego",
             "id": 5269,
-            "metaTitle": "Lego - Ett av sveriges största utbud",
+            "metaTitle": "LEGO - Ett av sveriges största utbud",
             "name": "Allt LEGO",
             "subCategories": []
           },
@@ -9859,19 +9859,6 @@
       },
       {
         "button": null,
-        "description": "Nya kort från Pokémon! ",
-        "highlightId": 2670,
-        "id": 6648,
-        "imageUrl": "/images/694763",
-        "priority": 3,
-        "product": {
-          "id": 362583,
-          "metaTitle": null,
-          "name": "Pokemon Scarlet & Violet 3.5: 151 Elite Trainer Box"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 9871,
           "name": "Tech light in fall darkness"
@@ -9928,7 +9915,7 @@
           {
             "icon": "playstation_4",
             "id": 4827,
-            "metaTitle": "Fynda billiga spel till PS4",
+            "metaTitle": "REA - Fynda billiga spel till PS4",
             "name": "PS4",
             "subCategories": []
           },
