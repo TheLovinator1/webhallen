@@ -838,19 +838,6 @@
     "highlights": [
       {
         "button": null,
-        "description": "",
-        "highlightId": 2955,
-        "id": 6856,
-        "imageUrl": "/images/694189",
-        "priority": 5,
-        "product": {
-          "id": 362686,
-          "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
-          "name": "Super Mario Bros Wonder (Switch)"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 10059,
           "name": "Meta Quest 3"
@@ -877,12 +864,37 @@
         "button": null,
         "campaign": {
           "id": 9960,
-          "name": "Spiderman 2"
+          "name": "Spider-Man 2"
         },
         "description": "Förboka Spider-man 2 idag!",
         "highlightId": 2781,
         "id": 6457,
         "imageUrl": "/images/680562",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "description": "",
+        "highlightId": 2955,
+        "id": 6856,
+        "imageUrl": "/images/694189",
+        "priority": 5,
+        "product": {
+          "id": 362686,
+          "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
+          "name": "Super Mario Bros Wonder (Switch)"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10163,
+          "name": "Spider-Man Nattöppet 19/10"
+        },
+        "description": "NATTÖPPET 19/10!",
+        "highlightId": 2972,
+        "id": 6904,
+        "imageUrl": "/images/695885",
         "priority": 5
       },
       {
@@ -907,7 +919,7 @@
         "description": "Gör kap i vår lagerrensning",
         "highlightId": 2043,
         "id": 6110,
-        "imageUrl": "/images/665574",
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
@@ -952,23 +964,11 @@
           "id": 10148,
           "name": "Lords of the Fallen"
         },
-        "description": "Föboka Lords of the fallen nu! ",
-        "highlightId": 2960,
-        "id": 6865,
-        "imageUrl": "/images/694802",
-        "priority": 2.5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10027,
-          "name": "EA Sports FC 24"
-        },
-        "description": "",
-        "highlightId": 2885,
-        "id": 6683,
-        "imageUrl": "/images/686098",
-        "priority": 2.5
+        "description": "Nu kan du köpa Lords of the fallen!",
+        "highlightId": 2963,
+        "id": 6867,
+        "imageUrl": "/images/694806",
+        "priority": 3
       },
       {
         "button": null,
@@ -986,10 +986,22 @@
       {
         "button": null,
         "campaign": {
+          "id": 10027,
+          "name": "EA Sports FC 24"
+        },
+        "description": "",
+        "highlightId": 2885,
+        "id": 6683,
+        "imageUrl": "/images/686098",
+        "priority": 2.5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
-        "description": "",
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
@@ -1524,7 +1536,7 @@
         "button": null,
         "campaign": {
           "id": 9960,
-          "name": "Spiderman 2"
+          "name": "Spider-Man 2"
         },
         "description": "Förboka Spider-man 2 idag!",
         "highlightId": 2781,
@@ -1543,6 +1555,30 @@
         "id": 6883,
         "imageUrl": "/images/693269",
         "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9935,
+          "name": "Assassins Creed Mirage"
+        },
+        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
+        "highlightId": 2950,
+        "id": 6851,
+        "imageUrl": "/images/693364",
+        "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9085,
+          "name": "CLEAROUT"
+        },
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
       },
       {
         "button": null,
@@ -1569,30 +1605,6 @@
           "metaTitle": null,
           "name": "Playstation 5 Konsol (PS5) + EA Sports FC 24"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9935,
-          "name": "Assassins Creed Mirage"
-        },
-        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
-        "highlightId": 2950,
-        "id": 6851,
-        "imageUrl": "/images/693364",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/665574",
-        "priority": 4
       },
       {
         "button": null,
@@ -3162,7 +3174,7 @@
         "description": "Gör kap i vår lagerrensning",
         "highlightId": 2043,
         "id": 6110,
-        "imageUrl": "/images/665574",
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
@@ -3259,7 +3271,7 @@
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
-        "description": "",
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
@@ -4223,7 +4235,7 @@
         "description": "Gör kap i vår lagerrensning",
         "highlightId": 2043,
         "id": 6110,
-        "imageUrl": "/images/665574",
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
@@ -4256,7 +4268,7 @@
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
-        "description": "",
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
@@ -5067,7 +5079,7 @@
         "description": "Gör kap i vår lagerrensning",
         "highlightId": 2043,
         "id": 6110,
-        "imageUrl": "/images/665574",
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
@@ -5076,7 +5088,7 @@
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
-        "description": "",
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
@@ -5780,19 +5792,6 @@
       },
       {
         "button": null,
-        "description": "Sennheisers nya hörlurar är här. Med ANC & mer än 50h batteritid.",
-        "highlightId": 2938,
-        "id": 6845,
-        "imageUrl": "https://www.webhallen.com/images/693193-ACCENTUMWirelessWebhallenTile992x558?raw",
-        "priority": 5,
-        "product": {
-          "id": 363807,
-          "metaTitle": null,
-          "name": "Sennheiser Accentum - Svart"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
@@ -5800,7 +5799,7 @@
         "description": "Gör kap i vår lagerrensning",
         "highlightId": 2043,
         "id": 6110,
-        "imageUrl": "/images/665574",
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
@@ -5822,7 +5821,7 @@
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
-        "description": "",
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
@@ -7558,6 +7557,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10146,
+          "name": "Galaxy Tab S9 FE"
+        },
+        "description": "Köp nya Galaxy Tab S9 FE & få Smart Book Cover på köpet",
+        "highlightId": 2957,
+        "id": 6888,
+        "imageUrl": "https://www.webhallen.com/images/694197-SamsungSEGalaxyTabS9FELaunchOfferWebhall?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -7607,25 +7618,13 @@
       {
         "button": null,
         "campaign": {
-          "id": 10146,
-          "name": "Galaxy Tab S9 FE"
-        },
-        "description": "Köp nya Galaxy Tab S9 FE & få Smart Book Cover på köpet",
-        "highlightId": 2957,
-        "id": 6888,
-        "imageUrl": "https://www.webhallen.com/images/694197-SamsungSEGalaxyTabS9FELaunchOfferWebhall?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
         "description": "Gör kap i vår lagerrensning",
         "highlightId": 2043,
         "id": 6110,
-        "imageUrl": "/images/665574",
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
@@ -7670,7 +7669,7 @@
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
-        "description": "",
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
@@ -8847,6 +8846,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9925,
+          "name": "Philips Airfryers & Köksmaskiner"
+        },
+        "description": "Laga nyttig mat enkelt med Philips AirFryer",
+        "highlightId": 2965,
+        "id": 6872,
+        "imageUrl": "https://www.webhallen.com/images/695035-AF-Webhallen-HD9285-oct23-992x558-SE?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -8871,25 +8882,13 @@
       {
         "button": null,
         "campaign": {
-          "id": 9925,
-          "name": "Philips Airfryers & Köksmaskiner"
-        },
-        "description": "Laga nyttig mat enkelt med Philips AirFryer",
-        "highlightId": 2965,
-        "id": 6872,
-        "imageUrl": "https://www.webhallen.com/images/695035-AF-Webhallen-HD9285-oct23-992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
         "description": "Gör kap i vår lagerrensning",
         "highlightId": 2043,
         "id": 6110,
-        "imageUrl": "/images/665574",
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
@@ -8911,7 +8910,7 @@
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
-        "description": "",
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
@@ -9877,7 +9876,7 @@
         "description": "Gör kap i vår lagerrensning",
         "highlightId": 2043,
         "id": 6110,
-        "imageUrl": "/images/665574",
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
@@ -9886,7 +9885,7 @@
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
-        "description": "",
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
@@ -10695,7 +10694,7 @@
         "description": "Gör kap i vår lagerrensning",
         "highlightId": 2043,
         "id": 6110,
-        "imageUrl": "/images/665574",
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       }
     ],
