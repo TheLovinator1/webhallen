@@ -839,6 +839,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10163,
+          "name": "Spider-Man Nattöppet 19/10"
+        },
+        "description": "NATTÖPPET 19/10!",
+        "highlightId": 2972,
+        "id": 6904,
+        "imageUrl": "/images/695885",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10059,
           "name": "Meta Quest 3"
         },
@@ -887,18 +899,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 10163,
-          "name": "Spider-Man Nattöppet 19/10"
-        },
-        "description": "NATTÖPPET 19/10!",
-        "highlightId": 2972,
-        "id": 6904,
-        "imageUrl": "/images/695885",
-        "priority": 5
-      },
-      {
-        "button": null,
         "description": "Säkra din PS5 + EA Sports FC 24 bundle idag! ",
         "highlightId": 2943,
         "id": 6832,
@@ -937,6 +937,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 10148,
+          "name": "Lords of the Fallen"
+        },
+        "description": "Nu kan du köpa Lords of the fallen!",
+        "highlightId": 2963,
+        "id": 6867,
+        "imageUrl": "/images/694806",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10053,
+          "name": "NHL24"
+        },
+        "description": "Nu kan du köpa NHL 24! ",
+        "highlightId": 2974,
+        "id": 6909,
+        "imageUrl": "/images/696112",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10167,
           "name": "Sonic Superstars"
         },
@@ -961,14 +985,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10148,
-          "name": "Lords of the Fallen"
+          "id": 10027,
+          "name": "EA Sports FC 24"
         },
-        "description": "Nu kan du köpa Lords of the fallen!",
-        "highlightId": 2963,
-        "id": 6867,
-        "imageUrl": "/images/694806",
-        "priority": 3
+        "description": "",
+        "highlightId": 2885,
+        "id": 6683,
+        "imageUrl": "/images/686098",
+        "priority": 2.5
       },
       {
         "button": null,
@@ -982,18 +1006,6 @@
           "metaTitle": null,
           "name": "Detective Pikachu Returns"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10027,
-          "name": "EA Sports FC 24"
-        },
-        "description": "",
-        "highlightId": 2885,
-        "id": 6683,
-        "imageUrl": "/images/686098",
-        "priority": 2.5
       },
       {
         "button": null,
@@ -1558,6 +1570,19 @@
       },
       {
         "button": null,
+        "description": "Säkra din PS5 + EA Sports FC 24 bundle idag! ",
+        "highlightId": 2943,
+        "id": 6832,
+        "imageUrl": "/images/692842",
+        "priority": 4,
+        "product": {
+          "id": 364348,
+          "metaTitle": null,
+          "name": "Playstation 5 Konsol (PS5) + EA Sports FC 24"
+        }
+      },
+      {
+        "button": null,
         "campaign": {
           "id": 9935,
           "name": "Assassins Creed Mirage"
@@ -1595,16 +1620,15 @@
       },
       {
         "button": null,
-        "description": "Säkra din PS5 + EA Sports FC 24 bundle idag! ",
-        "highlightId": 2943,
-        "id": 6832,
-        "imageUrl": "/images/692842",
-        "priority": 4,
-        "product": {
-          "id": 364348,
-          "metaTitle": null,
-          "name": "Playstation 5 Konsol (PS5) + EA Sports FC 24"
-        }
+        "campaign": {
+          "id": 10160,
+          "name": "SanDisk - SD kort för gaming"
+        },
+        "description": "Utrusta din Nintendo Switch med SanDisk-lagring!",
+        "highlightId": 2966,
+        "id": 6906,
+        "imageUrl": "/images/695223",
+        "priority": 3
       },
       {
         "button": null,
@@ -3180,18 +3204,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
-        },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10153,
           "name": "Steelseries nyheter"
         },
@@ -3203,16 +3215,15 @@
       },
       {
         "button": null,
-        "description": "Headset HS80 Max - köp nu! ",
-        "highlightId": 2859,
-        "id": 6805,
-        "imageUrl": "/images/684124",
-        "priority": 2.5,
-        "product": {
-          "id": 364131,
-          "metaTitle": null,
-          "name": "Corsair HS80 MAX Wireless - Steel Gray"
-        }
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
+        "priority": 3
       },
       {
         "button": null,
@@ -3225,6 +3236,19 @@
           "id": 302629,
           "metaTitle": null,
           "name": "Norton 360 Deluxe - 50GB Lagring / VPN / 1 år / 5 användare - ATTACH"
+        }
+      },
+      {
+        "button": null,
+        "description": "Headset HS80 Max - köp nu! ",
+        "highlightId": 2859,
+        "id": 6805,
+        "imageUrl": "/images/684124",
+        "priority": 2.5,
+        "product": {
+          "id": 364131,
+          "metaTitle": null,
+          "name": "Corsair HS80 MAX Wireless - Steel Gray"
         }
       },
       {
@@ -7630,6 +7654,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10078,
+          "name": "iPhone 15 Pro"
+        },
+        "description": "Titan. Stark. Lätt. Pro.",
+        "highlightId": 2923,
+        "id": 6794,
+        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10111,
           "name": "Mobilabonnemang"
         },
@@ -7673,18 +7709,6 @@
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10078,
-          "name": "iPhone 15 Pro"
-        },
-        "description": "Titan. Stark. Lätt. Pro.",
-        "highlightId": 2923,
-        "id": 6794,
-        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
         "priority": 1
       }
     ],
@@ -8893,6 +8917,18 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
+      },
+      {
+        "button": null,
         "category": {
           "id": 2486,
           "internalName": "Luftrenare Allergi",
@@ -8902,18 +8938,6 @@
         "highlightId": 491,
         "id": 5441,
         "imageUrl": "/images/547367",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
