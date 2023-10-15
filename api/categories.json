@@ -839,18 +839,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10163,
-          "name": "Spider-Man Nattöppet 19/10"
-        },
-        "description": "NATTÖPPET 19/10!",
-        "highlightId": 2972,
-        "id": 6904,
-        "imageUrl": "/images/695885",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10059,
           "name": "Meta Quest 3"
         },
@@ -899,6 +887,18 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 10163,
+          "name": "Spider-Man Nattöppet 19/10"
+        },
+        "description": "NATTÖPPET 19/10!",
+        "highlightId": 2972,
+        "id": 6904,
+        "imageUrl": "/images/695885",
+        "priority": 5
+      },
+      {
+        "button": null,
         "description": "Säkra din PS5 + EA Sports FC 24 bundle idag! ",
         "highlightId": 2943,
         "id": 6832,
@@ -937,30 +937,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10148,
-          "name": "Lords of the Fallen"
-        },
-        "description": "Nu kan du köpa Lords of the fallen!",
-        "highlightId": 2963,
-        "id": 6867,
-        "imageUrl": "/images/694806",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10053,
-          "name": "NHL24"
-        },
-        "description": "Nu kan du köpa NHL 24! ",
-        "highlightId": 2974,
-        "id": 6909,
-        "imageUrl": "/images/696112",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10167,
           "name": "Sonic Superstars"
         },
@@ -980,6 +956,30 @@
         "highlightId": 2970,
         "id": 6897,
         "imageUrl": "/images/695684",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10148,
+          "name": "Lords of the Fallen"
+        },
+        "description": "Nu kan du köpa Lords of the fallen!",
+        "highlightId": 2963,
+        "id": 6867,
+        "imageUrl": "/images/694806",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10053,
+          "name": "NHL24"
+        },
+        "description": "Nu kan du köpa NHL 24! ",
+        "highlightId": 2974,
+        "id": 6909,
+        "imageUrl": "/images/696112",
         "priority": 3
       },
       {
@@ -1535,6 +1535,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10059,
+          "name": "Meta Quest 3"
+        },
+        "description": "Äntligen kan du köpa Meta Quest 3!",
+        "highlightId": 2946,
+        "id": 6883,
+        "imageUrl": "/images/693269",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -1558,15 +1570,16 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 10059,
-          "name": "Meta Quest 3"
-        },
-        "description": "Äntligen kan du köpa Meta Quest 3!",
-        "highlightId": 2946,
-        "id": 6883,
-        "imageUrl": "/images/693269",
-        "priority": 5
+        "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
+        "highlightId": 2967,
+        "id": 6901,
+        "imageUrl": "/images/695499",
+        "priority": 4,
+        "product": {
+          "id": 365546,
+          "metaTitle": null,
+          "name": "Sony Inzone H5 Wireless - Black"
+        }
       },
       {
         "button": null,
@@ -1604,19 +1617,6 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
-      },
-      {
-        "button": null,
-        "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
-        "highlightId": 2967,
-        "id": 6901,
-        "imageUrl": "/images/695499",
-        "priority": 4,
-        "product": {
-          "id": 365546,
-          "metaTitle": null,
-          "name": "Sony Inzone H5 Wireless - Black"
-        }
       },
       {
         "button": null,
@@ -1669,18 +1669,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 4619,
-          "name": "Webhallen Config"
-        },
-        "description": "Våra egna gaming-datorer!",
-        "highlightId": 6,
-        "id": 53,
-        "imageUrl": "/images/653188",
-        "priority": 2
-      },
-      {
-        "button": null,
         "description": "Uppgradera gamingmusen till Scimitar Wireless!",
         "highlightId": 2863,
         "id": 6802,
@@ -1704,6 +1692,18 @@
           "metaTitle": null,
           "name": "Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 4619,
+          "name": "Webhallen Config"
+        },
+        "description": "Våra egna gaming-datorer!",
+        "highlightId": 6,
+        "id": 53,
+        "imageUrl": "/images/653188",
+        "priority": 2
       }
     ],
     "icon": "gaming",
@@ -3227,19 +3227,6 @@
       },
       {
         "button": null,
-        "description": "Håll dig säker online - Norton",
-        "highlightId": 2089,
-        "id": 6836,
-        "imageUrl": "/images/692871",
-        "priority": 2.5,
-        "product": {
-          "id": 302629,
-          "metaTitle": null,
-          "name": "Norton 360 Deluxe - 50GB Lagring / VPN / 1 år / 5 användare - ATTACH"
-        }
-      },
-      {
-        "button": null,
         "description": "Headset HS80 Max - köp nu! ",
         "highlightId": 2859,
         "id": 6805,
@@ -3253,15 +3240,16 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 4619,
-          "name": "Webhallen Config"
-        },
-        "description": "Våra egna gaming-datorer!",
-        "highlightId": 6,
-        "id": 53,
-        "imageUrl": "/images/653188",
-        "priority": 2
+        "description": "Håll dig säker online - Norton",
+        "highlightId": 2089,
+        "id": 6836,
+        "imageUrl": "/images/692871",
+        "priority": 2.5,
+        "product": {
+          "id": 302629,
+          "metaTitle": null,
+          "name": "Norton 360 Deluxe - 50GB Lagring / VPN / 1 år / 5 användare - ATTACH"
+        }
       },
       {
         "button": null,
@@ -3288,6 +3276,18 @@
           "metaTitle": null,
           "name": "Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 4619,
+          "name": "Webhallen Config"
+        },
+        "description": "Våra egna gaming-datorer!",
+        "highlightId": 6,
+        "id": 53,
+        "imageUrl": "/images/653188",
+        "priority": 2
       },
       {
         "button": null,
@@ -4277,18 +4277,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10145,
-          "name": "Nvidia RTX - Alan Wake 2 på köpet"
-        },
-        "description": "Köp en GPU/dator ur kampanjen och få Alan Wake 2 Gratis!",
-        "highlightId": 2958,
-        "id": 6862,
-        "imageUrl": "/images/694200",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
@@ -4296,6 +4284,18 @@
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10145,
+          "name": "Nvidia RTX - Alan Wake 2 på köpet"
+        },
+        "description": "Köp en GPU/dator ur kampanjen och få Alan Wake 2 Gratis!",
+        "highlightId": 2958,
+        "id": 6862,
+        "imageUrl": "/images/694200",
         "priority": 1
       }
     ],
@@ -6351,6 +6351,19 @@
     "highlights": [
       {
         "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 352649,
+          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
+          "name": "Apple AirPods Pro 2nd gen (2022)"
+        }
+      },
+      {
+        "button": null,
         "campaign": {
           "id": 9744,
           "name": "Apple HomePod (2nd generation)"
@@ -6432,19 +6445,6 @@
         "id": 6780,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
         "priority": 1
-      },
-      {
-        "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 352649,
-          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
-          "name": "Apple AirPods Pro 2nd gen (2022)"
-        }
       }
     ],
     "icon": "apple",
@@ -7581,6 +7581,31 @@
       {
         "button": null,
         "campaign": {
+          "id": 10073,
+          "name": "Sony Xperia 5 V"
+        },
+        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
+        "highlightId": 2919,
+        "id": 6776,
+        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "description": "Kampanj på avancerad löparklocka från Garmin",
+        "highlightId": 2843,
+        "id": 6874,
+        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
+        "priority": 5,
+        "product": {
+          "id": 362396,
+          "metaTitle": null,
+          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10146,
           "name": "Galaxy Tab S9 FE"
         },
@@ -7617,31 +7642,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10073,
-          "name": "Sony Xperia 5 V"
-        },
-        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
-        "highlightId": 2919,
-        "id": 6776,
-        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "description": "Kampanj på avancerad löparklocka från Garmin",
-        "highlightId": 2843,
-        "id": 6874,
-        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
-        "priority": 5,
-        "product": {
-          "id": 362396,
-          "metaTitle": null,
-          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -7650,6 +7650,18 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       },
       {
         "button": null,
@@ -7697,18 +7709,6 @@
         "highlightId": 2920,
         "id": 6780,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -8870,6 +8870,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9926,
+          "name": "Philips Robotdammsugare"
+        },
+        "description": "Glöm städningen med Philips Robotdammsugare",
+        "highlightId": 2929,
+        "id": 6800,
+        "imageUrl": "https://www.webhallen.com/images/689839-FC-XU7100-Black-Webhallen-sep23-SE992x558?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9925,
           "name": "Philips Airfryers & Köksmaskiner"
         },
@@ -8889,18 +8901,6 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9926,
-          "name": "Philips Robotdammsugare"
-        },
-        "description": "Glöm städningen med Philips Robotdammsugare",
-        "highlightId": 2929,
-        "id": 6800,
-        "imageUrl": "https://www.webhallen.com/images/689839-FC-XU7100-Black-Webhallen-sep23-SE992x558?raw",
         "priority": 5
       },
       {
