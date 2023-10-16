@@ -839,18 +839,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10059,
-          "name": "Meta Quest 3"
-        },
-        "description": "Äntligen kan du köpa Meta Quest 3!",
-        "highlightId": 2946,
-        "id": 6883,
-        "imageUrl": "/images/693269",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -870,6 +858,18 @@
         "highlightId": 2781,
         "id": 6457,
         "imageUrl": "/images/680562",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10059,
+          "name": "Meta Quest 3"
+        },
+        "description": "Äntligen kan du köpa Meta Quest 3!",
+        "highlightId": 2946,
+        "id": 6883,
+        "imageUrl": "/images/693269",
         "priority": 5
       },
       {
@@ -899,19 +899,6 @@
       },
       {
         "button": null,
-        "description": "Säkra din PS5 + EA Sports FC 24 bundle idag! ",
-        "highlightId": 2943,
-        "id": 6832,
-        "imageUrl": "/images/692842",
-        "priority": 4,
-        "product": {
-          "id": 364348,
-          "metaTitle": null,
-          "name": "Playstation 5 Konsol (PS5) + EA Sports FC 24"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
@@ -933,6 +920,30 @@
         "id": 6851,
         "imageUrl": "/images/693364",
         "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10053,
+          "name": "NHL24"
+        },
+        "description": "Nu kan du köpa NHL 24! ",
+        "highlightId": 2974,
+        "id": 6909,
+        "imageUrl": "/images/696112",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10148,
+          "name": "Lords of the Fallen"
+        },
+        "description": "Nu kan du köpa Lords of the fallen!",
+        "highlightId": 2963,
+        "id": 6867,
+        "imageUrl": "/images/694806",
+        "priority": 3
       },
       {
         "button": null,
@@ -961,51 +972,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10148,
-          "name": "Lords of the Fallen"
+          "id": 8666,
+          "name": "Playstation 5 Tillbehör"
         },
-        "description": "Nu kan du köpa Lords of the fallen!",
-        "highlightId": 2963,
-        "id": 6867,
-        "imageUrl": "/images/694806",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10053,
-          "name": "NHL24"
-        },
-        "description": "Nu kan du köpa NHL 24! ",
-        "highlightId": 2974,
-        "id": 6909,
-        "imageUrl": "/images/696112",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10027,
-          "name": "EA Sports FC 24"
-        },
-        "description": "",
-        "highlightId": 2885,
-        "id": 6683,
-        "imageUrl": "/images/686098",
-        "priority": 2.5
-      },
-      {
-        "button": null,
-        "description": "Förhandsboka Detective Pikachu Returns redan nu! ",
-        "highlightId": 2940,
-        "id": 6827,
-        "imageUrl": "/images/692550",
-        "priority": 2.5,
-        "product": {
-          "id": 362723,
-          "metaTitle": null,
-          "name": "Detective Pikachu Returns"
-        }
+        "description": "Tillbehör till din nya Playstation 5!",
+        "highlightId": 1619,
+        "id": 3916,
+        "imageUrl": "/images/617338",
+        "priority": 1
       },
       {
         "button": null,
@@ -1017,18 +991,6 @@
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8666,
-          "name": "Playstation 5 Tillbehör"
-        },
-        "description": "Tillbehör till din nya Playstation 5!",
-        "highlightId": 1619,
-        "id": 3916,
-        "imageUrl": "/images/617338",
         "priority": 1
       }
     ],
@@ -1570,32 +1532,6 @@
       },
       {
         "button": null,
-        "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
-        "highlightId": 2967,
-        "id": 6901,
-        "imageUrl": "/images/695499",
-        "priority": 4,
-        "product": {
-          "id": 365546,
-          "metaTitle": null,
-          "name": "Sony Inzone H5 Wireless - Black"
-        }
-      },
-      {
-        "button": null,
-        "description": "Säkra din PS5 + EA Sports FC 24 bundle idag! ",
-        "highlightId": 2943,
-        "id": 6832,
-        "imageUrl": "/images/692842",
-        "priority": 4,
-        "product": {
-          "id": 364348,
-          "metaTitle": null,
-          "name": "Playstation 5 Konsol (PS5) + EA Sports FC 24"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 9935,
           "name": "Assassins Creed Mirage"
@@ -1617,6 +1553,31 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
+      },
+      {
+        "button": null,
+        "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
+        "highlightId": 2967,
+        "id": 6901,
+        "imageUrl": "/images/695499",
+        "priority": 4,
+        "product": {
+          "id": 365546,
+          "metaTitle": null,
+          "name": "Sony Inzone H5 Wireless - Black"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
+        "priority": 3
       },
       {
         "button": null,
@@ -1645,27 +1606,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
+          "id": 4619,
+          "name": "Webhallen Config"
         },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "description": "Headset HS80 Max - köp nu! ",
-        "highlightId": 2859,
-        "id": 6805,
-        "imageUrl": "/images/684124",
-        "priority": 2.5,
-        "product": {
-          "id": 364131,
-          "metaTitle": null,
-          "name": "Corsair HS80 MAX Wireless - Steel Gray"
-        }
+        "description": "Våra egna gaming-datorer!",
+        "highlightId": 6,
+        "id": 53,
+        "imageUrl": "/images/653188",
+        "priority": 2
       },
       {
         "button": null,
@@ -1692,18 +1640,6 @@
           "metaTitle": null,
           "name": "Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 4619,
-          "name": "Webhallen Config"
-        },
-        "description": "Våra egna gaming-datorer!",
-        "highlightId": 6,
-        "id": 53,
-        "imageUrl": "/images/653188",
-        "priority": 2
       }
     ],
     "icon": "gaming",
@@ -2954,13 +2890,6 @@
               },
               {
                 "icon": "usbkabel",
-                "id": 4854,
-                "metaTitle": null,
-                "name": "USB-kabel korslänkade A -> A",
-                "subCategories": []
-              },
-              {
-                "icon": "usbkabel",
                 "id": 140,
                 "metaTitle": null,
                 "name": "USB-adapters (PS2, Seriell, Parallell)",
@@ -3204,6 +3133,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10153,
           "name": "Steelseries nyheter"
         },
@@ -3216,40 +3157,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
+          "id": 4619,
+          "name": "Webhallen Config"
         },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "description": "Headset HS80 Max - köp nu! ",
-        "highlightId": 2859,
-        "id": 6805,
-        "imageUrl": "/images/684124",
-        "priority": 2.5,
-        "product": {
-          "id": 364131,
-          "metaTitle": null,
-          "name": "Corsair HS80 MAX Wireless - Steel Gray"
-        }
-      },
-      {
-        "button": null,
-        "description": "Håll dig säker online - Norton",
-        "highlightId": 2089,
-        "id": 6836,
-        "imageUrl": "/images/692871",
-        "priority": 2.5,
-        "product": {
-          "id": 302629,
-          "metaTitle": null,
-          "name": "Norton 360 Deluxe - 50GB Lagring / VPN / 1 år / 5 användare - ATTACH"
-        }
+        "description": "Våra egna gaming-datorer!",
+        "highlightId": 6,
+        "id": 53,
+        "imageUrl": "/images/653188",
+        "priority": 2
       },
       {
         "button": null,
@@ -3276,18 +3191,6 @@
           "metaTitle": null,
           "name": "Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 4619,
-          "name": "Webhallen Config"
-        },
-        "description": "Våra egna gaming-datorer!",
-        "highlightId": 6,
-        "id": 53,
-        "imageUrl": "/images/653188",
-        "priority": 2
       },
       {
         "button": null,
@@ -4277,18 +4180,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10145,
           "name": "Nvidia RTX - Alan Wake 2 på köpet"
         },
@@ -4296,6 +4187,18 @@
         "highlightId": 2958,
         "id": 6862,
         "imageUrl": "/images/694200",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -6351,19 +6254,6 @@
     "highlights": [
       {
         "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 352649,
-          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
-          "name": "Apple AirPods Pro 2nd gen (2022)"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 9744,
           "name": "Apple HomePod (2nd generation)"
@@ -6445,6 +6335,19 @@
         "id": 6780,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
         "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 352649,
+          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
+          "name": "Apple AirPods Pro 2nd gen (2022)"
+        }
       }
     ],
     "icon": "apple",
@@ -7625,18 +7528,6 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10154,
-          "name": "Samsung Galaxy S22 + Buds2 Bundle"
-        },
-        "description": "Köp Samsung Galaxy S22 och få Buds2 på köpet",
-        "highlightId": 2953,
-        "id": 6854,
-        "imageUrl": "https://www.webhallen.com/images/694128-SamsungSEGalaxyS22Buds2BundleWebhallenC?raw",
         "priority": 5
       },
       {
@@ -8870,6 +8761,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9926,
           "name": "Philips Robotdammsugare"
         },
@@ -8889,18 +8792,6 @@
         "highlightId": 2965,
         "id": 6872,
         "imageUrl": "https://www.webhallen.com/images/695035-AF-Webhallen-HD9285-oct23-992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -9845,18 +9736,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 6813,
-          "name": "LEGO"
-        },
-        "description": "Utforska vårt stora sortiment av LEGO!",
-        "highlightId": 967,
-        "id": 2314,
-        "imageUrl": "/images/672497",
-        "priority": 10000
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8696,
           "name": "Brädspelstips: Webhallens favoritspel"
         },
@@ -9864,6 +9743,18 @@
         "highlightId": 1650,
         "id": 4242,
         "imageUrl": "/images/670551",
+        "priority": 10000
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 6813,
+          "name": "LEGO"
+        },
+        "description": "Utforska vårt stora sortiment av LEGO!",
+        "highlightId": 967,
+        "id": 2314,
+        "imageUrl": "/images/672497",
         "priority": 10000
       },
       {
@@ -9880,6 +9771,18 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 9085,
+          "name": "CLEAROUT"
+        },
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
+      },
+      {
+        "button": null,
         "category": {
           "id": 4661,
           "internalName": "Pokemon Trading Card Game",
@@ -9889,18 +9792,6 @@
         "highlightId": 1684,
         "id": 4039,
         "imageUrl": "/images/671754",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
