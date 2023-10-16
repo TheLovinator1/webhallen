@@ -215,6 +215,12 @@
       "abnormalOpenHours": [
         {
           "closing": null,
+          "date": "2023-10-16",
+          "label": "Stängt pga renovering",
+          "opening": null
+        },
+        {
+          "closing": null,
           "date": "2023-10-17",
           "label": "Stängt pga renovering",
           "opening": null
