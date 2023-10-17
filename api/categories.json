@@ -838,6 +838,31 @@
     "highlights": [
       {
         "button": null,
+        "description": "",
+        "highlightId": 2955,
+        "id": 6856,
+        "imageUrl": "/images/694189",
+        "priority": 5,
+        "product": {
+          "id": 362686,
+          "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
+          "name": "Super Mario Bros Wonder (Switch)"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10163,
+          "name": "Spider-Man Nattöppet 19/10"
+        },
+        "description": "NATTÖPPET 19/10!",
+        "highlightId": 2972,
+        "id": 6904,
+        "imageUrl": "/images/695885",
+        "priority": 5
+      },
+      {
+        "button": null,
         "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
@@ -870,31 +895,6 @@
         "highlightId": 2946,
         "id": 6883,
         "imageUrl": "/images/693269",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "description": "",
-        "highlightId": 2955,
-        "id": 6856,
-        "imageUrl": "/images/694189",
-        "priority": 5,
-        "product": {
-          "id": 362686,
-          "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
-          "name": "Super Mario Bros Wonder (Switch)"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10163,
-          "name": "Spider-Man Nattöppet 19/10"
-        },
-        "description": "NATTÖPPET 19/10!",
-        "highlightId": 2972,
-        "id": 6904,
-        "imageUrl": "/images/695885",
         "priority": 5
       },
       {
@@ -948,18 +948,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10167,
-          "name": "Sonic Superstars"
-        },
-        "description": "Förboka Sonic Superstars idag! ",
-        "highlightId": 2968,
-        "id": 6894,
-        "imageUrl": "/images/695604",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10168,
           "name": "Hot Wheels Unleashed"
         },
@@ -968,6 +956,18 @@
         "id": 6897,
         "imageUrl": "/images/695684",
         "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10167,
+          "name": "Sonic Superstars"
+        },
+        "description": "Nu kan du äntligen köpa Sonic Superstars! ",
+        "highlightId": 2969,
+        "id": 6896,
+        "imageUrl": "/images/695629",
+        "priority": 2.5
       },
       {
         "button": null,
@@ -1544,18 +1544,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
-        "priority": 4
-      },
-      {
-        "button": null,
         "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
         "highlightId": 2967,
         "id": 6901,
@@ -1566,6 +1554,18 @@
           "metaTitle": null,
           "name": "Sony Inzone H5 Wireless - Black"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9085,
+          "name": "CLEAROUT"
+        },
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
       },
       {
         "button": null,
@@ -1614,32 +1614,6 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
-      },
-      {
-        "button": null,
-        "description": "Uppgradera gamingmusen till Scimitar Wireless!",
-        "highlightId": 2863,
-        "id": 6802,
-        "imageUrl": "/images/684179",
-        "priority": 2,
-        "product": {
-          "id": 364136,
-          "metaTitle": null,
-          "name": "Corsair Scimitar Elite Wireless MMO Gaming Mouse"
-        }
-      },
-      {
-        "button": null,
-        "description": "Keyboard K7 Max - köp nu! ",
-        "highlightId": 2860,
-        "id": 6804,
-        "imageUrl": "/images/684125",
-        "priority": 2,
-        "product": {
-          "id": 364134,
-          "metaTitle": null,
-          "name": "Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard"
-        }
       }
     ],
     "icon": "gaming",
@@ -3133,18 +3107,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
-        },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10153,
           "name": "Steelseries nyheter"
         },
@@ -3152,6 +3114,18 @@
         "highlightId": 2944,
         "id": 6838,
         "imageUrl": "/images/693190",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
         "priority": 3
       },
       {
@@ -3165,32 +3139,6 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
-      },
-      {
-        "button": null,
-        "description": "Uppgradera gamingmusen till Scimitar Wireless!",
-        "highlightId": 2863,
-        "id": 6802,
-        "imageUrl": "/images/684179",
-        "priority": 2,
-        "product": {
-          "id": 364136,
-          "metaTitle": null,
-          "name": "Corsair Scimitar Elite Wireless MMO Gaming Mouse"
-        }
-      },
-      {
-        "button": null,
-        "description": "Keyboard K7 Max - köp nu! ",
-        "highlightId": 2860,
-        "id": 6804,
-        "imageUrl": "/images/684125",
-        "priority": 2,
-        "product": {
-          "id": 364134,
-          "metaTitle": null,
-          "name": "Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard"
-        }
       },
       {
         "button": null,
@@ -3469,6 +3417,13 @@
                 "id": 16722,
                 "metaTitle": null,
                 "name": "Socket 1700 Raptor Lake",
+                "subCategories": []
+              },
+              {
+                "icon": "processorer",
+                "id": 16837,
+                "metaTitle": null,
+                "name": "Socket 1700 Raptor Lake-S",
                 "subCategories": []
               },
               {
@@ -4180,18 +4135,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10145,
-          "name": "Nvidia RTX - Alan Wake 2 på köpet"
-        },
-        "description": "Köp en GPU/dator ur kampanjen och få Alan Wake 2 Gratis!",
-        "highlightId": 2958,
-        "id": 6862,
-        "imageUrl": "/images/694200",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
@@ -4199,6 +4142,18 @@
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10145,
+          "name": "Nvidia RTX - Alan Wake 2 på köpet"
+        },
+        "description": "Köp en GPU/dator ur kampanjen och få Alan Wake 2 Gratis!",
+        "highlightId": 2958,
+        "id": 6862,
+        "imageUrl": "/images/694200",
         "priority": 1
       }
     ],
@@ -5696,6 +5651,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 10175,
+          "name": "Bose QuietComfort Headphones & Earbuds"
+        },
+        "description": "Upptäck den nya generationen av BOSE-hörlurar",
+        "highlightId": 2975,
+        "id": 6912,
+        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10181,
+          "name": "Bose Smart Ultra Soundbar"
+        },
+        "description": "Uppslukande rumsligt ljud med Dolby Atmos och TrueSpace",
+        "highlightId": 2976,
+        "id": 6914,
+        "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -5728,19 +5707,6 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
-      },
-      {
-        "button": null,
-        "description": "Upptäck Bose QuiteComfort 45",
-        "highlightId": 2549,
-        "id": 5880,
-        "imageUrl": "/images/653820",
-        "priority": 1.5,
-        "product": {
-          "id": 339214,
-          "metaTitle": null,
-          "name": "Bose Quiet Comfort 45 - Svart"
-        }
       },
       {
         "button": null,
@@ -6255,6 +6221,31 @@
       {
         "button": null,
         "campaign": {
+          "id": 10075,
+          "name": "iPhone 15"
+        },
+        "description": "Ny kamera. Ny design. Nyförälskelse.",
+        "highlightId": 2920,
+        "id": 6877,
+        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 352649,
+          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
+          "name": "Apple AirPods Pro 2nd gen (2022)"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9744,
           "name": "Apple HomePod (2nd generation)"
         },
@@ -6327,27 +6318,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10075,
-          "name": "iPhone 15"
+          "id": 10086,
+          "name": "Apple Watch Series 9"
         },
-        "description": "Ny kamera. Ny design. Nyförälskelse.",
-        "highlightId": 2920,
-        "id": 6780,
-        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "description": "Smartare. Ljusare. Mäktigare.",
+        "highlightId": 2921,
+        "id": 6876,
+        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
         "priority": 1
-      },
-      {
-        "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 352649,
-          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
-          "name": "Apple AirPods Pro 2nd gen (2022)"
-        }
       }
     ],
     "icon": "apple",
@@ -7495,19 +7473,6 @@
       },
       {
         "button": null,
-        "description": "Kampanj på avancerad löparklocka från Garmin",
-        "highlightId": 2843,
-        "id": 6874,
-        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
-        "priority": 5,
-        "product": {
-          "id": 362396,
-          "metaTitle": null,
-          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 10146,
           "name": "Galaxy Tab S9 FE"
@@ -7516,6 +7481,18 @@
         "highlightId": 2957,
         "id": 6888,
         "imageUrl": "https://www.webhallen.com/images/694197-SamsungSEGalaxyTabS9FELaunchOfferWebhall?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9970,
+          "name": "Galaxy S23 | Z Flip5 | Z Fold5 Bundle"
+        },
+        "description": "Köp Galaxy S23 / Z Flip5 / Z Fold5 & få Watch6 på köpet!",
+        "highlightId": 2973,
+        "id": 6907,
+        "imageUrl": "https://www.webhallen.com/images/695917-SEGAL4?raw",
         "priority": 5
       },
       {
@@ -7532,6 +7509,19 @@
       },
       {
         "button": null,
+        "description": "Kampanj på avancerad löparklocka från Garmin",
+        "highlightId": 2843,
+        "id": 6874,
+        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
+        "priority": 5,
+        "product": {
+          "id": 362396,
+          "metaTitle": null,
+          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
+        }
+      },
+      {
+        "button": null,
         "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
@@ -7541,30 +7531,6 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10078,
-          "name": "iPhone 15 Pro"
-        },
-        "description": "Titan. Stark. Lätt. Pro.",
-        "highlightId": 2923,
-        "id": 6794,
-        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
-        "priority": 1
       },
       {
         "button": null,
@@ -7593,13 +7559,13 @@
       {
         "button": null,
         "campaign": {
-          "id": 10075,
-          "name": "iPhone 15"
+          "id": 9871,
+          "name": "Tech light in fall darkness"
         },
-        "description": "Ny kamera. Ny design. Nyförälskelse.",
-        "highlightId": 2920,
-        "id": 6780,
-        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -8808,18 +8774,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
-        "priority": 1
-      },
-      {
-        "button": null,
         "category": {
           "id": 2486,
           "internalName": "Luftrenare Allergi",
@@ -8829,6 +8783,18 @@
         "highlightId": 491,
         "id": 5441,
         "imageUrl": "/images/547367",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -8893,6 +8859,13 @@
             "id": 16248,
             "metaTitle": null,
             "name": "LEGO Adventskalendrar",
+            "subCategories": []
+          },
+          {
+            "icon": "lego",
+            "id": 16851,
+            "metaTitle": null,
+            "name": "LEGO Animal Crossing",
             "subCategories": []
           },
           {
@@ -9771,18 +9744,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
-        "priority": 4
-      },
-      {
-        "button": null,
         "category": {
           "id": 4661,
           "internalName": "Pokemon Trading Card Game",
@@ -9792,6 +9753,18 @@
         "highlightId": 1684,
         "id": 4039,
         "imageUrl": "/images/671754",
+        "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9085,
+          "name": "CLEAROUT"
+        },
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       },
       {
