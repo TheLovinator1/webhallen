@@ -900,18 +900,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9935,
           "name": "Assassins Creed Mirage"
         },
@@ -924,26 +912,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10053,
-          "name": "NHL24"
+          "id": 9085,
+          "name": "CLEAROUT"
         },
-        "description": "Nu kan du köpa NHL 24! ",
-        "highlightId": 2974,
-        "id": 6909,
-        "imageUrl": "/images/696112",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10148,
-          "name": "Lords of the Fallen"
-        },
-        "description": "Nu kan du köpa Lords of the fallen!",
-        "highlightId": 2963,
-        "id": 6867,
-        "imageUrl": "/images/694806",
-        "priority": 3
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
       },
       {
         "button": null,
@@ -960,14 +936,27 @@
       {
         "button": null,
         "campaign": {
-          "id": 10167,
-          "name": "Sonic Superstars"
+          "id": 10148,
+          "name": "Lords of the Fallen"
         },
+        "description": "Nu kan du köpa Lords of the fallen!",
+        "highlightId": 2963,
+        "id": 6867,
+        "imageUrl": "/images/694806",
+        "priority": 3
+      },
+      {
+        "button": null,
         "description": "Nu kan du äntligen köpa Sonic Superstars! ",
         "highlightId": 2969,
         "id": 6896,
         "imageUrl": "/images/695629",
-        "priority": 2.5
+        "priority": 2.5,
+        "product": {
+          "id": 362841,
+          "metaTitle": null,
+          "name": "Sonic Superstars (PS5)"
+        }
       },
       {
         "button": null,
@@ -1532,18 +1521,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9935,
-          "name": "Assassins Creed Mirage"
-        },
-        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
-        "highlightId": 2950,
-        "id": 6851,
-        "imageUrl": "/images/693364",
-        "priority": 4
-      },
-      {
-        "button": null,
         "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
         "highlightId": 2967,
         "id": 6901,
@@ -1570,14 +1547,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
+          "id": 9935,
+          "name": "Assassins Creed Mirage"
         },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
+        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
+        "highlightId": 2950,
+        "id": 6851,
+        "imageUrl": "/images/693364",
+        "priority": 4
       },
       {
         "button": null,
@@ -1601,6 +1578,18 @@
         "highlightId": 2944,
         "id": 6838,
         "imageUrl": "/images/693190",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
         "priority": 3
       },
       {
@@ -4135,18 +4124,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10145,
           "name": "Nvidia RTX - Alan Wake 2 på köpet"
         },
@@ -4154,6 +4131,18 @@
         "highlightId": 2958,
         "id": 6862,
         "imageUrl": "/images/694200",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -4764,13 +4753,6 @@
           },
           {
             "icon": "natverkskameror",
-            "id": 16070,
-            "metaTitle": "Nest",
-            "name": "Nest",
-            "subCategories": []
-          },
-          {
-            "icon": "natverkskameror",
             "id": 15936,
             "metaTitle": "SmartHome",
             "name": "SmartHome Kamera",
@@ -4802,7 +4784,7 @@
           {
             "icon": "3d_skrivare",
             "id": 16357,
-            "metaTitle": "3D-pennor -",
+            "metaTitle": "3D-pennor - Se våra bästa 3D-pennor!",
             "name": "3D-pennor",
             "subCategories": []
           },
@@ -5057,7 +5039,7 @@
           {
             "icon": "tv",
             "id": 16733,
-            "metaTitle": "QLED-TV - Stöd för 4K-upplösning!",
+            "metaTitle": "QLED - TV med stöd för 4K-upplösning!",
             "name": "QLED",
             "subCategories": []
           },
@@ -5651,18 +5633,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10175,
-          "name": "Bose QuietComfort Headphones & Earbuds"
-        },
-        "description": "Upptäck den nya generationen av BOSE-hörlurar",
-        "highlightId": 2975,
-        "id": 6912,
-        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10181,
           "name": "Bose Smart Ultra Soundbar"
         },
@@ -5687,6 +5657,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9544,
+          "name": "Upplev Philips Ambilight TV i 100 dagar"
+        },
+        "description": "Testa Philips Ambilight i 100 dagar & vinn biljetter till en FC Barcelona-match",
+        "highlightId": 2952,
+        "id": 6922,
+        "imageUrl": "https://www.webhallen.com/images/696611-2651philipsWebhallenTile-bannerNoCTA992x?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9979,
           "name": "Sony WF-1000XM5"
         },
@@ -5694,6 +5676,18 @@
         "highlightId": 2802,
         "id": 6510,
         "imageUrl": "/images/684117",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10175,
+          "name": "Bose QuietComfort Headphones & Earbuds"
+        },
+        "description": "Upptäck den nya generationen av BOSE-hörlurar",
+        "highlightId": 2975,
+        "id": 6912,
+        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
         "priority": 5
       },
       {
@@ -6221,31 +6215,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10075,
-          "name": "iPhone 15"
-        },
-        "description": "Ny kamera. Ny design. Nyförälskelse.",
-        "highlightId": 2920,
-        "id": 6877,
-        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 352649,
-          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
-          "name": "Apple AirPods Pro 2nd gen (2022)"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9744,
           "name": "Apple HomePod (2nd generation)"
         },
@@ -6326,6 +6295,31 @@
         "id": 6876,
         "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
         "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10075,
+          "name": "iPhone 15"
+        },
+        "description": "Ny kamera. Ny design. Nyförälskelse.",
+        "highlightId": 2920,
+        "id": 6877,
+        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 352649,
+          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
+          "name": "Apple AirPods Pro 2nd gen (2022)"
+        }
       }
     ],
     "icon": "apple",
@@ -7286,6 +7280,13 @@
             "metaTitle": "OnePlus Skärmskydd - stort utbud från bra tillverkare",
             "name": "OnePlus",
             "subCategories": []
+          },
+          {
+            "icon": "displayskydd",
+            "id": 9258,
+            "metaTitle": "Sony Displayskydd - stort utbud från bra tillverkare",
+            "name": "Sony",
+            "subCategories": []
           }
         ]
       },
@@ -7462,6 +7463,31 @@
       {
         "button": null,
         "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "description": "Kampanj på avancerad löparklocka från Garmin",
+        "highlightId": 2843,
+        "id": 6874,
+        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
+        "priority": 5,
+        "product": {
+          "id": 362396,
+          "metaTitle": null,
+          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10073,
           "name": "Sony Xperia 5 V"
         },
@@ -7494,31 +7520,6 @@
         "id": 6907,
         "imageUrl": "https://www.webhallen.com/images/695917-SEGAL4?raw",
         "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "description": "Kampanj på avancerad löparklocka från Garmin",
-        "highlightId": 2843,
-        "id": 6874,
-        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
-        "priority": 5,
-        "product": {
-          "id": 362396,
-          "metaTitle": null,
-          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
-        }
       },
       {
         "button": null,
@@ -8727,6 +8728,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9925,
+          "name": "Philips Airfryers & Köksmaskiner"
+        },
+        "description": "Laga nyttig mat enkelt med Philips AirFryer",
+        "highlightId": 2965,
+        "id": 6872,
+        "imageUrl": "https://www.webhallen.com/images/696537-AF-Webhallen-HD9285-oct23-992x558-SE2?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -8751,18 +8764,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9925,
-          "name": "Philips Airfryers & Köksmaskiner"
-        },
-        "description": "Laga nyttig mat enkelt med Philips AirFryer",
-        "highlightId": 2965,
-        "id": 6872,
-        "imageUrl": "https://www.webhallen.com/images/695035-AF-Webhallen-HD9285-oct23-992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -8771,6 +8772,18 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "priority": 1
       },
       {
         "button": null,
@@ -8783,18 +8796,6 @@
         "highlightId": 491,
         "id": 5441,
         "imageUrl": "/images/547367",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -9709,18 +9710,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8696,
-          "name": "Brädspelstips: Webhallens favoritspel"
-        },
-        "description": "Hitta rätt i brädspelsdjungeln!",
-        "highlightId": 1650,
-        "id": 4242,
-        "imageUrl": "/images/670551",
-        "priority": 10000
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 6813,
           "name": "LEGO"
         },
@@ -9728,6 +9717,18 @@
         "highlightId": 967,
         "id": 2314,
         "imageUrl": "/images/672497",
+        "priority": 10000
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8696,
+          "name": "Brädspelstips: Webhallens favoritspel"
+        },
+        "description": "Hitta rätt i brädspelsdjungeln!",
+        "highlightId": 1650,
+        "id": 4242,
+        "imageUrl": "/images/670551",
         "priority": 10000
       },
       {
@@ -10208,13 +10209,6 @@
                 "id": 4886,
                 "metaTitle": "REA - TV-apparater - Köp Smart-TV billigt!",
                 "name": "TV-apparater",
-                "subCategories": []
-              },
-              {
-                "icon": "chromecast_apple_tv",
-                "id": 4887,
-                "metaTitle": "REA Mediaspelare - Fynda billiga mediaspelare",
-                "name": "Mediaspelare",
                 "subCategories": []
               },
               {
