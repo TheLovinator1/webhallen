@@ -1,7 +1,20 @@
 {
   "stores": [
     {
-      "abnormalOpenHours": [],
+      "abnormalOpenHours": [
+        {
+          "closing": "20:00",
+          "date": "2023-11-16",
+          "label": null,
+          "opening": "10:00"
+        },
+        {
+          "closing": "20:00",
+          "date": "2023-11-17",
+          "label": null,
+          "opening": "10:00"
+        }
+      ],
       "address": "Bergkällavägen 26",
       "city": "Sollentuna",
       "id": 1,
