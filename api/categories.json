@@ -702,13 +702,6 @@
           },
           {
             "icon": "xbox_one",
-            "id": 4425,
-            "metaTitle": "Kommande spel till Xbox One",
-            "name": "Kommande spel",
-            "subCategories": []
-          },
-          {
-            "icon": "xbox_one",
             "id": 5426,
             "metaTitle": "Headset Xbox One",
             "name": "Headset",
@@ -927,10 +920,10 @@
           "id": 10168,
           "name": "Hot Wheels Unleashed"
         },
-        "description": "Förboka redan idag! ",
-        "highlightId": 2970,
-        "id": 6897,
-        "imageUrl": "/images/695684",
+        "description": "",
+        "highlightId": 2971,
+        "id": 6898,
+        "imageUrl": "/images/695685",
         "priority": 3
       },
       {
@@ -1559,6 +1552,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10160,
           "name": "SanDisk - SD kort för gaming"
         },
@@ -1578,18 +1583,6 @@
         "highlightId": 2944,
         "id": 6838,
         "imageUrl": "/images/693190",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
-        },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
         "priority": 3
       },
       {
@@ -3069,6 +3062,18 @@
     ],
     "color": "#24a552",
     "highlights": [
+      {
+        "button": null,
+        "campaign": {
+          "id": 9915,
+          "name": "Google Pixel Tablet"
+        },
+        "description": "Medlemspris & Studentrabatt - Spara 1000 kr",
+        "highlightId": 2964,
+        "id": 6924,
+        "imageUrl": "https://www.webhallen.com/images/694835-Google-Pixel-Tablet-Site-Mobil-TileBanner-99?raw",
+        "priority": 5
+      },
       {
         "button": null,
         "campaign": {
@@ -4749,6 +4754,13 @@
             "id": 16416,
             "metaTitle": "Eufy - Hemkameror som också är snygga!",
             "name": "Eufy",
+            "subCategories": []
+          },
+          {
+            "icon": "natverkskameror",
+            "id": 16070,
+            "metaTitle": "Nest",
+            "name": "Nest",
             "subCategories": []
           },
           {
@@ -7524,6 +7536,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9915,
+          "name": "Google Pixel Tablet"
+        },
+        "description": "Medlemspris & Studentrabatt - Spara 1000 kr",
+        "highlightId": 2964,
+        "id": 6924,
+        "imageUrl": "https://www.webhallen.com/images/694835-Google-Pixel-Tablet-Site-Mobil-TileBanner-99?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -8775,18 +8799,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
-        "priority": 1
-      },
-      {
-        "button": null,
         "category": {
           "id": 2486,
           "internalName": "Luftrenare Allergi",
@@ -8796,6 +8808,18 @@
         "highlightId": 491,
         "id": 5441,
         "imageUrl": "/images/547367",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
