@@ -831,31 +831,6 @@
     "highlights": [
       {
         "button": null,
-        "description": "",
-        "highlightId": 2955,
-        "id": 6856,
-        "imageUrl": "/images/694189",
-        "priority": 5,
-        "product": {
-          "id": 362686,
-          "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
-          "name": "Super Mario Bros Wonder (Switch)"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10163,
-          "name": "Spider-Man Nattöppet 19/10"
-        },
-        "description": "NATTÖPPET 19/10!",
-        "highlightId": 2972,
-        "id": 6904,
-        "imageUrl": "/images/695885",
-        "priority": 5
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
@@ -874,7 +849,7 @@
         },
         "description": "Förboka Spider-man 2 idag!",
         "highlightId": 2781,
-        "id": 6457,
+        "id": 6739,
         "imageUrl": "/images/680562",
         "priority": 5
       },
@@ -901,6 +876,19 @@
         "id": 6851,
         "imageUrl": "/images/693364",
         "priority": 4
+      },
+      {
+        "button": null,
+        "description": "",
+        "highlightId": 2956,
+        "id": 6858,
+        "imageUrl": "/images/694191",
+        "priority": 4,
+        "product": {
+          "id": 362686,
+          "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
+          "name": "Super Mario Bros Wonder (Switch)"
+        }
       },
       {
         "button": null,
@@ -1502,18 +1490,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9960,
-          "name": "Spider-Man 2"
-        },
-        "description": "Förboka Spider-man 2 idag!",
-        "highlightId": 2781,
-        "id": 6457,
-        "imageUrl": "/images/680562",
-        "priority": 5
-      },
-      {
-        "button": null,
         "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
         "highlightId": 2967,
         "id": 6901,
@@ -1552,18 +1528,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
-        },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10160,
           "name": "SanDisk - SD kort för gaming"
         },
@@ -1583,6 +1547,18 @@
         "highlightId": 2944,
         "id": 6838,
         "imageUrl": "/images/693190",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
         "priority": 3
       },
       {
@@ -2842,6 +2818,13 @@
                 "id": 141,
                 "metaTitle": null,
                 "name": "USB-Hubbar",
+                "subCategories": []
+              },
+              {
+                "icon": "usbkabel",
+                "id": 4854,
+                "metaTitle": null,
+                "name": "USB-kabel korslänkade A -> A",
                 "subCategories": []
               },
               {
@@ -5645,18 +5628,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10181,
-          "name": "Bose Smart Ultra Soundbar"
-        },
-        "description": "Uppslukande rumsligt ljud med Dolby Atmos och TrueSpace",
-        "highlightId": 2976,
-        "id": 6914,
-        "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -5700,6 +5671,18 @@
         "highlightId": 2975,
         "id": 6912,
         "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10181,
+          "name": "Bose Smart Ultra Soundbar"
+        },
+        "description": "Uppslukande rumsligt ljud med Dolby Atmos och TrueSpace",
+        "highlightId": 2976,
+        "id": 6914,
+        "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
         "priority": 5
       },
       {
@@ -6991,13 +6974,6 @@
                 "id": 16412,
                 "metaTitle": "Mobilskal iPhone 12 Pro - Snygga skal - Bättre priser!",
                 "name": "iPhone 12 Pro",
-                "subCategories": []
-              },
-              {
-                "icon": "mobilfodral",
-                "id": 16414,
-                "metaTitle": null,
-                "name": "iPhone 12 Pro Max",
                 "subCategories": []
               },
               {
