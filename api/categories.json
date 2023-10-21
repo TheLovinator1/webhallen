@@ -832,30 +832,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9960,
-          "name": "Spider-Man 2"
-        },
-        "description": "Förboka Spider-man 2 idag!",
-        "highlightId": 2781,
-        "id": 6739,
-        "imageUrl": "/images/680562",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10059,
           "name": "Meta Quest 3"
         },
@@ -863,6 +839,18 @@
         "highlightId": 2946,
         "id": 6883,
         "imageUrl": "/images/693269",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -879,14 +867,14 @@
       },
       {
         "button": null,
-        "description": "",
+        "description": "Nu är väntan över - köp Super Mario Bros Wonder idag! ",
         "highlightId": 2956,
         "id": 6858,
         "imageUrl": "/images/694191",
         "priority": 4,
         "product": {
           "id": 362686,
-          "metaTitle": "Förhandsboka Super Mario Bros Wonder (Nintendo Switch)",
+          "metaTitle": "Köp nya Super Mario Bros Wonder (Nintendo Switch)",
           "name": "Super Mario Bros Wonder (Switch)"
         }
       },
@@ -901,6 +889,18 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9960,
+          "name": "Spider-Man 2"
+        },
+        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
+        "highlightId": 2904,
+        "id": 6742,
+        "imageUrl": "/images/696876",
+        "priority": 3
       },
       {
         "button": null,
@@ -942,6 +942,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8666,
           "name": "Playstation 5 Tillbehör"
         },
@@ -949,18 +961,6 @@
         "highlightId": 1619,
         "id": 3916,
         "imageUrl": "/images/617338",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -1490,6 +1490,18 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 9935,
+          "name": "Assassins Creed Mirage"
+        },
+        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
+        "highlightId": 2950,
+        "id": 6851,
+        "imageUrl": "/images/693364",
+        "priority": 4
+      },
+      {
+        "button": null,
         "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
         "highlightId": 2967,
         "id": 6901,
@@ -1516,30 +1528,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9935,
-          "name": "Assassins Creed Mirage"
-        },
-        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
-        "highlightId": 2950,
-        "id": 6851,
-        "imageUrl": "/images/693364",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10160,
-          "name": "SanDisk - SD kort för gaming"
-        },
-        "description": "Utrusta din Nintendo Switch med SanDisk-lagring!",
-        "highlightId": 2966,
-        "id": 6906,
-        "imageUrl": "/images/695223",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10153,
           "name": "Steelseries nyheter"
         },
@@ -1559,6 +1547,18 @@
         "highlightId": 2954,
         "id": 6855,
         "imageUrl": "/images/694133",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10160,
+          "name": "SanDisk - SD kort för gaming"
+        },
+        "description": "Utrusta din Nintendo Switch med SanDisk-lagring!",
+        "highlightId": 2966,
+        "id": 6906,
+        "imageUrl": "/images/695223",
         "priority": 3
       },
       {
@@ -3126,7 +3126,7 @@
         "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "imageUrl": "/images/696884",
         "priority": 1
       }
     ],
@@ -4112,6 +4112,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10145,
           "name": "Nvidia RTX - Alan Wake 2 på köpet"
         },
@@ -4119,18 +4131,6 @@
         "highlightId": 2958,
         "id": 6862,
         "imageUrl": "/images/694200",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
         "priority": 1
       }
     ],
@@ -4950,7 +4950,7 @@
         "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "imageUrl": "/images/696884",
         "priority": 1
       }
     ],
@@ -5628,6 +5628,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 10175,
+          "name": "Bose QuietComfort Headphones & Earbuds"
+        },
+        "description": "Upptäck den nya generationen av BOSE-hörlurar",
+        "highlightId": 2975,
+        "id": 6912,
+        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10181,
+          "name": "Bose Smart Ultra Soundbar"
+        },
+        "description": "Uppslukande rumsligt ljud med Dolby Atmos och TrueSpace",
+        "highlightId": 2976,
+        "id": 6914,
+        "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -5664,30 +5688,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10175,
-          "name": "Bose QuietComfort Headphones & Earbuds"
-        },
-        "description": "Upptäck den nya generationen av BOSE-hörlurar",
-        "highlightId": 2975,
-        "id": 6912,
-        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10181,
-          "name": "Bose Smart Ultra Soundbar"
-        },
-        "description": "Uppslukande rumsligt ljud med Dolby Atmos och TrueSpace",
-        "highlightId": 2976,
-        "id": 6914,
-        "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -5706,7 +5706,7 @@
         "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "imageUrl": "/images/696884",
         "priority": 1
       }
     ],
@@ -6210,6 +6210,43 @@
       {
         "button": null,
         "campaign": {
+          "id": 10086,
+          "name": "Apple Watch Series 9"
+        },
+        "description": "Smartare. Ljusare. Mäktigare.",
+        "highlightId": 2921,
+        "id": 6876,
+        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10075,
+          "name": "iPhone 15"
+        },
+        "description": "Ny kamera. Ny design. Nyförälskelse.",
+        "highlightId": 2920,
+        "id": 6877,
+        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 352649,
+          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
+          "name": "Apple AirPods Pro 2nd gen (2022)"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9744,
           "name": "Apple HomePod (2nd generation)"
         },
@@ -6278,43 +6315,6 @@
         "id": 6438,
         "imageUrl": "https://www.webhallen.com/images/680535-Tilebanner-MacStudio992x558?raw",
         "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10086,
-          "name": "Apple Watch Series 9"
-        },
-        "description": "Smartare. Ljusare. Mäktigare.",
-        "highlightId": 2921,
-        "id": 6876,
-        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10075,
-          "name": "iPhone 15"
-        },
-        "description": "Ny kamera. Ny design. Nyförälskelse.",
-        "highlightId": 2920,
-        "id": 6877,
-        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 352649,
-          "metaTitle": "Apple AirPods Pro 2nd gen - 6 timmars batteritid! ",
-          "name": "Apple AirPods Pro 2nd gen (2022)"
-        }
       }
     ],
     "icon": "apple",
@@ -6978,6 +6978,13 @@
               },
               {
                 "icon": "mobilfodral",
+                "id": 16414,
+                "metaTitle": null,
+                "name": "iPhone 12 Pro Max",
+                "subCategories": []
+              },
+              {
+                "icon": "mobilfodral",
                 "id": 16541,
                 "metaTitle": "Mobilskal iPhone 13 - Snygga mobilskal",
                 "name": "iPhone 13",
@@ -7462,31 +7469,6 @@
       },
       {
         "button": null,
-        "description": "Kampanj på avancerad löparklocka från Garmin",
-        "highlightId": 2843,
-        "id": 6874,
-        "imageUrl": "https://www.webhallen.com/images/683589-Garmin-3rd-992x558-FR745-avp20230712-se?raw",
-        "priority": 5,
-        "product": {
-          "id": 362396,
-          "metaTitle": null,
-          "name": "Garmin Forerunner 745 / GPS / EU/PAC - Svart"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10073,
-          "name": "Sony Xperia 5 V"
-        },
-        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
-        "highlightId": 2919,
-        "id": 6776,
-        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 10146,
           "name": "Galaxy Tab S9 FE"
@@ -7507,6 +7489,18 @@
         "highlightId": 2973,
         "id": 6907,
         "imageUrl": "https://www.webhallen.com/images/695917-SEGAL4?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10073,
+          "name": "Sony Xperia 5 V"
+        },
+        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
+        "highlightId": 2919,
+        "id": 6776,
+        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
         "priority": 5
       },
       {
@@ -7566,7 +7560,7 @@
         "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "imageUrl": "/images/696884",
         "priority": 1
       }
     ],
@@ -8795,7 +8789,7 @@
         "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "imageUrl": "/images/696884",
         "priority": 1
       }
     ],
@@ -9777,7 +9771,7 @@
         "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
         "highlightId": 2962,
         "id": 6871,
-        "imageUrl": "/images/694804-Tech-light-in-fall-darkness-Site-Mobil-TileB",
+        "imageUrl": "/images/696884",
         "priority": 1
       }
     ],
