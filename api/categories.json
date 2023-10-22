@@ -1528,18 +1528,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10153,
-          "name": "Steelseries nyheter"
-        },
-        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
-        "highlightId": 2944,
-        "id": 6838,
-        "imageUrl": "/images/693190",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8249,
           "name": "Monthly Gaming Deals"
         },
@@ -1559,6 +1547,18 @@
         "highlightId": 2966,
         "id": 6906,
         "imageUrl": "/images/695223",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10153,
+          "name": "Steelseries nyheter"
+        },
+        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
+        "highlightId": 2944,
+        "id": 6838,
+        "imageUrl": "/images/693190",
         "priority": 3
       },
       {
@@ -3084,18 +3084,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10153,
-          "name": "Steelseries nyheter"
-        },
-        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
-        "highlightId": 2944,
-        "id": 6838,
-        "imageUrl": "/images/693190",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8249,
           "name": "Monthly Gaming Deals"
         },
@@ -3103,6 +3091,18 @@
         "highlightId": 2954,
         "id": 6855,
         "imageUrl": "/images/694133",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10153,
+          "name": "Steelseries nyheter"
+        },
+        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
+        "highlightId": 2944,
+        "id": 6838,
+        "imageUrl": "/images/693190",
         "priority": 3
       },
       {
@@ -3724,13 +3724,6 @@
                     "id": 16297,
                     "metaTitle": null,
                     "name": "Soft Tubing",
-                    "subCategories": []
-                  },
-                  {
-                    "icon": "vattenkylning",
-                    "id": 16298,
-                    "metaTitle": null,
-                    "name": "Hard Tubing",
                     "subCategories": []
                   }
                 ]
@@ -6209,30 +6202,6 @@
     "highlights": [
       {
         "button": null,
-        "campaign": {
-          "id": 10086,
-          "name": "Apple Watch Series 9"
-        },
-        "description": "Smartare. Ljusare. Mäktigare.",
-        "highlightId": 2921,
-        "id": 6876,
-        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10075,
-          "name": "iPhone 15"
-        },
-        "description": "Ny kamera. Ny design. Nyförälskelse.",
-        "highlightId": 2920,
-        "id": 6877,
-        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
         "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
         "highlightId": 2656,
         "id": 6584,
@@ -6314,6 +6283,30 @@
         "highlightId": 2773,
         "id": 6438,
         "imageUrl": "https://www.webhallen.com/images/680535-Tilebanner-MacStudio992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10086,
+          "name": "Apple Watch Series 9"
+        },
+        "description": "Smartare. Ljusare. Mäktigare.",
+        "highlightId": 2921,
+        "id": 6876,
+        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10075,
+          "name": "iPhone 15"
+        },
+        "description": "Ny kamera. Ny design. Nyförälskelse.",
+        "highlightId": 2920,
+        "id": 6877,
+        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
         "priority": 1
       }
     ],
@@ -8769,6 +8762,18 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
+        "priority": 1
+      },
+      {
+        "button": null,
         "category": {
           "id": 2486,
           "internalName": "Luftrenare Allergi",
@@ -8778,18 +8783,6 @@
         "highlightId": 491,
         "id": 5441,
         "imageUrl": "/images/547367",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
         "priority": 1
       }
     ],
