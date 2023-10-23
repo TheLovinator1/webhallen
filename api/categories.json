@@ -832,18 +832,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10059,
-          "name": "Meta Quest 3"
-        },
-        "description": "Äntligen kan du köpa Meta Quest 3!",
-        "highlightId": 2946,
-        "id": 6883,
-        "imageUrl": "/images/693269",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -856,14 +844,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 9935,
-          "name": "Assassins Creed Mirage"
+          "id": 10059,
+          "name": "Meta Quest 3"
         },
-        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
-        "highlightId": 2950,
-        "id": 6851,
-        "imageUrl": "/images/693364",
-        "priority": 4
+        "description": "Äntligen kan du köpa Meta Quest 3!",
+        "highlightId": 2946,
+        "id": 6883,
+        "imageUrl": "/images/693269",
+        "priority": 5
       },
       {
         "button": null,
@@ -942,18 +930,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8666,
           "name": "Playstation 5 Tillbehör"
         },
@@ -961,6 +937,18 @@
         "highlightId": 1619,
         "id": 3916,
         "imageUrl": "/images/617338",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
         "priority": 1
       }
     ],
@@ -1491,31 +1479,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9935,
-          "name": "Assassins Creed Mirage"
-        },
-        "description": "Väntan är över - nu kan du köpa Assassins Creed Mirage!  ",
-        "highlightId": 2950,
-        "id": 6851,
-        "imageUrl": "/images/693364",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "description": "Nyhet - förboka Sony INZONE H5 nu!  ",
-        "highlightId": 2967,
-        "id": 6901,
-        "imageUrl": "/images/695499",
-        "priority": 4,
-        "product": {
-          "id": 365546,
-          "metaTitle": null,
-          "name": "Sony Inzone H5 Wireless - Black"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -1524,18 +1487,6 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
-        },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
       },
       {
         "button": null,
@@ -1559,6 +1510,18 @@
         "highlightId": 2944,
         "id": 6838,
         "imageUrl": "/images/693190",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
         "priority": 3
       },
       {
@@ -3048,18 +3011,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9915,
-          "name": "Google Pixel Tablet"
-        },
-        "description": "Medlemspris & Studentrabatt - Spara 1000 kr",
-        "highlightId": 2964,
-        "id": 6924,
-        "imageUrl": "https://www.webhallen.com/images/694835-Google-Pixel-Tablet-Site-Mobil-TileBanner-99?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -3084,18 +3035,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
-        },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10153,
           "name": "Steelseries nyheter"
         },
@@ -3103,6 +3042,18 @@
         "highlightId": 2944,
         "id": 6838,
         "imageUrl": "/images/693190",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
         "priority": 3
       },
       {
@@ -4105,18 +4056,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10145,
           "name": "Nvidia RTX - Alan Wake 2 på köpet"
         },
@@ -4124,6 +4063,18 @@
         "highlightId": 2958,
         "id": 6862,
         "imageUrl": "/images/694200",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
         "priority": 1
       }
     ],
@@ -5190,6 +5141,13 @@
               },
               {
                 "icon": "projektorer",
+                "id": 16730,
+                "metaTitle": null,
+                "name": "Short throw",
+                "subCategories": []
+              },
+              {
+                "icon": "projektorer",
                 "id": 16732,
                 "metaTitle": null,
                 "name": "Sport",
@@ -5621,18 +5579,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10175,
-          "name": "Bose QuietComfort Headphones & Earbuds"
-        },
-        "description": "Upptäck den nya generationen av BOSE-hörlurar",
-        "highlightId": 2975,
-        "id": 6912,
-        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10181,
           "name": "Bose Smart Ultra Soundbar"
         },
@@ -5640,18 +5586,6 @@
         "highlightId": 2976,
         "id": 6914,
         "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -5669,6 +5603,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10193,
+          "name": "Sony WF-C700N"
+        },
+        "description": "In-ear hörlurar från Sony med toppbetyg 6/6 från L&B",
+        "highlightId": 2978,
+        "id": 6926,
+        "imageUrl": "https://www.webhallen.com/images/696934-C700992x558pxSE?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9979,
           "name": "Sony WF-1000XM5"
         },
@@ -5676,6 +5634,18 @@
         "highlightId": 2802,
         "id": 6510,
         "imageUrl": "/images/684117",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10175,
+          "name": "Bose QuietComfort Headphones & Earbuds"
+        },
+        "description": "Upptäck den nya generationen av BOSE-hörlurar",
+        "highlightId": 2975,
+        "id": 6912,
+        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
         "priority": 5
       },
       {
@@ -7463,18 +7433,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10146,
-          "name": "Galaxy Tab S9 FE"
-        },
-        "description": "Köp nya Galaxy Tab S9 FE & få Smart Book Cover på köpet",
-        "highlightId": 2957,
-        "id": 6888,
-        "imageUrl": "https://www.webhallen.com/images/694197-SamsungSEGalaxyTabS9FELaunchOfferWebhall?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9970,
           "name": "Galaxy S23 | Z Flip5 | Z Fold5 Bundle"
         },
@@ -7494,18 +7452,6 @@
         "highlightId": 2919,
         "id": 6776,
         "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9915,
-          "name": "Google Pixel Tablet"
-        },
-        "description": "Medlemspris & Studentrabatt - Spara 1000 kr",
-        "highlightId": 2964,
-        "id": 6924,
-        "imageUrl": "https://www.webhallen.com/images/694835-Google-Pixel-Tablet-Site-Mobil-TileBanner-99?raw",
         "priority": 5
       },
       {
