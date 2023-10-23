@@ -13,6 +13,12 @@
           "date": "2023-11-17",
           "label": null,
           "opening": "10:00"
+        },
+        {
+          "closing": "20:00",
+          "date": "2023-11-24",
+          "label": "Black Friday",
+          "opening": "10:00"
         }
       ],
       "address": "Bergkällavägen 26",
@@ -228,12 +234,6 @@
       "abnormalOpenHours": [
         {
           "closing": null,
-          "date": "2023-10-23",
-          "label": "Stängt pga renovering",
-          "opening": null
-        },
-        {
-          "closing": null,
           "date": "2023-10-24",
           "label": "Stängt pga renovering",
           "opening": null
@@ -249,6 +249,12 @@
           "date": "2023-10-26",
           "label": "Stängt pga renovering",
           "opening": null
+        },
+        {
+          "closing": "20:00",
+          "date": "2023-11-24",
+          "label": "Black Friday",
+          "opening": "10:00"
         }
       ],
       "address": "Stora Marknadsvägen 15",
@@ -419,7 +425,14 @@
       "zipCode": "13154"
     },
     {
-      "abnormalOpenHours": [],
+      "abnormalOpenHours": [
+        {
+          "closing": "20:00",
+          "date": "2023-11-24",
+          "label": "Black friday",
+          "opening": "10:00"
+        }
+      ],
       "address": "Majorsvägen 2",
       "city": "Järfälla",
       "id": 14,
@@ -523,7 +536,14 @@
       "zipCode": "11234"
     },
     {
-      "abnormalOpenHours": [],
+      "abnormalOpenHours": [
+        {
+          "closing": "20:00",
+          "date": "2023-11-24",
+          "label": "Black Friday",
+          "opening": "10:00"
+        }
+      ],
       "address": "Elsa Brändströms gata 52",
       "city": "Fruängen",
       "id": 16,
@@ -644,7 +664,14 @@
       "zipCode": "12347"
     },
     {
-      "abnormalOpenHours": [],
+      "abnormalOpenHours": [
+        {
+          "closing": "22:00",
+          "date": "2023-11-24",
+          "label": "Black Friday",
+          "opening": "10:00"
+        }
+      ],
       "address": "Stjärntorget 2",
       "city": "Solna",
       "id": 20,
