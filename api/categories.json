@@ -893,18 +893,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9960,
-          "name": "Spider-Man 2"
-        },
-        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
-        "highlightId": 2904,
-        "id": 6742,
-        "imageUrl": "/images/696876",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10168,
           "name": "Hot Wheels Unleashed"
         },
@@ -940,16 +928,27 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 9960,
+          "name": "Spider-Man 2"
+        },
+        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
+        "highlightId": 2904,
+        "id": 6742,
+        "imageUrl": "/images/696876",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10167,
+          "name": "Sonic Superstars"
+        },
         "description": "Nu kan du äntligen köpa Sonic Superstars! ",
         "highlightId": 2969,
         "id": 6896,
         "imageUrl": "/images/695629",
-        "priority": 2.5,
-        "product": {
-          "id": 362841,
-          "metaTitle": null,
-          "name": "Sonic Superstars (PS5)"
-        }
+        "priority": 2.5
       },
       {
         "button": null,
@@ -1510,6 +1509,18 @@
         "highlightId": 2966,
         "id": 6906,
         "imageUrl": "/images/695223",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": null,
+          "name": null
+        },
+        "description": "Klassisk utrustning från 8bitdo - förboka nu! ",
+        "highlightId": 2959,
+        "id": 6935,
+        "imageUrl": "/images/694777",
         "priority": 3
       },
       {
@@ -3016,18 +3027,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -3035,6 +3034,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
         "priority": 5
       },
       {
@@ -4690,13 +4701,6 @@
           },
           {
             "icon": "natverkskameror",
-            "id": 16070,
-            "metaTitle": "Nest",
-            "name": "Nest",
-            "subCategories": []
-          },
-          {
-            "icon": "natverkskameror",
             "id": 15936,
             "metaTitle": "SmartHome",
             "name": "SmartHome Kamera",
@@ -5584,6 +5588,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10175,
+          "name": "Bose QuietComfort Headphones & Earbuds"
+        },
+        "description": "Upptäck den nya generationen av BOSE-hörlurar",
+        "highlightId": 2975,
+        "id": 6912,
+        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10181,
           "name": "Bose Smart Ultra Soundbar"
         },
@@ -5627,30 +5655,6 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10175,
-          "name": "Bose QuietComfort Headphones & Earbuds"
-        },
-        "description": "Upptäck den nya generationen av BOSE-hörlurar",
-        "highlightId": 2975,
-        "id": 6912,
-        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
         "priority": 5
       },
       {
@@ -6165,43 +6169,6 @@
     "highlights": [
       {
         "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 364601,
-          "metaTitle": null,
-          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9744,
-          "name": "Apple HomePod (2nd generation)"
-        },
-        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
-        "highlightId": 2584,
-        "id": 6072,
-        "imageUrl": "/images/657850",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9739,
-          "name": "MacBook Pro"
-        },
-        "description": "Nya MacBook med M2 Pro och M2 Max.",
-        "highlightId": 2582,
-        "id": 6261,
-        "imageUrl": "/images/658281",
-        "priority": 1
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 10087,
           "name": "Apple Watch Ultra 2"
@@ -6270,6 +6237,43 @@
         "highlightId": 2920,
         "id": 6877,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 364601,
+          "metaTitle": null,
+          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9744,
+          "name": "Apple HomePod (2nd generation)"
+        },
+        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
+        "highlightId": 2584,
+        "id": 6072,
+        "imageUrl": "/images/657850",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9739,
+          "name": "MacBook Pro"
+        },
+        "description": "Nya MacBook med M2 Pro och M2 Max.",
+        "highlightId": 2582,
+        "id": 6261,
+        "imageUrl": "/images/658281",
         "priority": 1
       }
     ],
@@ -9459,6 +9463,13 @@
           },
           {
             "icon": "leksaker_per_kategori",
+            "id": 4256,
+            "metaTitle": "Byggleksaker",
+            "name": "Byggleksaker",
+            "subCategories": []
+          },
+          {
+            "icon": "leksaker_per_kategori",
             "id": 4245,
             "metaTitle": "Bilbana",
             "name": "Elektriska bilbanor",
@@ -9636,18 +9647,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 6813,
-          "name": "LEGO"
-        },
-        "description": "Utforska vårt stora sortiment av LEGO!",
-        "highlightId": 967,
-        "id": 2314,
-        "imageUrl": "/images/672497",
-        "priority": 10000
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8696,
           "name": "Brädspelstips: Webhallens favoritspel"
         },
@@ -9660,14 +9659,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
+          "id": 6813,
+          "name": "LEGO"
         },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
+        "description": "Utforska vårt stora sortiment av LEGO!",
+        "highlightId": 967,
+        "id": 2314,
+        "imageUrl": "/images/672497",
+        "priority": 10000
       },
       {
         "button": null,
@@ -9679,6 +9678,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
         "priority": 5
       },
       {
@@ -9704,6 +9715,18 @@
         "highlightId": 2043,
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10182,
+          "name": "LEGO Adults"
+        },
+        "description": "LEGO Adults Kampanj! Byggen för vuxna",
+        "highlightId": 2981,
+        "id": 6933,
+        "imageUrl": "/images/697126",
         "priority": 4
       }
     ],
