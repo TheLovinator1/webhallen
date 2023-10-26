@@ -17,6 +17,10 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://www.webhallen.com/se/campaign/7537-Back-to-School</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://www.webhallen.com/se/campaign/7618-Pop-Fortnite</loc>
     <priority>0.3</priority>
   </url>
@@ -73,6 +77,14 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://www.webhallen.com/se/campaign/8449-ASUS-Cashback-Back-2-School</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.webhallen.com/se/campaign/8545-Ring-Back-to-School-2023</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://www.webhallen.com/se/campaign/8613-Boka-utvalda-Strix-30XX-kort-fa-Impact-II-pa-kopet</loc>
     <priority>0.3</priority>
   </url>
@@ -89,7 +101,11 @@
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/9342-Gamers-Unite-REA</loc>
+    <loc>https://www.webhallen.com/se/campaign/9342-Gamers-Unite</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.webhallen.com/se/campaign/9344-ASUS-ROG-x-Starfield</loc>
     <priority>0.3</priority>
   </url>
   <url>
@@ -97,11 +113,27 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://www.webhallen.com/se/campaign/9459-Garmin-Venu-Sq-2</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://www.webhallen.com/se/campaign/9472-OnePlus-10T</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/9544-Upplev-Philips-Ambilight-TV-i-100-dagar</loc>
+    <loc>https://www.webhallen.com/se/campaign/9489-iPhone-14</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.webhallen.com/se/campaign/9508-Apple-Watch-Series-8</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.webhallen.com/se/campaign/9512-Apple-Watch-Ultra</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.webhallen.com/se/campaign/9518-iPhone-14-Pro</loc>
     <priority>0.3</priority>
   </url>
   <url>
@@ -113,7 +145,23 @@
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/9871-Tech-light-in-fall-darkness</loc>
+    <loc>https://www.webhallen.com/se/campaign/9766-The-Legend-of-Zelda-Tears-of-the-Kingdom</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.webhallen.com/se/campaign/9852-Nvidia-Overwatch-2-bundle</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.webhallen.com/se/campaign/9854-Nvidia-GPU</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.webhallen.com/se/campaign/9855-Nvidia-Desktop-config</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.webhallen.com/se/campaign/9870-Apple-AirPods-kampanj</loc>
     <priority>0.3</priority>
   </url>
   <url>
@@ -121,15 +169,15 @@
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/9925-Philips-Airfryers-Koksmaskiner</loc>
+    <loc>https://www.webhallen.com/se/campaign/9915-Google-Pixel-Tablets</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/9926-Philips-Robotdammsugare</loc>
+    <loc>https://www.webhallen.com/se/campaign/9916-Philips-Kladvard</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/9935-Assassins-Creed-Mirage</loc>
+    <loc>https://www.webhallen.com/se/campaign/9922-AMD</loc>
     <priority>0.3</priority>
   </url>
   <url>
@@ -141,91 +189,67 @@
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/9960-Spider-Man-2</loc>
+    <loc>https://www.webhallen.com/se/campaign/9960-Spiderman-2</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/9970-Galaxy-S23-Z-Flip5-Z-Fold5-Bundle</loc>
+    <loc>https://www.webhallen.com/se/campaign/9970-Galaxy-Z-Flip5-Z-Fold5</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/9999-Nothing-Phone2-kop-nu</loc>
+    <loc>https://www.webhallen.com/se/campaign/9975-LEGO-Members-only</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10059-Meta-Quest-3</loc>
+    <loc>https://www.webhallen.com/se/campaign/9978-AMD-Starfield-GPU</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10073-Sony-Xperia-5-V</loc>
+    <loc>https://www.webhallen.com/se/campaign/9979-Sony-WF-1000XM5</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10075-iPhone-15</loc>
+    <loc>https://www.webhallen.com/se/campaign/9984-Garmin-Instinct-2</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10078-iPhone-15-Pro</loc>
+    <loc>https://www.webhallen.com/se/campaign/9992-Roborock-Q-Revo</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10086-Apple-Watch-Series-9</loc>
+    <loc>https://www.webhallen.com/se/campaign/10000-XBOX-Starfield</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10087-Apple-Watch-Ultra-2</loc>
+    <loc>https://www.webhallen.com/se/campaign/10014-AMD-Starfield-CPU</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10111-Mobilabonnemang</loc>
+    <loc>https://www.webhallen.com/se/campaign/10015-AMD-Starfield-Config</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10131-Call-of-Duty-Modern-Warfare-III</loc>
+    <loc>https://www.webhallen.com/se/campaign/10017-Armored-Core</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10145-Nvidia-RTX-Alan-Wake-2-pa-kopet</loc>
+    <loc>https://www.webhallen.com/se/campaign/10027-EA-Sports-FC-24</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10148-Lords-of-the-Fallen</loc>
+    <loc>https://www.webhallen.com/se/campaign/10038-iPad-Pro</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10153-Steelseries-nyheter</loc>
+    <loc>https://www.webhallen.com/se/campaign/10043-Garmin-Venu-3</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10154-Samsung-Galaxy-S22-Buds2-Bundle</loc>
+    <loc>https://www.webhallen.com/se/campaign/10044-Kop-SteelSeries-och-fa-en-spelkod</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.webhallen.com/se/campaign/10160-SanDisk-SD-kort-for-gaming</loc>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://www.webhallen.com/se/campaign/10167-Sonic-Superstars</loc>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://www.webhallen.com/se/campaign/10168-Hot-Wheels-Unleashed</loc>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://www.webhallen.com/se/campaign/10175-Bose-QuietComfort-Headphones-Earbuds</loc>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://www.webhallen.com/se/campaign/10181-Bose-Smart-Ultra-Soundbar</loc>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://www.webhallen.com/se/campaign/10182-LEGO-Adults</loc>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://www.webhallen.com/se/campaign/10193-Sony-WF-C700N</loc>
+    <loc>https://www.webhallen.com/se/campaign/10051-Under-the-Waves</loc>
     <priority>0.3</priority>
   </url>
 </urlset>
