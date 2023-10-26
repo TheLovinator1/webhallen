@@ -1466,18 +1466,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10059,
-          "name": "Meta Quest 3"
-        },
-        "description": "Äntligen kan du köpa Meta Quest 3!",
-        "highlightId": 2946,
-        "id": 6883,
-        "imageUrl": "/images/693269",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -1485,6 +1473,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10059,
+          "name": "Meta Quest 3"
+        },
+        "description": "Äntligen kan du köpa Meta Quest 3!",
+        "highlightId": 2946,
+        "id": 6883,
+        "imageUrl": "/images/693269",
         "priority": 5
       },
       {
@@ -1502,18 +1502,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10160,
-          "name": "SanDisk - SD kort för gaming"
-        },
-        "description": "Utrusta din Nintendo Switch med SanDisk-lagring!",
-        "highlightId": 2966,
-        "id": 6906,
-        "imageUrl": "/images/695223",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": null,
           "name": null
         },
@@ -1521,6 +1509,18 @@
         "highlightId": 2959,
         "id": 6935,
         "imageUrl": "/images/694777",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10108,
+          "name": "Razer - Gaming Gear"
+        },
+        "description": "Välj och vraka bland gaming gear från Razer! ",
+        "highlightId": 2987,
+        "id": 6944,
+        "imageUrl": "/images/697485",
         "priority": 3
       },
       {
@@ -1546,6 +1546,30 @@
         "id": 6855,
         "imageUrl": "/images/694133",
         "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10160,
+          "name": "SanDisk - SD kort för gaming"
+        },
+        "description": "Utrusta din Nintendo Switch med SanDisk-lagring!",
+        "highlightId": 2966,
+        "id": 6906,
+        "imageUrl": "/images/695223",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10134,
+          "name": "Razer - Tangentbord"
+        },
+        "description": "Uppdatera ditt tangentbord till Razer's populära Blackwidow V3 !",
+        "highlightId": 2984,
+        "id": 6942,
+        "imageUrl": "/images/697427",
+        "priority": 2.5
       },
       {
         "button": null,
@@ -4873,18 +4897,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
@@ -4892,6 +4904,18 @@
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/696884",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -5192,13 +5216,6 @@
             "metaTitle": null,
             "name": "Studio & Podcast",
             "subCategories": [
-              {
-                "icon": "instrument",
-                "id": 15868,
-                "metaTitle": "Studio - Kringutrustning",
-                "name": "Kringutrustning",
-                "subCategories": []
-              },
               {
                 "icon": "instrument",
                 "id": 3216,
@@ -6505,13 +6522,6 @@
               },
               {
                 "icon": "mobiltelefon",
-                "id": 16711,
-                "metaTitle": null,
-                "name": "OnePlus 10",
-                "subCategories": []
-              },
-              {
-                "icon": "mobiltelefon",
                 "id": 16710,
                 "metaTitle": null,
                 "name": "OnePlus Nord",
@@ -6604,6 +6614,13 @@
                 "subCategories": []
               }
             ]
+          },
+          {
+            "icon": "mobiltelefon",
+            "id": 13860,
+            "metaTitle": "Doro mobiltelefon - köp billigt online med fri frakt",
+            "name": "Doro",
+            "subCategories": []
           },
           {
             "icon": "mobiltelefon",
@@ -8665,6 +8682,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9871,
           "name": "Tech light in fall darkness"
         },
@@ -8684,30 +8713,6 @@
         "highlightId": 2965,
         "id": 6872,
         "imageUrl": "https://www.webhallen.com/images/696537-AF-Webhallen-HD9285-oct23-992x558-SE2?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9926,
-          "name": "Philips Robotdammsugare"
-        },
-        "description": "Glöm städningen med Philips Robotdammsugare",
-        "highlightId": 2929,
-        "id": 6800,
-        "imageUrl": "https://www.webhallen.com/images/689839-FC-XU7100-Black-Webhallen-sep23-SE992x558?raw",
         "priority": 5
       },
       {
@@ -9176,23 +9181,9 @@
           },
           {
             "icon": "samlarspelkort",
-            "id": 4201,
-            "metaTitle": "Spelkort - KeyForge",
-            "name": "Keyforge",
-            "subCategories": []
-          },
-          {
-            "icon": "samlarspelkort",
             "id": 16840,
             "metaTitle": null,
             "name": "Lorcana",
-            "subCategories": []
-          },
-          {
-            "icon": "samlarspelkort",
-            "id": 16629,
-            "metaTitle": null,
-            "name": "MetaZoo",
             "subCategories": []
           },
           {
