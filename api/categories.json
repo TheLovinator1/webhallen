@@ -893,18 +893,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9960,
-          "name": "Spider-Man 2"
-        },
-        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
-        "highlightId": 2904,
-        "id": 6742,
-        "imageUrl": "/images/696876",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10168,
           "name": "Hot Wheels Unleashed"
         },
@@ -936,6 +924,18 @@
         "highlightId": 2963,
         "id": 6867,
         "imageUrl": "/images/694806",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9960,
+          "name": "Spider-Man 2"
+        },
+        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
+        "highlightId": 2904,
+        "id": 6742,
+        "imageUrl": "/images/696876",
         "priority": 3
       },
       {
@@ -1526,18 +1526,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10108,
-          "name": "Razer - Gaming Gear"
-        },
-        "description": "Välj och vraka bland gaming gear från Razer! ",
-        "highlightId": 2987,
-        "id": 6944,
-        "imageUrl": "/images/697485",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10153,
           "name": "Steelseries nyheter"
         },
@@ -1558,18 +1546,6 @@
         "id": 6855,
         "imageUrl": "/images/694133",
         "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10134,
-          "name": "Razer - Tangentbord"
-        },
-        "description": "Uppdatera ditt tangentbord till Razer's populära Blackwidow V3 !",
-        "highlightId": 2984,
-        "id": 6942,
-        "imageUrl": "/images/697427",
-        "priority": 2.5
       },
       {
         "button": null,
@@ -3051,18 +3027,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -3070,6 +3034,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
         "priority": 5
       },
       {
@@ -5218,6 +5194,13 @@
             "subCategories": [
               {
                 "icon": "instrument",
+                "id": 15868,
+                "metaTitle": "Studio - Kringutrustning",
+                "name": "Kringutrustning",
+                "subCategories": []
+              },
+              {
+                "icon": "instrument",
                 "id": 3216,
                 "metaTitle": "Studio - Studiomikrofoner",
                 "name": "Studiomikrofon",
@@ -5605,6 +5588,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10175,
+          "name": "Bose QuietComfort Headphones & Earbuds"
+        },
+        "description": "Upptäck den nya generationen av BOSE-hörlurar",
+        "highlightId": 2975,
+        "id": 6912,
+        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10181,
           "name": "Bose Smart Ultra Soundbar"
         },
@@ -5648,30 +5655,6 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10175,
-          "name": "Bose QuietComfort Headphones & Earbuds"
-        },
-        "description": "Upptäck den nya generationen av BOSE-hörlurar",
-        "highlightId": 2975,
-        "id": 6912,
-        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
         "priority": 5
       },
       {
@@ -6186,43 +6169,6 @@
     "highlights": [
       {
         "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 364601,
-          "metaTitle": null,
-          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9744,
-          "name": "Apple HomePod (2nd generation)"
-        },
-        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
-        "highlightId": 2584,
-        "id": 6072,
-        "imageUrl": "/images/657850",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9739,
-          "name": "MacBook Pro"
-        },
-        "description": "Nya MacBook med M2 Pro och M2 Max.",
-        "highlightId": 2582,
-        "id": 6261,
-        "imageUrl": "/images/658281",
-        "priority": 1
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 10087,
           "name": "Apple Watch Ultra 2"
@@ -6291,6 +6237,43 @@
         "highlightId": 2920,
         "id": 6877,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 364601,
+          "metaTitle": null,
+          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9744,
+          "name": "Apple HomePod (2nd generation)"
+        },
+        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
+        "highlightId": 2584,
+        "id": 6072,
+        "imageUrl": "/images/657850",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9739,
+          "name": "MacBook Pro"
+        },
+        "description": "Nya MacBook med M2 Pro och M2 Max.",
+        "highlightId": 2582,
+        "id": 6261,
+        "imageUrl": "/images/658281",
         "priority": 1
       }
     ],
@@ -6522,6 +6505,13 @@
               },
               {
                 "icon": "mobiltelefon",
+                "id": 16711,
+                "metaTitle": null,
+                "name": "OnePlus 10",
+                "subCategories": []
+              },
+              {
+                "icon": "mobiltelefon",
                 "id": 16710,
                 "metaTitle": null,
                 "name": "OnePlus Nord",
@@ -6614,13 +6604,6 @@
                 "subCategories": []
               }
             ]
-          },
-          {
-            "icon": "mobiltelefon",
-            "id": 13860,
-            "metaTitle": "Doro mobiltelefon - köp billigt online med fri frakt",
-            "name": "Doro",
-            "subCategories": []
           },
           {
             "icon": "mobiltelefon",
@@ -8682,6 +8665,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9925,
           "name": "Philips Airfryers & Köksmaskiner"
         },
@@ -8706,13 +8701,13 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
+          "id": 9926,
+          "name": "Philips Robotdammsugare"
         },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
+        "description": "Glöm städningen med Philips Robotdammsugare",
+        "highlightId": 2929,
+        "id": 6800,
+        "imageUrl": "https://www.webhallen.com/images/689839-FC-XU7100-Black-Webhallen-sep23-SE992x558?raw",
         "priority": 5
       },
       {
@@ -9181,9 +9176,23 @@
           },
           {
             "icon": "samlarspelkort",
+            "id": 4201,
+            "metaTitle": "Spelkort - KeyForge",
+            "name": "Keyforge",
+            "subCategories": []
+          },
+          {
+            "icon": "samlarspelkort",
             "id": 16840,
             "metaTitle": null,
             "name": "Lorcana",
+            "subCategories": []
+          },
+          {
+            "icon": "samlarspelkort",
+            "id": 16629,
+            "metaTitle": null,
+            "name": "MetaZoo",
             "subCategories": []
           },
           {
@@ -9638,18 +9647,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 6813,
-          "name": "LEGO"
-        },
-        "description": "Utforska vårt stora sortiment av LEGO!",
-        "highlightId": 967,
-        "id": 2314,
-        "imageUrl": "/images/672497",
-        "priority": 10000
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8696,
           "name": "Brädspelstips: Webhallens favoritspel"
         },
@@ -9662,14 +9659,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
+          "id": 6813,
+          "name": "LEGO"
         },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
+        "description": "Utforska vårt stora sortiment av LEGO!",
+        "highlightId": 967,
+        "id": 2314,
+        "imageUrl": "/images/672497",
+        "priority": 10000
       },
       {
         "button": null,
@@ -9686,14 +9683,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10182,
-          "name": "LEGO Adults"
+          "id": 9871,
+          "name": "Tech light in fall darkness"
         },
-        "description": "LEGO Adults Kampanj! Byggen för vuxna",
-        "highlightId": 2981,
-        "id": 6933,
-        "imageUrl": "/images/697126",
-        "priority": 4
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
+        "priority": 5
       },
       {
         "button": null,
@@ -9718,6 +9715,18 @@
         "highlightId": 2043,
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10182,
+          "name": "LEGO Adults"
+        },
+        "description": "LEGO Adults Kampanj! Byggen för vuxna",
+        "highlightId": 2981,
+        "id": 6933,
+        "imageUrl": "/images/697126",
         "priority": 4
       }
     ],
