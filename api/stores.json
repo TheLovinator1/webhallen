@@ -871,7 +871,26 @@
       "zipCode": "41190"
     },
     {
-      "abnormalOpenHours": [],
+      "abnormalOpenHours": [
+        {
+          "closing": "20:00",
+          "date": "2023-11-16",
+          "label": "Extra öppet",
+          "opening": "10:00"
+        },
+        {
+          "closing": "20:00",
+          "date": "2023-11-17",
+          "label": "Extra Öppet",
+          "opening": "10:00"
+        },
+        {
+          "closing": "20:00",
+          "date": "2023-11-24",
+          "label": "Black Friday",
+          "opening": "10:00"
+        }
+      ],
       "address": "Medborgarplatsen 21",
       "city": "Stockholm",
       "id": 28,
