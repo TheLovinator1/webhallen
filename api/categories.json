@@ -448,13 +448,6 @@
           },
           {
             "icon": "pc",
-            "id": 332,
-            "metaTitle": "Nya spel till PC",
-            "name": "Nya spel",
-            "subCategories": []
-          },
-          {
-            "icon": "pc",
             "id": 330,
             "metaTitle": "Kommande spel till PC - Nya spel",
             "name": "Kommande spel",
@@ -832,6 +825,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10059,
+          "name": "Meta Quest 3"
+        },
+        "description": "Äntligen kan du köpa Meta Quest 3!",
+        "highlightId": 2946,
+        "id": 6883,
+        "imageUrl": "/images/693269",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -855,30 +860,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 10059,
-          "name": "Meta Quest 3"
-        },
-        "description": "Äntligen kan du köpa Meta Quest 3!",
-        "highlightId": 2946,
-        "id": 6883,
-        "imageUrl": "/images/693269",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
-        "priority": 4
-      },
-      {
-        "button": null,
         "description": "Nu är väntan över - köp Super Mario Bros Wonder idag! ",
         "highlightId": 2956,
         "id": 6858,
@@ -893,14 +874,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10148,
-          "name": "Lords of the Fallen"
+          "id": 9085,
+          "name": "CLEAROUT"
         },
-        "description": "Nu kan du köpa Lords of the fallen!",
-        "highlightId": 2963,
-        "id": 6867,
-        "imageUrl": "/images/694806",
-        "priority": 3
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
       },
       {
         "button": null,
@@ -936,6 +917,18 @@
         "highlightId": 2941,
         "id": 6928,
         "imageUrl": "/images/696972",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10148,
+          "name": "Lords of the Fallen"
+        },
+        "description": "Nu kan du köpa Lords of the fallen!",
+        "highlightId": 2963,
+        "id": 6867,
+        "imageUrl": "/images/694806",
         "priority": 3
       },
       {
@@ -6523,6 +6516,13 @@
                 "id": 16838,
                 "metaTitle": null,
                 "name": "OnePlus 11",
+                "subCategories": []
+              },
+              {
+                "icon": "mobiltelefon",
+                "id": 16711,
+                "metaTitle": null,
+                "name": "OnePlus 10",
                 "subCategories": []
               },
               {
