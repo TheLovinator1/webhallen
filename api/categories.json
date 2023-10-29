@@ -448,6 +448,13 @@
           },
           {
             "icon": "pc",
+            "id": 332,
+            "metaTitle": "Nya spel till PC",
+            "name": "Nya spel",
+            "subCategories": []
+          },
+          {
+            "icon": "pc",
             "id": 330,
             "metaTitle": "Kommande spel till PC - Nya spel",
             "name": "Kommande spel",
@@ -825,6 +832,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10059,
           "name": "Meta Quest 3"
         },
@@ -849,14 +868,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
+          "id": 9085,
+          "name": "CLEAROUT"
         },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
       },
       {
         "button": null,
@@ -870,18 +889,6 @@
           "metaTitle": "Köp nya Super Mario Bros Wonder (Nintendo Switch)",
           "name": "Super Mario Bros Wonder (Switch)"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
-        "priority": 4
       },
       {
         "button": null,
@@ -1507,6 +1514,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 10153,
+          "name": "Steelseries nyheter"
+        },
+        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
+        "highlightId": 2944,
+        "id": 6838,
+        "imageUrl": "/images/693190",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8249,
+          "name": "Monthly Gaming Deals"
+        },
+        "description": "Handlare är på plats igen med nya deals!",
+        "highlightId": 2954,
+        "id": 6855,
+        "imageUrl": "/images/694133",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10160,
           "name": "SanDisk - SD kort för gaming"
         },
@@ -1538,30 +1569,6 @@
         "highlightId": 2987,
         "id": 6944,
         "imageUrl": "/images/697485",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10153,
-          "name": "Steelseries nyheter"
-        },
-        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
-        "highlightId": 2944,
-        "id": 6838,
-        "imageUrl": "/images/693190",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8249,
-          "name": "Monthly Gaming Deals"
-        },
-        "description": "Handlare är på plats igen med nya deals!",
-        "highlightId": 2954,
-        "id": 6855,
-        "imageUrl": "/images/694133",
         "priority": 3
       },
       {
@@ -5603,18 +5610,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10181,
-          "name": "Bose Smart Ultra Soundbar"
-        },
-        "description": "Uppslukande rumsligt ljud med Dolby Atmos och TrueSpace",
-        "highlightId": 2976,
-        "id": 6914,
-        "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9544,
           "name": "Upplev Philips Ambilight TV i 100 dagar"
         },
@@ -5670,6 +5665,18 @@
         "highlightId": 2975,
         "id": 6912,
         "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10181,
+          "name": "Bose Smart Ultra Soundbar"
+        },
+        "description": "Uppslukande rumsligt ljud med Dolby Atmos och TrueSpace",
+        "highlightId": 2976,
+        "id": 6914,
+        "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
         "priority": 5
       },
       {
@@ -6184,19 +6191,6 @@
     "highlights": [
       {
         "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 364601,
-          "metaTitle": null,
-          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 9744,
           "name": "Apple HomePod (2nd generation)"
@@ -6290,6 +6284,19 @@
         "id": 6877,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
         "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 364601,
+          "metaTitle": null,
+          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
+        }
       }
     ],
     "icon": "apple",
@@ -8687,18 +8694,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9925,
-          "name": "Philips Airfryers & Köksmaskiner"
-        },
-        "description": "Laga nyttig mat enkelt med Philips AirFryer",
-        "highlightId": 2965,
-        "id": 6872,
-        "imageUrl": "https://www.webhallen.com/images/696537-AF-Webhallen-HD9285-oct23-992x558-SE2?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -8718,6 +8713,18 @@
         "highlightId": 2962,
         "id": 6871,
         "imageUrl": "/images/696884",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9925,
+          "name": "Philips Airfryers & Köksmaskiner"
+        },
+        "description": "Laga nyttig mat enkelt med Philips AirFryer",
+        "highlightId": 2965,
+        "id": 6872,
+        "imageUrl": "https://www.webhallen.com/images/696537-AF-Webhallen-HD9285-oct23-992x558-SE2?raw",
         "priority": 5
       },
       {
@@ -9667,18 +9674,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -9686,6 +9681,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9871,
+          "name": "Tech light in fall darkness"
+        },
+        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
+        "highlightId": 2962,
+        "id": 6871,
+        "imageUrl": "/images/696884",
         "priority": 5
       },
       {
