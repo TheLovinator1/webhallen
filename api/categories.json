@@ -448,13 +448,6 @@
           },
           {
             "icon": "pc",
-            "id": 332,
-            "metaTitle": "Nya spel till PC",
-            "name": "Nya spel",
-            "subCategories": []
-          },
-          {
-            "icon": "pc",
             "id": 330,
             "metaTitle": "Kommande spel till PC - Nya spel",
             "name": "Kommande spel",
@@ -832,18 +825,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10059,
           "name": "Meta Quest 3"
         },
@@ -893,30 +874,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9960,
-          "name": "Spider-Man 2"
-        },
-        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
-        "highlightId": 2904,
-        "id": 6742,
-        "imageUrl": "/images/696876",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10168,
-          "name": "Hot Wheels Unleashed"
-        },
-        "description": "",
-        "highlightId": 2971,
-        "id": 6898,
-        "imageUrl": "/images/695685",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10131,
           "name": "Call of Duty: Modern Warfare III"
         },
@@ -929,13 +886,13 @@
       {
         "button": null,
         "campaign": {
-          "id": 10148,
-          "name": "Lords of the Fallen"
+          "id": 9960,
+          "name": "Spider-Man 2"
         },
-        "description": "Nu kan du köpa Lords of the fallen!",
-        "highlightId": 2963,
-        "id": 6867,
-        "imageUrl": "/images/694806",
+        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
+        "highlightId": 2904,
+        "id": 6742,
+        "imageUrl": "/images/696876",
         "priority": 3
       },
       {
@@ -1478,18 +1435,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10059,
-          "name": "Meta Quest 3"
-        },
-        "description": "Äntligen kan du köpa Meta Quest 3!",
-        "highlightId": 2946,
-        "id": 6883,
-        "imageUrl": "/images/693269",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -1497,6 +1442,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10059,
+          "name": "Meta Quest 3"
+        },
+        "description": "Äntligen kan du köpa Meta Quest 3!",
+        "highlightId": 2946,
+        "id": 6883,
+        "imageUrl": "/images/693269",
         "priority": 5
       },
       {
@@ -1513,14 +1470,27 @@
       },
       {
         "button": null,
+        "description": "Uppdatera ditt tangentbord till Steelseries nya Apex Pro TKL (2023)",
+        "highlightId": 2982,
+        "id": 6937,
+        "imageUrl": "/images/697338",
+        "priority": 3,
+        "product": {
+          "id": 365395,
+          "metaTitle": null,
+          "name": "Steelseries Apex Pro TKL (2023)"
+        }
+      },
+      {
+        "button": null,
         "campaign": {
-          "id": 10153,
-          "name": "Steelseries nyheter"
+          "id": 10108,
+          "name": "Razer - Gaming Gear"
         },
-        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
-        "highlightId": 2944,
-        "id": 6838,
-        "imageUrl": "/images/693190",
+        "description": "Välj och vraka bland gaming gear från Razer! ",
+        "highlightId": 2987,
+        "id": 6944,
+        "imageUrl": "/images/697485",
         "priority": 3
       },
       {
@@ -1557,18 +1527,6 @@
         "highlightId": 2959,
         "id": 6935,
         "imageUrl": "/images/694777",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10108,
-          "name": "Razer - Gaming Gear"
-        },
-        "description": "Välj och vraka bland gaming gear från Razer! ",
-        "highlightId": 2987,
-        "id": 6944,
-        "imageUrl": "/images/697485",
         "priority": 3
       },
       {
@@ -3063,18 +3021,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -3095,18 +3041,6 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10153,
-          "name": "Steelseries nyheter"
-        },
-        "description": "En rykande färsk nyhet i SteelSeries sortiment - Alias Pro! ",
-        "highlightId": 2944,
-        "id": 6838,
-        "imageUrl": "/images/693190",
-        "priority": 3
       },
       {
         "button": null,
@@ -4077,18 +4011,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -4914,18 +4836,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -5610,6 +5520,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10181,
+          "name": "Bose Smart Ultra Soundbar"
+        },
+        "description": "Uppslukande rumsligt ljud med Dolby Atmos och TrueSpace",
+        "highlightId": 2976,
+        "id": 6914,
+        "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9544,
           "name": "Upplev Philips Ambilight TV i 100 dagar"
         },
@@ -5646,18 +5568,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10175,
           "name": "Bose QuietComfort Headphones & Earbuds"
         },
@@ -5665,18 +5575,6 @@
         "highlightId": 2975,
         "id": 6912,
         "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10181,
-          "name": "Bose Smart Ultra Soundbar"
-        },
-        "description": "Uppslukande rumsligt ljud med Dolby Atmos och TrueSpace",
-        "highlightId": 2976,
-        "id": 6914,
-        "imageUrl": "https://www.webhallen.com/images/696347-Webhallen-tile-category-page-992-x-558-Smar?raw",
         "priority": 5
       },
       {
@@ -6192,6 +6090,43 @@
       {
         "button": null,
         "campaign": {
+          "id": 10086,
+          "name": "Apple Watch Series 9"
+        },
+        "description": "Smartare. Ljusare. Mäktigare.",
+        "highlightId": 2921,
+        "id": 6876,
+        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10075,
+          "name": "iPhone 15"
+        },
+        "description": "Ny kamera. Ny design. Nyförälskelse.",
+        "highlightId": 2920,
+        "id": 6877,
+        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 364601,
+          "metaTitle": null,
+          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9744,
           "name": "Apple HomePod (2nd generation)"
         },
@@ -6260,43 +6195,6 @@
         "id": 6438,
         "imageUrl": "https://www.webhallen.com/images/680535-Tilebanner-MacStudio992x558?raw",
         "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10086,
-          "name": "Apple Watch Series 9"
-        },
-        "description": "Smartare. Ljusare. Mäktigare.",
-        "highlightId": 2921,
-        "id": 6876,
-        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10075,
-          "name": "iPhone 15"
-        },
-        "description": "Ny kamera. Ny design. Nyförälskelse.",
-        "highlightId": 2920,
-        "id": 6877,
-        "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 364601,
-          "metaTitle": null,
-          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
-        }
       }
     ],
     "icon": "apple",
@@ -7209,6 +7107,13 @@
           },
           {
             "icon": "mobilfodral",
+            "id": 13137,
+            "metaTitle": "Mobilskal - Moto",
+            "name": "Moto",
+            "subCategories": []
+          },
+          {
+            "icon": "mobilfodral",
             "id": 14569,
             "metaTitle": "Mobilskal till Asus - stort utbud av skal och fodral",
             "name": "Asus",
@@ -7447,25 +7352,13 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
+          "id": 10073,
+          "name": "Sony Xperia 5 V"
         },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
+        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
+        "highlightId": 2919,
+        "id": 6776,
+        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
         "priority": 5
       },
       {
@@ -7483,13 +7376,13 @@
       {
         "button": null,
         "campaign": {
-          "id": 10073,
-          "name": "Sony Xperia 5 V"
+          "id": 8247,
+          "name": "Weekly Deals"
         },
-        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
-        "highlightId": 2919,
-        "id": 6776,
-        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -8203,13 +8096,6 @@
                 "subCategories": [
                   {
                     "icon": "koksmaskiner",
-                    "id": 16548,
-                    "metaTitle": null,
-                    "name": "Ölbryggningsmaskiner",
-                    "subCategories": []
-                  },
-                  {
-                    "icon": "koksmaskiner",
                     "id": 16547,
                     "metaTitle": null,
                     "name": "Brewpack",
@@ -8706,18 +8592,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9925,
           "name": "Philips Airfryers & Köksmaskiner"
         },
@@ -8725,6 +8599,30 @@
         "highlightId": 2965,
         "id": 6872,
         "imageUrl": "https://www.webhallen.com/images/696537-AF-Webhallen-HD9285-oct23-992x558-SE2?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9926,
+          "name": "Philips Robotdammsugare"
+        },
+        "description": "Rengör golven noggrannt med Philips sladdlösa dammsugare",
+        "highlightId": 2983,
+        "id": 6939,
+        "imageUrl": "https://www.webhallen.com/images/697354-FC-XC3133-Webhallen-oct23-992x558-SE-1?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10196,
+          "name": "Outshine Your Neighbors"
+        },
+        "description": "Julpynta som aldrig förr! Fynda juldekoren här",
+        "highlightId": 2988,
+        "id": 6949,
+        "imageUrl": "https://www.webhallen.com/images/697576-OutshineyourNeighbors-JulpyntskampanjSite?raw",
         "priority": 5
       },
       {
@@ -9685,30 +9583,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9871,
-          "name": "Tech light in fall darkness"
-        },
-        "description": "Fynda prylarna som skänker glädje när mörkret anfaller",
-        "highlightId": 2962,
-        "id": 6871,
-        "imageUrl": "/images/696884",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10182,
-          "name": "LEGO Adults"
-        },
-        "description": "LEGO Adults Kampanj! Byggen för vuxna",
-        "highlightId": 2981,
-        "id": 6933,
-        "imageUrl": "/images/697126",
-        "priority": 4
-      },
-      {
-        "button": null,
         "category": {
           "id": 4661,
           "internalName": "Pokemon Trading Card Game",
@@ -9730,6 +9604,18 @@
         "highlightId": 2043,
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10182,
+          "name": "LEGO Adults"
+        },
+        "description": "LEGO Adults Kampanj! Byggen för vuxna",
+        "highlightId": 2981,
+        "id": 6933,
+        "imageUrl": "/images/697126",
         "priority": 4
       }
     ],
