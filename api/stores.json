@@ -76,7 +76,26 @@
       "zipCode": "19279"
     },
     {
-      "abnormalOpenHours": [],
+      "abnormalOpenHours": [
+        {
+          "closing": "20:00",
+          "date": "2023-11-16",
+          "label": "Extra öppet",
+          "opening": "10:00"
+        },
+        {
+          "closing": "20:00",
+          "date": "2023-11-17",
+          "label": "Extra öppet",
+          "opening": "10:00"
+        },
+        {
+          "closing": "20:00",
+          "date": "2023-11-24",
+          "label": "Black Friday",
+          "opening": "10:00"
+        }
+      ],
       "address": "Sveavägen 39",
       "city": "Stockholm",
       "id": 2,
