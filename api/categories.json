@@ -848,18 +848,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
-        "priority": 4
-      },
-      {
-        "button": null,
         "description": "Nu är väntan över - köp Super Mario Bros Wonder idag! ",
         "highlightId": 2956,
         "id": 6858,
@@ -870,6 +858,18 @@
           "metaTitle": "Köp nya Super Mario Bros Wonder (Nintendo Switch)",
           "name": "Super Mario Bros Wonder (Switch)"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9085,
+          "name": "CLEAROUT"
+        },
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
       },
       {
         "button": null,
@@ -5520,6 +5520,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10238,
+          "name": "Bose QuietComfort Headphones"
+        },
+        "description": "Upptäck den nya generationen av BOSE-hörlurar",
+        "highlightId": 2975,
+        "id": 6912,
+        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10181,
           "name": "Bose Smart Ultra Soundbar"
         },
@@ -5551,30 +5575,6 @@
         "highlightId": 2978,
         "id": 6926,
         "imageUrl": "https://www.webhallen.com/images/696934-C700992x558pxSE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10175,
-          "name": "Bose QuietComfort Headphones & Earbuds"
-        },
-        "description": "Upptäck den nya generationen av BOSE-hörlurar",
-        "highlightId": 2975,
-        "id": 6912,
-        "imageUrl": "https://www.webhallen.com/images/696346-Webhallen-tile-category-page-992-x-558-All?raw",
         "priority": 5
       },
       {
@@ -6090,18 +6090,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10086,
-          "name": "Apple Watch Series 9"
-        },
-        "description": "Smartare. Ljusare. Mäktigare.",
-        "highlightId": 2921,
-        "id": 6876,
-        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10075,
           "name": "iPhone 15"
         },
@@ -6194,6 +6182,18 @@
         "highlightId": 2773,
         "id": 6438,
         "imageUrl": "https://www.webhallen.com/images/680535-Tilebanner-MacStudio992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10086,
+          "name": "Apple Watch Series 9"
+        },
+        "description": "Smartare. Ljusare. Mäktigare.",
+        "highlightId": 2921,
+        "id": 6876,
+        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
         "priority": 1
       }
     ],
@@ -6421,13 +6421,6 @@
                 "id": 16838,
                 "metaTitle": null,
                 "name": "OnePlus 11",
-                "subCategories": []
-              },
-              {
-                "icon": "mobiltelefon",
-                "id": 16711,
-                "metaTitle": null,
-                "name": "OnePlus 10",
                 "subCategories": []
               },
               {
@@ -7383,6 +7376,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10221,
+          "name": "Garmin Wearables for All"
+        },
+        "description": "Upptäck Garmins wearables - från aktivitetsmätare till smartwatches",
+        "highlightId": 2985,
+        "id": 6946,
+        "imageUrl": "https://www.webhallen.com/images/697422-W4All-TPB-992x558?raw",
         "priority": 5
       },
       {
@@ -8580,18 +8585,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9925,
           "name": "Philips Airfryers & Köksmaskiner"
         },
@@ -8623,6 +8616,18 @@
         "highlightId": 2988,
         "id": 6949,
         "imageUrl": "https://www.webhallen.com/images/697576-OutshineyourNeighbors-JulpyntskampanjSite?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -9572,6 +9577,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 9816,
+          "name": "Let it play out"
+        },
+        "description": "En Lekfull kampanj för april!",
+        "highlightId": 2669,
+        "id": 6188,
+        "imageUrl": "/images/697355-LetitplayoutSiteMobilTileBanner-992x55",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -9580,6 +9597,18 @@
         "id": 5488,
         "imageUrl": "/images/685002",
         "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10182,
+          "name": "LEGO Adults"
+        },
+        "description": "LEGO Adults Kampanj! Byggen för vuxna",
+        "highlightId": 2981,
+        "id": 6933,
+        "imageUrl": "/images/697126",
+        "priority": 4
       },
       {
         "button": null,
@@ -9604,18 +9633,6 @@
         "highlightId": 2043,
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10182,
-          "name": "LEGO Adults"
-        },
-        "description": "LEGO Adults Kampanj! Byggen för vuxna",
-        "highlightId": 2981,
-        "id": 6933,
-        "imageUrl": "/images/697126",
         "priority": 4
       }
     ],
