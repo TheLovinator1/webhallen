@@ -1,16 +1,3 @@
 {
-  "messages": [
-    {
-      "avatarId": 2,
-      "count": 0,
-      "endTime": {
-        "date": "2023-12-31 23:59:59.000000",
-        "timezone": "Europe/Stockholm",
-        "timezone_type": 3
-      },
-      "id": 250,
-      "message": "<a href=\"https://www.webhallen.com/se/info/13-Webhallen-Delbetalning\">Dela upp betalningen</a> i 12 mån med 0% ränta",
-      "type": "info"
-    }
-  ]
+  "messages": []
 }
