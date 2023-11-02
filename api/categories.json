@@ -1448,18 +1448,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10108,
-          "name": "Razer - Gaming Gear"
-        },
-        "description": "Välj och vraka bland gaming gear från Razer! ",
-        "highlightId": 2987,
-        "id": 6944,
-        "imageUrl": "/images/697485",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": null,
           "name": null
         },
@@ -1481,6 +1469,18 @@
           "metaTitle": null,
           "name": "Steelseries Apex Pro TKL (2023)"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10108,
+          "name": "Razer - Gaming Gear"
+        },
+        "description": "Välj och vraka bland gaming gear från Razer! ",
+        "highlightId": 2987,
+        "id": 6944,
+        "imageUrl": "/images/697485",
+        "priority": 3
       },
       {
         "button": null,
@@ -2974,20 +2974,8 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10251,
-          "name": "iMac (24-inch)"
+          "name": "iMac (24-tum)"
         },
         "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
         "highlightId": 2990,
@@ -3005,6 +2993,18 @@
         "highlightId": 2991,
         "id": 6952,
         "imageUrl": "https://www.webhallen.com/images/697914-iMacSiteMobilTileBanner-992x558?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -5473,6 +5473,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 10254,
+          "name": "Philips Headphones 60 days trial"
+        },
+        "description": "Få pengarna tillbaka om du inte är nöjd.",
+        "highlightId": 2992,
+        "id": 6961,
+        "imageUrl": "https://www.webhallen.com/images/698004-2671philipsWebhallenTile-bannerNoCTA992x?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10238,
           "name": "Bose QuietComfort Headphones"
         },
@@ -5504,18 +5528,6 @@
         "highlightId": 2978,
         "id": 6926,
         "imageUrl": "https://www.webhallen.com/images/696934-C700992x558pxSE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -6031,18 +6043,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10251,
-          "name": "iMac (24-inch)"
-        },
-        "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
-        "highlightId": 2990,
-        "id": 6958,
-        "imageUrl": "https://www.webhallen.com/images/697912-MacbookProSiteMobilTileBanner-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10245,
           "name": "MacBook Pro M3"
         },
@@ -6055,6 +6055,42 @@
       {
         "button": null,
         "campaign": {
+          "id": 10251,
+          "name": "iMac (24-tum)"
+        },
+        "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
+        "highlightId": 2990,
+        "id": 6958,
+        "imageUrl": "https://www.webhallen.com/images/697912-MacbookProSiteMobilTileBanner-992x558?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10087,
+          "name": "Apple Watch Ultra 2"
+        },
+        "description": "Den mest robusta och kapabla Apple Watch.",
+        "highlightId": 2922,
+        "id": 6785,
+        "imageUrl": "https://www.webhallen.com/images/691698-AppleULTRASEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9744,
+          "name": "Apple HomePod (2nd generation)"
+        },
+        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
+        "highlightId": 2584,
+        "id": 6072,
+        "imageUrl": "/images/657850",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10078,
           "name": "iPhone 15 Pro"
         },
@@ -6062,6 +6098,18 @@
         "highlightId": 2923,
         "id": 6794,
         "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9739,
+          "name": "MacBook Pro"
+        },
+        "description": "Nya MacBook med M2 Pro och M2 Max.",
+        "highlightId": 2582,
+        "id": 6261,
+        "imageUrl": "/images/658281",
         "priority": 1
       },
       {
@@ -6124,42 +6172,6 @@
           "metaTitle": null,
           "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9744,
-          "name": "Apple HomePod (2nd generation)"
-        },
-        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
-        "highlightId": 2584,
-        "id": 6072,
-        "imageUrl": "/images/657850",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10087,
-          "name": "Apple Watch Ultra 2"
-        },
-        "description": "Den mest robusta och kapabla Apple Watch.",
-        "highlightId": 2922,
-        "id": 6785,
-        "imageUrl": "https://www.webhallen.com/images/691698-AppleULTRASEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9739,
-          "name": "MacBook Pro"
-        },
-        "description": "Nya MacBook med M2 Pro och M2 Max.",
-        "highlightId": 2582,
-        "id": 6261,
-        "imageUrl": "/images/658281",
-        "priority": 1
       }
     ],
     "icon": "apple",
@@ -8550,18 +8562,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9925,
           "name": "Philips Airfryers & Köksmaskiner"
         },
@@ -8574,18 +8574,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9926,
-          "name": "Philips Robotdammsugare"
-        },
-        "description": "Rengör golven noggrannt med Philips sladdlösa dammsugare",
-        "highlightId": 2983,
-        "id": 6939,
-        "imageUrl": "https://www.webhallen.com/images/697354-FC-XC3133-Webhallen-oct23-992x558-SE-1?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10196,
           "name": "Outshine Your Neighbors"
         },
@@ -8593,6 +8581,30 @@
         "highlightId": 2988,
         "id": 6949,
         "imageUrl": "https://www.webhallen.com/images/697576-OutshineyourNeighbors-JulpyntskampanjSite?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9926,
+          "name": "Philips Dammsugare & Robotdammsugare"
+        },
+        "description": "Lämna över städningen till Philips Robotdammsugare",
+        "highlightId": 2929,
+        "id": 6962,
+        "imageUrl": "https://www.webhallen.com/images/689839-FC-XU7100-Black-Webhallen-sep23-SE992x558?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -9518,18 +9530,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8696,
-          "name": "Brädspelstips: Webhallens favoritspel"
-        },
-        "description": "Hitta rätt i brädspelsdjungeln!",
-        "highlightId": 1650,
-        "id": 4242,
-        "imageUrl": "/images/670551",
-        "priority": 10000
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 6813,
           "name": "LEGO"
         },
@@ -9542,6 +9542,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 8696,
+          "name": "Brädspelstips: Webhallens favoritspel"
+        },
+        "description": "Hitta rätt i brädspelsdjungeln!",
+        "highlightId": 1650,
+        "id": 4242,
+        "imageUrl": "/images/670551",
+        "priority": 10000
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9816,
+          "name": "Let it play out"
+        },
+        "description": "En Lekfull kampanj för hösten!",
+        "highlightId": 2669,
+        "id": 6188,
+        "imageUrl": "/images/697355-LetitplayoutSiteMobilTileBanner-992x55",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -9550,31 +9574,6 @@
         "id": 5488,
         "imageUrl": "/images/685002",
         "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9816,
-          "name": "Let it play out"
-        },
-        "description": "En Lekfull kampanj för april!",
-        "highlightId": 2669,
-        "id": 6188,
-        "imageUrl": "/images/697355-LetitplayoutSiteMobilTileBanner-992x55",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "category": {
-          "id": 4661,
-          "internalName": "Pokemon Trading Card Game",
-          "name": "Pokémon"
-        },
-        "description": "Fånga, samla, spela!",
-        "highlightId": 1684,
-        "id": 4039,
-        "imageUrl": "/images/671754",
-        "priority": 4
       },
       {
         "button": null,
@@ -9598,6 +9597,19 @@
         "highlightId": 2981,
         "id": 6933,
         "imageUrl": "/images/697126",
+        "priority": 4
+      },
+      {
+        "button": null,
+        "category": {
+          "id": 4661,
+          "internalName": "Pokemon Trading Card Game",
+          "name": "Pokémon"
+        },
+        "description": "Fånga, samla, spela!",
+        "highlightId": 1684,
+        "id": 4039,
+        "imageUrl": "/images/671754",
         "priority": 4
       }
     ],
