@@ -802,18 +802,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10059,
-          "name": "Meta Quest 3"
-        },
-        "description": "Äntligen kan du köpa Meta Quest 3!",
-        "highlightId": 2946,
-        "id": 6883,
-        "imageUrl": "/images/693269",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -821,6 +809,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10059,
+          "name": "Meta Quest 3"
+        },
+        "description": "Äntligen kan du köpa Meta Quest 3!",
+        "highlightId": 2946,
+        "id": 6883,
+        "imageUrl": "/images/693269",
         "priority": 5
       },
       {
@@ -894,6 +894,18 @@
         "highlightId": 2989,
         "id": 6951,
         "imageUrl": "/images/697613",
+        "priority": 2.5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10258,
+          "name": "Naruto X Boruto: Ultimate Ninja Storm Connections"
+        },
+        "description": "Förboka Naruto X Boruto: Ultimate Ninja Storm Connections!",
+        "highlightId": 2994,
+        "id": 6963,
+        "imageUrl": "/images/698140",
         "priority": 2.5
       },
       {
@@ -1447,18 +1459,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": null,
-          "name": null
-        },
-        "description": "Klassisk utrustning från 8bitdo - förboka nu! ",
-        "highlightId": 2959,
-        "id": 6935,
-        "imageUrl": "/images/694777",
-        "priority": 3
-      },
-      {
-        "button": null,
         "description": "Uppdatera ditt tangentbord till Steelseries nya Apex Pro TKL (2023)",
         "highlightId": 2982,
         "id": 6937,
@@ -1480,6 +1480,18 @@
         "highlightId": 2987,
         "id": 6944,
         "imageUrl": "/images/697485",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": null,
+          "name": null
+        },
+        "description": "Klassisk utrustning från 8bitdo - förboka nu! ",
+        "highlightId": 2959,
+        "id": 6935,
+        "imageUrl": "/images/694777",
         "priority": 3
       },
       {
@@ -2974,18 +2986,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10251,
-          "name": "iMac (24-tum)"
-        },
-        "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
-        "highlightId": 2990,
-        "id": 6958,
-        "imageUrl": "https://www.webhallen.com/images/697912-MacbookProSiteMobilTileBanner-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10245,
           "name": "MacBook Pro M3"
         },
@@ -3005,6 +3005,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10251,
+          "name": "iMac (24-tum)"
+        },
+        "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
+        "highlightId": 2990,
+        "id": 6958,
+        "imageUrl": "https://www.webhallen.com/images/697912-MacbookProSiteMobilTileBanner-992x558?raw",
         "priority": 5
       },
       {
@@ -3996,6 +4008,18 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10145,
+          "name": "Nvidia RTX - Alan Wake 2 på köpet"
+        },
+        "description": "Köp en GPU/dator ur kampanjen och få Alan Wake 2 på köpet!",
+        "highlightId": 2958,
+        "id": 6862,
+        "imageUrl": "/images/694200",
+        "priority": 1
       }
     ],
     "icon": "datorkomponenter",
@@ -4565,6 +4589,13 @@
             "id": 2570,
             "metaTitle": "Trådlös nätverkskamera - IP kamera",
             "name": "IP-kamera",
+            "subCategories": []
+          },
+          {
+            "icon": "natverkskameror",
+            "id": 16860,
+            "metaTitle": null,
+            "name": "Philips Hue Secure",
             "subCategories": []
           },
           {
@@ -5417,13 +5448,6 @@
             "subCategories": []
           },
           {
-            "icon": "kablar_kontakter",
-            "id": 2081,
-            "metaTitle": "Kablar till TV - Högtalarkablage",
-            "name": "Högtalarkablage",
-            "subCategories": []
-          },
-          {
             "icon": "kablar_adaptrar",
             "id": 2720,
             "metaTitle": "Kabelgömma",
@@ -5473,18 +5497,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10254,
-          "name": "Philips Headphones 60 days trial"
-        },
-        "description": "Få pengarna tillbaka om du inte är nöjd.",
-        "highlightId": 2992,
-        "id": 6961,
-        "imageUrl": "https://www.webhallen.com/images/698004-2671philipsWebhallenTile-bannerNoCTA992x?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -5528,6 +5540,18 @@
         "highlightId": 2978,
         "id": 6926,
         "imageUrl": "https://www.webhallen.com/images/696934-C700992x558pxSE?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10254,
+          "name": "Philips Headphones 60 days trial"
+        },
+        "description": "Få pengarna tillbaka om du inte är nöjd.",
+        "highlightId": 2992,
+        "id": 6961,
+        "imageUrl": "https://www.webhallen.com/images/698004-2671philipsWebhallenTile-bannerNoCTA992x?raw",
         "priority": 5
       },
       {
@@ -6482,6 +6506,13 @@
           },
           {
             "icon": "mobiltelefon",
+            "id": 16815,
+            "metaTitle": null,
+            "name": "TCL",
+            "subCategories": []
+          },
+          {
+            "icon": "mobiltelefon",
             "id": 13766,
             "metaTitle": "Motorola mobil - köp billigt online med fri frakt",
             "name": "Motorola",
@@ -6494,6 +6525,13 @@
                 "subCategories": []
               }
             ]
+          },
+          {
+            "icon": "mobiltelefon",
+            "id": 16709,
+            "metaTitle": null,
+            "name": "Alcatel",
+            "subCategories": []
           },
           {
             "icon": "mobiltelefon",
@@ -6838,13 +6876,6 @@
                 "id": 16412,
                 "metaTitle": "Mobilskal iPhone 12 Pro - Snygga skal - Bättre priser!",
                 "name": "iPhone 12 Pro",
-                "subCategories": []
-              },
-              {
-                "icon": "mobilfodral",
-                "id": 16414,
-                "metaTitle": null,
-                "name": "iPhone 12 Pro Max",
                 "subCategories": []
               },
               {
@@ -7382,18 +7413,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10111,
-          "name": "Mobilabonnemang"
-        },
-        "description": "Kolla in abonnemangen!",
-        "highlightId": 2933,
-        "id": 6811,
-        "imageUrl": "/images/691686",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8984,
           "name": "Webhallen Revive: Byt in din mobil, iPad eller MacBook - använd värdet på något nytt"
         },
@@ -7401,6 +7420,18 @@
         "highlightId": 2122,
         "id": 4902,
         "imageUrl": "/images/619483",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10111,
+          "name": "Mobilabonnemang"
+        },
+        "description": "Kolla in abonnemangen!",
+        "highlightId": 2933,
+        "id": 6811,
+        "imageUrl": "/images/691686",
         "priority": 1
       }
     ],
@@ -8562,6 +8593,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9925,
           "name": "Philips Airfryers & Köksmaskiner"
         },
@@ -8581,30 +8624,6 @@
         "highlightId": 2988,
         "id": 6949,
         "imageUrl": "https://www.webhallen.com/images/697576-OutshineyourNeighbors-JulpyntskampanjSite?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9926,
-          "name": "Philips Dammsugare & Robotdammsugare"
-        },
-        "description": "Lämna över städningen till Philips Robotdammsugare",
-        "highlightId": 2929,
-        "id": 6962,
-        "imageUrl": "https://www.webhallen.com/images/689839-FC-XU7100-Black-Webhallen-sep23-SE992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -9054,6 +9073,21 @@
                 "metaTitle": null,
                 "name": "Decks",
                 "subCategories": []
+              },
+              {
+                "icon": "magic",
+                "id": 4175,
+                "metaTitle": null,
+                "name": "Tillbehör",
+                "subCategories": [
+                  {
+                    "icon": "magic",
+                    "id": 15957,
+                    "metaTitle": null,
+                    "name": "Legion Supplies",
+                    "subCategories": []
+                  }
+                ]
               }
             ]
           },
@@ -9458,6 +9492,13 @@
             "subCategories": []
           },
           {
+            "icon": "leksaker_per_kategori",
+            "id": 4254,
+            "metaTitle": "Utomhusleksaker",
+            "name": "Utomhusleksaker",
+            "subCategories": []
+          },
+          {
             "icon": "gadgets",
             "id": 67,
             "metaTitle": null,
@@ -9554,6 +9595,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9816,
           "name": "Let it play out"
         },
@@ -9565,15 +9618,16 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
+        "category": {
+          "id": 4661,
+          "internalName": "Pokemon Trading Card Game",
+          "name": "Pokémon"
         },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
+        "description": "Fånga, samla, spela!",
+        "highlightId": 1684,
+        "id": 4039,
+        "imageUrl": "/images/671754",
+        "priority": 4
       },
       {
         "button": null,
@@ -9597,19 +9651,6 @@
         "highlightId": 2981,
         "id": 6933,
         "imageUrl": "/images/697126",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "category": {
-          "id": 4661,
-          "internalName": "Pokemon Trading Card Game",
-          "name": "Pokémon"
-        },
-        "description": "Fånga, samla, spela!",
-        "highlightId": 1684,
-        "id": 4039,
-        "imageUrl": "/images/671754",
         "priority": 4
       }
     ],
