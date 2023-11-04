@@ -363,12 +363,6 @@
     {
       "abnormalOpenHours": [
         {
-          "closing": "18:00",
-          "date": "2023-11-03",
-          "label": "Allhelgonaafton ",
-          "opening": "10:00"
-        },
-        {
           "closing": "17:00",
           "date": "2023-11-04",
           "label": "Alla helgons dag",
@@ -601,12 +595,6 @@
     },
     {
       "abnormalOpenHours": [
-        {
-          "closing": "20:00",
-          "date": "2023-11-03",
-          "label": "Alla helgons afton",
-          "opening": "10:00"
-        },
         {
           "closing": "17:00",
           "date": "2023-11-04",
