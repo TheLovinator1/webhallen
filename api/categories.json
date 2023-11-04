@@ -802,18 +802,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10059,
           "name": "Meta Quest 3"
         },
@@ -821,6 +809,18 @@
         "highlightId": 2946,
         "id": 6883,
         "imageUrl": "/images/693269",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -1459,19 +1459,6 @@
       },
       {
         "button": null,
-        "description": "Uppdatera ditt tangentbord till Steelseries nya Apex Pro TKL (2023)",
-        "highlightId": 2982,
-        "id": 6937,
-        "imageUrl": "/images/697338",
-        "priority": 3,
-        "product": {
-          "id": 365395,
-          "metaTitle": null,
-          "name": "Steelseries Apex Pro TKL (2023)"
-        }
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 10108,
           "name": "Razer - Gaming Gear"
@@ -1493,6 +1480,19 @@
         "id": 6935,
         "imageUrl": "/images/694777",
         "priority": 3
+      },
+      {
+        "button": null,
+        "description": "Uppdatera ditt tangentbord till Steelseries nya Apex Pro TKL (2023)",
+        "highlightId": 2982,
+        "id": 6937,
+        "imageUrl": "/images/697338",
+        "priority": 3,
+        "product": {
+          "id": 365395,
+          "metaTitle": null,
+          "name": "Steelseries Apex Pro TKL (2023)"
+        }
       },
       {
         "button": null,
@@ -2986,18 +2986,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10245,
-          "name": "MacBook Pro M3"
-        },
-        "description": "Världens mest avancerade bärbara Mac. Säljstart 7 november.",
-        "highlightId": 2991,
-        "id": 6952,
-        "imageUrl": "https://www.webhallen.com/images/697914-iMacSiteMobilTileBanner-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -3017,6 +3005,18 @@
         "highlightId": 2990,
         "id": 6958,
         "imageUrl": "https://www.webhallen.com/images/697912-MacbookProSiteMobilTileBanner-992x558?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10245,
+          "name": "MacBook Pro M3"
+        },
+        "description": "Världens mest avancerade bärbara Mac. Säljstart 7 november.",
+        "highlightId": 2991,
+        "id": 6952,
+        "imageUrl": "https://www.webhallen.com/images/697914-iMacSiteMobilTileBanner-992x558?raw",
         "priority": 5
       },
       {
@@ -5497,18 +5497,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10238,
           "name": "Bose QuietComfort Headphones"
         },
@@ -5552,6 +5540,18 @@
         "highlightId": 2992,
         "id": 6961,
         "imageUrl": "https://www.webhallen.com/images/698004-2671philipsWebhallenTile-bannerNoCTA992x?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -6067,18 +6067,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10245,
-          "name": "MacBook Pro M3"
-        },
-        "description": "Världens mest avancerade bärbara Mac. Säljstart 7 november.",
-        "highlightId": 2991,
-        "id": 6953,
-        "imageUrl": "https://www.webhallen.com/images/697914-iMacSiteMobilTileBanner-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10251,
           "name": "iMac (24-tum)"
         },
@@ -6091,50 +6079,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10087,
-          "name": "Apple Watch Ultra 2"
+          "id": 10245,
+          "name": "MacBook Pro M3"
         },
-        "description": "Den mest robusta och kapabla Apple Watch.",
-        "highlightId": 2922,
-        "id": 6785,
-        "imageUrl": "https://www.webhallen.com/images/691698-AppleULTRASEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9744,
-          "name": "Apple HomePod (2nd generation)"
-        },
-        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
-        "highlightId": 2584,
-        "id": 6072,
-        "imageUrl": "/images/657850",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10078,
-          "name": "iPhone 15 Pro"
-        },
-        "description": "Titan. Stark. Lätt. Pro.",
-        "highlightId": 2923,
-        "id": 6794,
-        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9739,
-          "name": "MacBook Pro"
-        },
-        "description": "Nya MacBook med M2 Pro och M2 Max.",
-        "highlightId": 2582,
-        "id": 6261,
-        "imageUrl": "/images/658281",
-        "priority": 1
+        "description": "Världens mest avancerade bärbara Mac. Säljstart 7 november.",
+        "highlightId": 2991,
+        "id": 6953,
+        "imageUrl": "https://www.webhallen.com/images/697914-iMacSiteMobilTileBanner-992x558?raw",
+        "priority": 5
       },
       {
         "button": null,
@@ -6196,6 +6148,54 @@
           "metaTitle": null,
           "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10087,
+          "name": "Apple Watch Ultra 2"
+        },
+        "description": "Den mest robusta och kapabla Apple Watch.",
+        "highlightId": 2922,
+        "id": 6785,
+        "imageUrl": "https://www.webhallen.com/images/691698-AppleULTRASEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9744,
+          "name": "Apple HomePod (2nd generation)"
+        },
+        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
+        "highlightId": 2584,
+        "id": 6072,
+        "imageUrl": "/images/657850",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10078,
+          "name": "iPhone 15 Pro"
+        },
+        "description": "Titan. Stark. Lätt. Pro.",
+        "highlightId": 2923,
+        "id": 6794,
+        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9739,
+          "name": "MacBook Pro"
+        },
+        "description": "Nya MacBook med M2 Pro och M2 Max.",
+        "highlightId": 2582,
+        "id": 6261,
+        "imageUrl": "/images/658281",
+        "priority": 1
       }
     ],
     "icon": "apple",
@@ -7413,18 +7413,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8984,
-          "name": "Webhallen Revive: Byt in din mobil, iPad eller MacBook - använd värdet på något nytt"
-        },
-        "description": "Byt in din gamla mobil",
-        "highlightId": 2122,
-        "id": 4902,
-        "imageUrl": "/images/619483",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10111,
           "name": "Mobilabonnemang"
         },
@@ -7432,6 +7420,18 @@
         "highlightId": 2933,
         "id": 6811,
         "imageUrl": "/images/691686",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8984,
+          "name": "Webhallen Revive: Byt in din mobil, iPad eller MacBook - använd värdet på något nytt"
+        },
+        "description": "Byt in din gamla mobil",
+        "highlightId": 2122,
+        "id": 4902,
+        "imageUrl": "/images/619483",
         "priority": 1
       }
     ],
@@ -9571,18 +9571,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 6813,
-          "name": "LEGO"
-        },
-        "description": "Utforska vårt stora sortiment av LEGO!",
-        "highlightId": 967,
-        "id": 2314,
-        "imageUrl": "/images/672497",
-        "priority": 10000
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8696,
           "name": "Brädspelstips: Webhallens favoritspel"
         },
@@ -9590,6 +9578,18 @@
         "highlightId": 1650,
         "id": 4242,
         "imageUrl": "/images/670551",
+        "priority": 10000
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 6813,
+          "name": "LEGO"
+        },
+        "description": "Utforska vårt stora sortiment av LEGO!",
+        "highlightId": 967,
+        "id": 2314,
+        "imageUrl": "/images/672497",
         "priority": 10000
       },
       {
