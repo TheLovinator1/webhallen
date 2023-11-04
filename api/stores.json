@@ -143,14 +143,7 @@
       "zipCode": "11134"
     },
     {
-      "abnormalOpenHours": [
-        {
-          "closing": "16:00",
-          "date": "2023-11-04",
-          "label": "Alla Helgons Dag",
-          "opening": "12:00"
-        }
-      ],
+      "abnormalOpenHours": [],
       "address": "Svartbäcksgatan 14",
       "city": "Uppsala",
       "id": 5,
@@ -361,14 +354,7 @@
       "zipCode": "43633"
     },
     {
-      "abnormalOpenHours": [
-        {
-          "closing": "17:00",
-          "date": "2023-11-04",
-          "label": "Alla helgons dag",
-          "opening": "11:00"
-        }
-      ],
+      "abnormalOpenHours": [],
       "address": "Siroccogatan 9",
       "city": "Nacka",
       "id": 11,
@@ -594,14 +580,7 @@
       "zipCode": "12952"
     },
     {
-      "abnormalOpenHours": [
-        {
-          "closing": "17:00",
-          "date": "2023-11-04",
-          "label": "Alla helgons dag",
-          "opening": "11:00"
-        }
-      ],
+      "abnormalOpenHours": [],
       "address": "Farstaplan 24",
       "city": "Farsta",
       "id": 19,
