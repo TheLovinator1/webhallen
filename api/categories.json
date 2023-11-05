@@ -825,6 +825,19 @@
       },
       {
         "button": null,
+        "description": "Nu är väntan över - köp Super Mario Bros Wonder idag! ",
+        "highlightId": 2956,
+        "id": 6858,
+        "imageUrl": "/images/694191",
+        "priority": 4,
+        "product": {
+          "id": 362686,
+          "metaTitle": "Köp nya Super Mario Bros Wonder (Nintendo Switch)",
+          "name": "Super Mario Bros Wonder (Switch)"
+        }
+      },
+      {
+        "button": null,
         "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
@@ -837,16 +850,15 @@
       },
       {
         "button": null,
-        "description": "Nu är väntan över - köp Super Mario Bros Wonder idag! ",
-        "highlightId": 2956,
-        "id": 6858,
-        "imageUrl": "/images/694191",
-        "priority": 4,
-        "product": {
-          "id": 362686,
-          "metaTitle": "Köp nya Super Mario Bros Wonder (Nintendo Switch)",
-          "name": "Super Mario Bros Wonder (Switch)"
-        }
+        "campaign": {
+          "id": 9960,
+          "name": "Spider-Man 2"
+        },
+        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
+        "highlightId": 2904,
+        "id": 6742,
+        "imageUrl": "/images/696876",
+        "priority": 3
       },
       {
         "button": null,
@@ -863,14 +875,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 9960,
-          "name": "Spider-Man 2"
+          "id": 10258,
+          "name": "Naruto X Boruto: Ultimate Ninja Storm Connections"
         },
-        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
-        "highlightId": 2904,
-        "id": 6742,
-        "imageUrl": "/images/696876",
-        "priority": 3
+        "description": "Förboka Naruto X Boruto: Ultimate Ninja Storm Connections!",
+        "highlightId": 2994,
+        "id": 6963,
+        "imageUrl": "/images/698140",
+        "priority": 2.5
       },
       {
         "button": null,
@@ -894,18 +906,6 @@
         "highlightId": 2989,
         "id": 6951,
         "imageUrl": "/images/697613",
-        "priority": 2.5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10258,
-          "name": "Naruto X Boruto: Ultimate Ninja Storm Connections"
-        },
-        "description": "Förboka Naruto X Boruto: Ultimate Ninja Storm Connections!",
-        "highlightId": 2994,
-        "id": 6963,
-        "imageUrl": "/images/698140",
         "priority": 2.5
       },
       {
@@ -1460,18 +1460,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10108,
-          "name": "Razer - Gaming Gear"
-        },
-        "description": "Välj och vraka bland gaming gear från Razer! ",
-        "highlightId": 2987,
-        "id": 6944,
-        "imageUrl": "/images/697485",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": null,
           "name": null
         },
@@ -1493,6 +1481,18 @@
           "metaTitle": null,
           "name": "Steelseries Apex Pro TKL (2023)"
         }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10108,
+          "name": "Razer - Gaming Gear"
+        },
+        "description": "Välj och vraka bland gaming gear från Razer! ",
+        "highlightId": 2987,
+        "id": 6944,
+        "imageUrl": "/images/697485",
+        "priority": 3
       },
       {
         "button": null,
@@ -2986,18 +2986,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10251,
           "name": "iMac (24-tum)"
         },
@@ -3017,6 +3005,18 @@
         "highlightId": 2991,
         "id": 6952,
         "imageUrl": "https://www.webhallen.com/images/697914-iMacSiteMobilTileBanner-992x558?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -6908,13 +6908,6 @@
               },
               {
                 "icon": "mobilfodral",
-                "id": 16262,
-                "metaTitle": null,
-                "name": "iPhone 11 Pro",
-                "subCategories": []
-              },
-              {
-                "icon": "mobilfodral",
                 "id": 16263,
                 "metaTitle": null,
                 "name": "iPhone 11 Pro Max",
@@ -7353,18 +7346,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9970,
-          "name": "Galaxy S23 | Z Flip5 | Z Fold5 Bundle"
-        },
-        "description": "Köp Galaxy S23 / Z Flip5 / Z Fold5 & få Watch6 på köpet!",
-        "highlightId": 2973,
-        "id": 6907,
-        "imageUrl": "https://www.webhallen.com/images/695917-SEGAL4?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -7396,6 +7377,18 @@
         "highlightId": 2919,
         "id": 6776,
         "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9970,
+          "name": "Galaxy S23 | Z Flip5 | Z Fold5 Bundle"
+        },
+        "description": "Köp Galaxy S23 / Z Flip5 / Z Fold5 & få Watch6 på köpet!",
+        "highlightId": 2973,
+        "id": 6907,
+        "imageUrl": "https://www.webhallen.com/images/695917-SEGAL4?raw",
         "priority": 5
       },
       {
