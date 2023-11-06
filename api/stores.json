@@ -822,7 +822,14 @@
       "zipCode": "21532"
     },
     {
-      "abnormalOpenHours": [],
+      "abnormalOpenHours": [
+        {
+          "closing": "20:00",
+          "date": "2023-11-24",
+          "label": "Black Friday",
+          "opening": "07:00"
+        }
+      ],
       "address": "Postgatan 26-32",
       "city": "Göteborg",
       "id": 27,
