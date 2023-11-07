@@ -826,18 +826,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9960,
-          "name": "Spider-Man 2"
-        },
-        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
-        "highlightId": 2904,
-        "id": 6742,
-        "imageUrl": "/images/696876",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10131,
           "name": "Call of Duty: Modern Warfare III"
         },
@@ -845,6 +833,31 @@
         "highlightId": 2941,
         "id": 6928,
         "imageUrl": "/images/696972",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "description": "Förboka Farming Simulator 22 Premium Edition! ",
+        "highlightId": 3000,
+        "id": 6979,
+        "imageUrl": "/images/698601",
+        "priority": 3,
+        "product": {
+          "id": 363357,
+          "metaTitle": null,
+          "name": "Farming Simulator 22 Premium Edition (PS5)"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9960,
+          "name": "Spider-Man 2"
+        },
+        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
+        "highlightId": 2904,
+        "id": 6742,
+        "imageUrl": "/images/696876",
         "priority": 3
       },
       {
@@ -1456,6 +1469,18 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10052,
+          "name": "Logitech nyheter"
+        },
+        "description": "Uppgradera dig med det senaste från Logitech! ",
+        "highlightId": 2902,
+        "id": 6975,
+        "imageUrl": "/images/687030",
+        "priority": 1
       }
     ],
     "icon": "gaming",
@@ -2816,21 +2841,6 @@
         "subCategories": [
           {
             "icon": "vr",
-            "id": 16058,
-            "metaTitle": "HTC Vive - Fantastisk spelupplevelse",
-            "name": "HTC Vive",
-            "subCategories": [
-              {
-                "icon": "vr",
-                "id": 16799,
-                "metaTitle": null,
-                "name": "HTC Vive tillbehör",
-                "subCategories": []
-              }
-            ]
-          },
-          {
-            "icon": "vr",
             "id": 16797,
             "metaTitle": null,
             "name": "Meta Quest",
@@ -2840,6 +2850,21 @@
                 "id": 16798,
                 "metaTitle": null,
                 "name": "Meta Quest tillbehör",
+                "subCategories": []
+              }
+            ]
+          },
+          {
+            "icon": "vr",
+            "id": 16058,
+            "metaTitle": "HTC Vive - Fantastisk spelupplevelse",
+            "name": "HTC Vive",
+            "subCategories": [
+              {
+                "icon": "vr",
+                "id": 16799,
+                "metaTitle": null,
+                "name": "HTC Vive tillbehör",
                 "subCategories": []
               }
             ]
@@ -2925,18 +2950,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10251,
-          "name": "iMac (24-tum)"
-        },
-        "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
-        "highlightId": 2990,
-        "id": 6958,
-        "imageUrl": "https://www.webhallen.com/images/697912-MacbookProSiteMobilTileBanner-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -2944,6 +2957,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10251,
+          "name": "iMac (24-tum)"
+        },
+        "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
+        "highlightId": 2990,
+        "id": 6958,
+        "imageUrl": "https://www.webhallen.com/images/697912-MacbookProSiteMobilTileBanner-992x558?raw",
         "priority": 5
       },
       {
@@ -5389,13 +5414,6 @@
             "subCategories": []
           },
           {
-            "icon": "kablar_kontakter",
-            "id": 2081,
-            "metaTitle": "Kablar till TV - Högtalarkablage",
-            "name": "Högtalarkablage",
-            "subCategories": []
-          },
-          {
             "icon": "kablar_adaptrar",
             "id": 2720,
             "metaTitle": "Kabelgömma",
@@ -5445,30 +5463,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10254,
-          "name": "Philips Headphones 60 days trial"
-        },
-        "description": "Få pengarna tillbaka om du inte är nöjd.",
-        "highlightId": 2992,
-        "id": 6961,
-        "imageUrl": "https://www.webhallen.com/images/698004-2671philipsWebhallenTile-bannerNoCTA992x?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10238,
           "name": "Bose QuietComfort Headphones"
         },
@@ -5488,6 +5482,30 @@
         "highlightId": 2952,
         "id": 6922,
         "imageUrl": "https://www.webhallen.com/images/696611-2651philipsWebhallenTile-bannerNoCTA992x?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10254,
+          "name": "Philips Headphones 60 days trial"
+        },
+        "description": "Få pengarna tillbaka om du inte är nöjd.",
+        "highlightId": 2992,
+        "id": 6961,
+        "imageUrl": "https://www.webhallen.com/images/698004-2671philipsWebhallenTile-bannerNoCTA992x?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -6026,55 +6044,6 @@
       },
       {
         "button": null,
-        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
-        "highlightId": 2656,
-        "id": 6584,
-        "imageUrl": "/images/684574",
-        "priority": 1,
-        "product": {
-          "id": 364601,
-          "metaTitle": null,
-          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
-        }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10087,
-          "name": "Apple Watch Ultra 2"
-        },
-        "description": "Den mest robusta och kapabla Apple Watch.",
-        "highlightId": 2922,
-        "id": 6785,
-        "imageUrl": "https://www.webhallen.com/images/691698-AppleULTRASEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9744,
-          "name": "Apple HomePod (2nd generation)"
-        },
-        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
-        "highlightId": 2584,
-        "id": 6072,
-        "imageUrl": "/images/657850",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10078,
-          "name": "iPhone 15 Pro"
-        },
-        "description": "Titan. Stark. Lätt. Pro.",
-        "highlightId": 2923,
-        "id": 6794,
-        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
         "campaign": {
           "id": 9739,
           "name": "MacBook Pro"
@@ -6131,6 +6100,55 @@
         "highlightId": 2920,
         "id": 6877,
         "imageUrl": "https://www.webhallen.com/images/691701-AppleIPHONE15SEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6584,
+        "imageUrl": "/images/684574",
+        "priority": 1,
+        "product": {
+          "id": 364601,
+          "metaTitle": null,
+          "name": "Apple AirPods Pro 2nd gen (2023) med MagSafe Case (USB-C)"
+        }
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10087,
+          "name": "Apple Watch Ultra 2"
+        },
+        "description": "Den mest robusta och kapabla Apple Watch.",
+        "highlightId": 2922,
+        "id": 6785,
+        "imageUrl": "https://www.webhallen.com/images/691698-AppleULTRASEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9744,
+          "name": "Apple HomePod (2nd generation)"
+        },
+        "description": "Få högupplöst, omfamnade ljud med nya HomePod. Köp nu.",
+        "highlightId": 2584,
+        "id": 6072,
+        "imageUrl": "/images/657850",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10078,
+          "name": "iPhone 15 Pro"
+        },
+        "description": "Titan. Stark. Lätt. Pro.",
+        "highlightId": 2923,
+        "id": 6794,
+        "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
         "priority": 1
       }
     ],
@@ -6902,7 +6920,7 @@
               {
                 "icon": "mobilfodral",
                 "id": 16740,
-                "metaTitle": "Mobilskal Samsuns 23+ - Skydda telefonen med stil!",
+                "metaTitle": "Mobilskal Samsung 23+ - Skydda telefonen med stil!",
                 "name": "S23+",
                 "subCategories": []
               },
@@ -7342,18 +7360,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10111,
-          "name": "Mobilabonnemang"
-        },
-        "description": "Kolla in abonnemangen!",
-        "highlightId": 2933,
-        "id": 6811,
-        "imageUrl": "/images/691686",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8984,
           "name": "Webhallen Revive: Byt in din mobil, iPad eller MacBook - använd värdet på något nytt"
         },
@@ -7361,6 +7367,18 @@
         "highlightId": 2122,
         "id": 4902,
         "imageUrl": "/images/619483",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10111,
+          "name": "Mobilabonnemang"
+        },
+        "description": "Kolla in abonnemangen!",
+        "highlightId": 2933,
+        "id": 6811,
+        "imageUrl": "/images/691686",
         "priority": 1
       }
     ],
@@ -8522,18 +8540,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10196,
-          "name": "Outshine Your Neighbors"
-        },
-        "description": "Julpynta som aldrig förr! Fynda juldekoren här",
-        "highlightId": 2988,
-        "id": 6949,
-        "imageUrl": "https://www.webhallen.com/images/697576-OutshineyourNeighbors-JulpyntskampanjSite?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -8553,6 +8559,18 @@
         "highlightId": 2965,
         "id": 6872,
         "imageUrl": "https://www.webhallen.com/images/696537-AF-Webhallen-HD9285-oct23-992x558-SE2?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10196,
+          "name": "Outshine Your Neighbors"
+        },
+        "description": "Julpynta som aldrig förr! Fynda juldekoren här",
+        "highlightId": 2988,
+        "id": 6949,
+        "imageUrl": "https://www.webhallen.com/images/697576-OutshineyourNeighbors-JulpyntskampanjSite?raw",
         "priority": 5
       },
       {
