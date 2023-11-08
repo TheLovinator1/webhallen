@@ -552,6 +552,10 @@
         {
           "icon": "/img/icons/store/bil.svg",
           "label": "Från E20/E4, avfart Fruängen"
+        },
+        {
+          "icon": "/img/icons/store/bil.svg",
+          "label": "Enkelriktdad väg Elsa Brändstöms gata söderut pga vägarbete."
         }
       ],
       "isPickupPoint": false,
