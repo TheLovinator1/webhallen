@@ -448,6 +448,13 @@
           },
           {
             "icon": "pc",
+            "id": 332,
+            "metaTitle": "Nya spel till PC",
+            "name": "Nya spel",
+            "subCategories": []
+          },
+          {
+            "icon": "pc",
             "id": 330,
             "metaTitle": "Kommande spel till PC - Nya spel",
             "name": "Kommande spel",
@@ -826,6 +833,30 @@
       {
         "button": null,
         "campaign": {
+          "id": 10151,
+          "name": "Star Ocean"
+        },
+        "description": "Köp Star Ocean och njut av ett episkt Sci-fi RPG!",
+        "highlightId": 3003,
+        "id": 6983,
+        "imageUrl": "/images/698630",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9960,
+          "name": "Spider-Man 2"
+        },
+        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
+        "highlightId": 2904,
+        "id": 6742,
+        "imageUrl": "/images/696876",
+        "priority": 3
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10131,
           "name": "Call of Duty: Modern Warfare III"
         },
@@ -847,18 +878,6 @@
           "metaTitle": null,
           "name": "Farming Simulator 22 Premium Edition (PS5)"
         }
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9960,
-          "name": "Spider-Man 2"
-        },
-        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
-        "highlightId": 2904,
-        "id": 6742,
-        "imageUrl": "/images/696876",
-        "priority": 3
       },
       {
         "button": null,
@@ -966,6 +985,13 @@
             "id": 15613,
             "metaTitle": "",
             "name": "Gaming laptop",
+            "subCategories": []
+          },
+          {
+            "icon": "moss",
+            "id": 16859,
+            "metaTitle": null,
+            "name": "Gaming Suite - Steam Hotel",
             "subCategories": []
           }
         ]
@@ -2950,6 +2976,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10251,
+          "name": "iMac (24-tum)"
+        },
+        "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
+        "highlightId": 2990,
+        "id": 6958,
+        "imageUrl": "https://www.webhallen.com/images/698633-MacbookProSiteMobilTileBanner-992x558?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -2957,18 +2995,6 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10251,
-          "name": "iMac (24-tum)"
-        },
-        "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
-        "highlightId": 2990,
-        "id": 6958,
-        "imageUrl": "https://www.webhallen.com/images/697912-MacbookProSiteMobilTileBanner-992x558?raw",
         "priority": 5
       },
       {
@@ -3943,6 +3969,18 @@
         "id": 5488,
         "imageUrl": "/images/685002",
         "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10014,
+          "name": "AMD Avatar CPU"
+        },
+        "description": "Köp utvalda AMD processorer eller grafikkort och få Avatar på köpet!",
+        "highlightId": 2870,
+        "id": 6650,
+        "imageUrl": "/images/698596",
+        "priority": 4
       },
       {
         "button": null,
@@ -4936,13 +4974,6 @@
             "id": 3327,
             "metaTitle": "Sporthörlurar - Hörlurar för träning",
             "name": "Sporthörlurar",
-            "subCategories": []
-          },
-          {
-            "icon": "horlurar",
-            "id": 16524,
-            "metaTitle": null,
-            "name": "Solglasögon med ljud",
             "subCategories": []
           },
           {
@@ -6027,7 +6058,7 @@
         "description": "Förboka nya iMac med M3-chippet. Säljstart 7 november.",
         "highlightId": 2990,
         "id": 6958,
-        "imageUrl": "https://www.webhallen.com/images/697912-MacbookProSiteMobilTileBanner-992x558?raw",
+        "imageUrl": "https://www.webhallen.com/images/698633-MacbookProSiteMobilTileBanner-992x558?raw",
         "priority": 5
       },
       {
@@ -6039,44 +6070,8 @@
         "description": "Världens mest avancerade bärbara Mac. Säljstart 7 november.",
         "highlightId": 2991,
         "id": 6953,
-        "imageUrl": "https://www.webhallen.com/images/697914-iMacSiteMobilTileBanner-992x558?raw",
+        "imageUrl": "https://www.webhallen.com/images/698631-iMacSiteMobilTileBanner-992x558?raw",
         "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9739,
-          "name": "MacBook Pro"
-        },
-        "description": "Nya MacBook med M2 Pro och M2 Max.",
-        "highlightId": 2582,
-        "id": 6261,
-        "imageUrl": "/images/658281",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9945,
-          "name": "MacBook Air"
-        },
-        "description": "MacBook Air. Nu i 15\".",
-        "highlightId": 2772,
-        "id": 6436,
-        "imageUrl": "https://www.webhallen.com/images/680533-Tilebanner-MacbookAir15992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10086,
-          "name": "Apple Watch Series 9"
-        },
-        "description": "Smartare. Ljusare. Mäktigare.",
-        "highlightId": 2921,
-        "id": 6876,
-        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
-        "priority": 1
       },
       {
         "button": null,
@@ -6149,6 +6144,42 @@
         "highlightId": 2923,
         "id": 6794,
         "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9739,
+          "name": "MacBook Pro"
+        },
+        "description": "Nya MacBook med M2 Pro och M2 Max.",
+        "highlightId": 2582,
+        "id": 6261,
+        "imageUrl": "/images/658281",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9945,
+          "name": "MacBook Air"
+        },
+        "description": "MacBook Air. Nu i 15\".",
+        "highlightId": 2772,
+        "id": 6436,
+        "imageUrl": "https://www.webhallen.com/images/680533-Tilebanner-MacbookAir15992x558?raw",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10086,
+          "name": "Apple Watch Series 9"
+        },
+        "description": "Smartare. Ljusare. Mäktigare.",
+        "highlightId": 2921,
+        "id": 6876,
+        "imageUrl": "https://www.webhallen.com/images/691696-AppleSERIES9SEP2023-tile-992x558?raw",
         "priority": 1
       }
     ],
@@ -7300,6 +7331,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10073,
+          "name": "Sony Xperia 5 V"
+        },
+        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
+        "highlightId": 2919,
+        "id": 6776,
+        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 9970,
           "name": "Galaxy S23 | Z Flip5 | Z Fold5 Bundle"
         },
@@ -7336,18 +7379,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10073,
-          "name": "Sony Xperia 5 V"
-        },
-        "description": "Nya Xperia 5 V är här! Köp nu & få hörlurar värda 3500 kr.",
-        "highlightId": 2919,
-        "id": 6776,
-        "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9085,
           "name": "CLEAROUT"
         },
@@ -7360,18 +7391,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8984,
-          "name": "Webhallen Revive: Byt in din mobil, iPad eller MacBook - använd värdet på något nytt"
-        },
-        "description": "Byt in din gamla mobil",
-        "highlightId": 2122,
-        "id": 4902,
-        "imageUrl": "/images/619483",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10111,
           "name": "Mobilabonnemang"
         },
@@ -7379,6 +7398,18 @@
         "highlightId": 2933,
         "id": 6811,
         "imageUrl": "/images/691686",
+        "priority": 1
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8984,
+          "name": "Webhallen Revive: Byt in din mobil, iPad eller MacBook - använd värdet på något nytt"
+        },
+        "description": "Byt in din gamla mobil",
+        "highlightId": 2122,
+        "id": 4902,
+        "imageUrl": "/images/619483",
         "priority": 1
       }
     ],
@@ -8212,6 +8243,21 @@
             "subCategories": [
               {
                 "icon": "inredning_belysning",
+                "id": 1839,
+                "metaTitle": "Ljuskällor - Stort utbud av Glödlampor",
+                "name": "Ljuskällor",
+                "subCategories": [
+                  {
+                    "icon": "inredning_belysning",
+                    "id": 5151,
+                    "metaTitle": "Ljuskällor - Socket E14",
+                    "name": "Socket E14",
+                    "subCategories": []
+                  }
+                ]
+              },
+              {
+                "icon": "inredning_belysning",
                 "id": 3040,
                 "metaTitle": "Inomhusbelysning",
                 "name": "Inomhusbelysning",
@@ -8540,18 +8586,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 9925,
           "name": "Philips Airfryers & Köksmaskiner"
         },
@@ -8571,6 +8605,18 @@
         "highlightId": 2988,
         "id": 6949,
         "imageUrl": "https://www.webhallen.com/images/697576-OutshineyourNeighbors-JulpyntskampanjSite?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -9050,13 +9096,6 @@
             "id": 16817,
             "metaTitle": null,
             "name": "Fotbollskort",
-            "subCategories": []
-          },
-          {
-            "icon": "samlarspelkort",
-            "id": 4201,
-            "metaTitle": "Spelkort - KeyForge",
-            "name": "Keyforge",
             "subCategories": []
           },
           {
@@ -9579,6 +9618,18 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 9085,
+          "name": "CLEAROUT"
+        },
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
+      },
+      {
+        "button": null,
         "category": {
           "id": 4661,
           "internalName": "Pokemon Trading Card Game",
@@ -9588,18 +9639,6 @@
         "highlightId": 1684,
         "id": 4039,
         "imageUrl": "/images/671754",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       }
     ],
@@ -9997,6 +10036,13 @@
                 "subCategories": []
               },
               {
+                "icon": "homeplug_powerline",
+                "id": 15604,
+                "metaTitle": "Fynda billiga homeplugs",
+                "name": "Homeplug / Powerline",
+                "subCategories": []
+              },
+              {
                 "icon": "natverk_smarta_hem",
                 "id": 15609,
                 "metaTitle": null,
@@ -10031,6 +10077,13 @@
                 "id": 4886,
                 "metaTitle": "REA - TV-apparater - Köp Smart-TV billigt!",
                 "name": "TV-apparater",
+                "subCategories": []
+              },
+              {
+                "icon": "chromecast_apple_tv",
+                "id": 4887,
+                "metaTitle": "REA Mediaspelare - Fynda billiga mediaspelare",
+                "name": "Mediaspelare",
                 "subCategories": []
               },
               {
@@ -10283,13 +10336,6 @@
             "id": 5065,
             "metaTitle": "REA Personvård - Fynda varar under Personvård",
             "name": "Personvård",
-            "subCategories": []
-          },
-          {
-            "icon": "verktyg_och_tradgard",
-            "id": 4904,
-            "metaTitle": null,
-            "name": "Verktyg",
             "subCategories": []
           },
           {
