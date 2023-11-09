@@ -192,7 +192,20 @@
       "zipCode": "75320"
     },
     {
-      "abnormalOpenHours": [],
+      "abnormalOpenHours": [
+        {
+          "closing": "20:00",
+          "date": "2023-11-15",
+          "label": "Black Friday",
+          "opening": "10:00"
+        },
+        {
+          "closing": "20:00",
+          "date": "2023-11-15",
+          "label": "Extra öppet ",
+          "opening": "10:00"
+        }
+      ],
       "address": "St Larsgatan 30",
       "city": "Linköping",
       "id": 8,
