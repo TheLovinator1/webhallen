@@ -953,7 +953,20 @@
       "zipCode": "11872"
     },
     {
-      "abnormalOpenHours": [],
+      "abnormalOpenHours": [
+        {
+          "closing": "20:00",
+          "date": "2023-11-15",
+          "label": "Extra öppet",
+          "opening": "10:00"
+        },
+        {
+          "closing": "20:00",
+          "date": "2023-11-24",
+          "label": "Black Friday",
+          "opening": "10:00"
+        }
+      ],
       "address": "Södra Förstadsgatan 32",
       "city": "Malmö",
       "id": 30,
