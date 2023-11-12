@@ -3608,6 +3608,13 @@
                     "metaTitle": null,
                     "name": "1/4\" anslutningar",
                     "subCategories": []
+                  },
+                  {
+                    "icon": "vattenkylning",
+                    "id": 16298,
+                    "metaTitle": null,
+                    "name": "Hard Tubing",
+                    "subCategories": []
                   }
                 ]
               },
@@ -4808,18 +4815,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 7648,
           "name": "Singles Day 2023"
         },
@@ -4827,6 +4822,18 @@
         "highlightId": 734,
         "id": 3883,
         "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -5509,18 +5516,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8247,
-          "name": "Weekly Deals"
-        },
-        "description": "Se veckans bästa deals!",
-        "highlightId": 2382,
-        "id": 5488,
-        "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10238,
           "name": "Bose QuietComfort Headphones"
         },
@@ -5564,6 +5559,18 @@
         "highlightId": 734,
         "id": 3883,
         "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 8247,
+          "name": "Weekly Deals"
+        },
+        "description": "Se veckans bästa deals!",
+        "highlightId": 2382,
+        "id": 5488,
+        "imageUrl": "/images/685002",
         "priority": 5
       },
       {
@@ -8631,30 +8638,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9925,
-          "name": "Philips Airfryers & Köksmaskiner"
-        },
-        "description": "Laga nyttig mat enkelt med Philips AirFryer",
-        "highlightId": 2965,
-        "id": 6872,
-        "imageUrl": "https://www.webhallen.com/images/696537-AF-Webhallen-HD9285-oct23-992x558-SE2?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10196,
-          "name": "Outshine Your Neighbors"
-        },
-        "description": "Julpynta som aldrig förr! Fynda juldekoren här",
-        "highlightId": 2988,
-        "id": 6949,
-        "imageUrl": "https://www.webhallen.com/images/697576-OutshineyourNeighbors-JulpyntskampanjSite?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 7648,
           "name": "Singles Day 2023"
         },
@@ -8674,6 +8657,30 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9925,
+          "name": "Philips Airfryers & Köksmaskiner"
+        },
+        "description": "Laga nyttig mat enkelt med Philips AirFryer",
+        "highlightId": 2965,
+        "id": 6872,
+        "imageUrl": "https://www.webhallen.com/images/696537-AF-Webhallen-HD9285-oct23-992x558-SE2?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10196,
+          "name": "Outshine Your Neighbors"
+        },
+        "description": "Julpynta som aldrig förr! Fynda juldekoren här",
+        "highlightId": 2988,
+        "id": 6949,
+        "imageUrl": "https://www.webhallen.com/images/697576-OutshineyourNeighbors-JulpyntskampanjSite?raw",
         "priority": 5
       },
       {
@@ -9628,18 +9635,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 6813,
-          "name": "LEGO"
-        },
-        "description": "Utforska vårt stora sortiment av LEGO!",
-        "highlightId": 967,
-        "id": 2314,
-        "imageUrl": "/images/672497",
-        "priority": 10000
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8696,
           "name": "Brädspelstips: Webhallens favoritspel"
         },
@@ -9647,6 +9642,18 @@
         "highlightId": 1650,
         "id": 4242,
         "imageUrl": "/images/670551",
+        "priority": 10000
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 6813,
+          "name": "LEGO"
+        },
+        "description": "Utforska vårt stora sortiment av LEGO!",
+        "highlightId": 967,
+        "id": 2314,
+        "imageUrl": "/images/672497",
         "priority": 10000
       },
       {
@@ -9675,18 +9682,6 @@
       },
       {
         "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
-        "priority": 4
-      },
-      {
-        "button": null,
         "category": {
           "id": 4661,
           "internalName": "Pokemon Trading Card Game",
@@ -9696,6 +9691,18 @@
         "highlightId": 1684,
         "id": 4039,
         "imageUrl": "/images/671754",
+        "priority": 4
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9085,
+          "name": "CLEAROUT"
+        },
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       }
     ],
@@ -10090,13 +10097,6 @@
                 "id": 15607,
                 "metaTitle": "REA Router 4G & 5G - Fynda billiga routers",
                 "name": "4G / 5G",
-                "subCategories": []
-              },
-              {
-                "icon": "homeplug_powerline",
-                "id": 15604,
-                "metaTitle": "Fynda billiga homeplugs",
-                "name": "Homeplug / Powerline",
                 "subCategories": []
               },
               {
