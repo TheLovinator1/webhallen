@@ -802,18 +802,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
-        },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -822,6 +810,18 @@
         "id": 5488,
         "imageUrl": "/images/685002",
         "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10131,
+          "name": "Call of Duty: Modern Warfare III"
+        },
+        "description": "Väntan är över - köp CoD Modern Warfare III idag!",
+        "highlightId": 2979,
+        "id": 6930,
+        "imageUrl": "/images/699053",
+        "priority": 4
       },
       {
         "button": null,
@@ -838,14 +838,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 10131,
-          "name": "Call of Duty: Modern Warfare III"
+          "id": 9960,
+          "name": "Spider-Man 2"
         },
-        "description": "Väntan är över - köp CoD Modern Warfare III idag!",
-        "highlightId": 2979,
-        "id": 6930,
-        "imageUrl": "/images/699053",
-        "priority": 4
+        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
+        "highlightId": 2904,
+        "id": 6742,
+        "imageUrl": "/images/696876",
+        "priority": 3
       },
       {
         "button": null,
@@ -875,18 +875,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9960,
-          "name": "Spider-Man 2"
-        },
-        "description": "Spidey är tillbaka! Säkra ditt spel nu! ",
-        "highlightId": 2904,
-        "id": 6742,
-        "imageUrl": "/images/696876",
-        "priority": 3
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10258,
           "name": "Naruto X Boruto: Ultimate Ninja Storm Connections"
         },
@@ -906,18 +894,6 @@
         "highlightId": 3006,
         "id": 6989,
         "imageUrl": "/images/698727",
-        "priority": 2.5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10237,
-          "name": "Warhammer Darktide"
-        },
-        "description": "",
-        "highlightId": 2989,
-        "id": 6951,
-        "imageUrl": "/images/697613",
         "priority": 2.5
       },
       {
@@ -1443,18 +1419,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
-        },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -1475,19 +1439,6 @@
         "id": 6110,
         "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
-      },
-      {
-        "button": null,
-        "description": "Uppdatera ditt tangentbord till Steelseries nya Apex Pro TKL (2023)",
-        "highlightId": 2982,
-        "id": 6937,
-        "imageUrl": "/images/697338",
-        "priority": 3,
-        "product": {
-          "id": 365395,
-          "metaTitle": null,
-          "name": "Steelseries Apex Pro TKL (2023)"
-        }
       },
       {
         "button": null,
@@ -1524,18 +1475,6 @@
         "id": 53,
         "imageUrl": "/images/653188",
         "priority": 2
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 10052,
-          "name": "Logitech nyheter"
-        },
-        "description": "Uppgradera dig med det senaste från Logitech! ",
-        "highlightId": 2902,
-        "id": 6975,
-        "imageUrl": "/images/687030",
-        "priority": 1
       }
     ],
     "icon": "gaming",
@@ -3005,18 +2944,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
-        },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -3365,13 +3292,6 @@
             "metaTitle": "SODIMM DDR3 - För din bärbara dator",
             "name": "SODIMM DDR3",
             "subCategories": []
-          },
-          {
-            "icon": "minnen",
-            "id": 2729,
-            "metaTitle": "RAM-minnen - ECC/REG",
-            "name": "ECC/REG",
-            "subCategories": []
           }
         ]
       },
@@ -3607,13 +3527,6 @@
                     "id": 16299,
                     "metaTitle": null,
                     "name": "1/4\" anslutningar",
-                    "subCategories": []
-                  },
-                  {
-                    "icon": "vattenkylning",
-                    "id": 16298,
-                    "metaTitle": null,
-                    "name": "Hard Tubing",
                     "subCategories": []
                   }
                 ]
@@ -3956,18 +3869,6 @@
     ],
     "color": "#0a9b7f",
     "highlights": [
-      {
-        "button": null,
-        "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
-        },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
-        "priority": 5
-      },
       {
         "button": null,
         "campaign": {
@@ -4815,18 +4716,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
-        },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -5357,13 +5246,6 @@
                 "subCategories": []
               }
             ]
-          },
-          {
-            "icon": "kameror_action_cam",
-            "id": 5533,
-            "metaTitle": null,
-            "name": "Kikare",
-            "subCategories": []
           }
         ]
       },
@@ -5540,25 +5422,13 @@
       {
         "button": null,
         "campaign": {
-          "id": 10254,
-          "name": "Philips Headphones 60 days trial"
+          "id": 10090,
+          "name": "AirPods"
         },
-        "description": "Få pengarna tillbaka om du inte är nöjd.",
-        "highlightId": 2992,
-        "id": 6961,
-        "imageUrl": "https://www.webhallen.com/images/698004-2671philipsWebhallenTile-bannerNoCTA992x?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
-        },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6998,
+        "imageUrl": "https://www.webhallen.com/images/699099-AirPods-Pro-v?raw",
         "priority": 5
       },
       {
@@ -5571,6 +5441,18 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 10058,
+          "name": "Sony X75WL LED TV 2023"
+        },
+        "description": "Kampanj på Sony 4K LED-TV 2023",
+        "highlightId": 2908,
+        "id": 7006,
+        "imageUrl": "https://www.webhallen.com/images/687516-992x558pxX75WLSE?raw",
         "priority": 5
       },
       {
@@ -6093,6 +5975,18 @@
       {
         "button": null,
         "campaign": {
+          "id": 10090,
+          "name": "AirPods"
+        },
+        "description": "Uppgradera till nya AirPods Pro (2nd Gen). Betala i din egen takt. ",
+        "highlightId": 2656,
+        "id": 6998,
+        "imageUrl": "https://www.webhallen.com/images/699099-AirPods-Pro-v?raw",
+        "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
           "id": 10251,
           "name": "iMac (24-tum)"
         },
@@ -6113,6 +6007,18 @@
         "id": 6953,
         "imageUrl": "https://www.webhallen.com/images/698631-iMacSiteMobilTileBanner-992x558?raw",
         "priority": 5
+      },
+      {
+        "button": null,
+        "campaign": {
+          "id": 9739,
+          "name": "MacBook Pro"
+        },
+        "description": "Nya MacBook med M2 Pro och M2 Max.",
+        "highlightId": 2582,
+        "id": 6261,
+        "imageUrl": "/images/658281",
+        "priority": 1
       },
       {
         "button": null,
@@ -6208,18 +6114,6 @@
         "highlightId": 2923,
         "id": 6794,
         "imageUrl": "https://www.webhallen.com/images/691703-AppleIPHONE15PROSEP2023-tile-992x558?raw",
-        "priority": 1
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9739,
-          "name": "MacBook Pro"
-        },
-        "description": "Nya MacBook med M2 Pro och M2 Max.",
-        "highlightId": 2582,
-        "id": 6261,
-        "imageUrl": "/images/658281",
         "priority": 1
       }
     ],
@@ -7371,18 +7265,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 9970,
-          "name": "Galaxy S23 | Z Flip5 | Z Fold5 Bundle"
-        },
-        "description": "Köp Galaxy S23 / Z Flip5 / Z Fold5 & få Watch6 på köpet!",
-        "highlightId": 2973,
-        "id": 6907,
-        "imageUrl": "https://www.webhallen.com/images/695917-SEGAL4?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -7395,18 +7277,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 10221,
-          "name": "Garmin Wearables for All"
-        },
-        "description": "Upptäck Garmins wearables - från aktivitetsmätare till smartwatches",
-        "highlightId": 2985,
-        "id": 6946,
-        "imageUrl": "https://www.webhallen.com/images/697422-W4All-TPB-992x558?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 10073,
           "name": "Sony Xperia 5 V"
         },
@@ -7414,18 +7284,6 @@
         "highlightId": 2919,
         "id": 6776,
         "imageUrl": "https://www.webhallen.com/images/688553-SonyXperia5V992x558-SE?raw",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
-        },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
         "priority": 5
       },
       {
@@ -8638,18 +8496,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
-        },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 8247,
           "name": "Weekly Deals"
         },
@@ -8657,18 +8503,6 @@
         "highlightId": 2382,
         "id": 5488,
         "imageUrl": "/images/685002",
-        "priority": 5
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9925,
-          "name": "Philips Airfryers & Köksmaskiner"
-        },
-        "description": "Laga nyttig mat enkelt med Philips AirFryer",
-        "highlightId": 2965,
-        "id": 6872,
-        "imageUrl": "https://www.webhallen.com/images/696537-AF-Webhallen-HD9285-oct23-992x558-SE2?raw",
         "priority": 5
       },
       {
@@ -9635,18 +9469,6 @@
       {
         "button": null,
         "campaign": {
-          "id": 8696,
-          "name": "Brädspelstips: Webhallens favoritspel"
-        },
-        "description": "Hitta rätt i brädspelsdjungeln!",
-        "highlightId": 1650,
-        "id": 4242,
-        "imageUrl": "/images/670551",
-        "priority": 10000
-      },
-      {
-        "button": null,
-        "campaign": {
           "id": 6813,
           "name": "LEGO"
         },
@@ -9659,14 +9481,14 @@
       {
         "button": null,
         "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
+          "id": 8696,
+          "name": "Brädspelstips: Webhallens favoritspel"
         },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
-        "priority": 5
+        "description": "Hitta rätt i brädspelsdjungeln!",
+        "highlightId": 1650,
+        "id": 4242,
+        "imageUrl": "/images/670551",
+        "priority": 10000
       },
       {
         "button": null,
@@ -9682,6 +9504,18 @@
       },
       {
         "button": null,
+        "campaign": {
+          "id": 9085,
+          "name": "CLEAROUT"
+        },
+        "description": "Gör kap i vår lagerrensning",
+        "highlightId": 2043,
+        "id": 6110,
+        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
+        "priority": 4
+      },
+      {
+        "button": null,
         "category": {
           "id": 4661,
           "internalName": "Pokemon Trading Card Game",
@@ -9691,18 +9525,6 @@
         "highlightId": 1684,
         "id": 4039,
         "imageUrl": "/images/671754",
-        "priority": 4
-      },
-      {
-        "button": null,
-        "campaign": {
-          "id": 9085,
-          "name": "CLEAROUT"
-        },
-        "description": "Gör kap i vår lagerrensning",
-        "highlightId": 2043,
-        "id": 6110,
-        "imageUrl": "/images/695924-CLEAROUTRe-freshSiteMobilTileBanner-992x",
         "priority": 4
       }
     ],
@@ -10467,13 +10289,6 @@
             "subCategories": []
           },
           {
-            "icon": "leksaker_per_kategori",
-            "id": 4831,
-            "metaTitle": "REA Leksaker - Fynda & köp billiga leksaker",
-            "name": "Leksaker",
-            "subCategories": []
-          },
-          {
             "icon": "lek_gadgets",
             "id": 5400,
             "metaTitle": null,
@@ -10485,18 +10300,6 @@
     ],
     "color": "#eceff0",
     "highlights": [
-      {
-        "button": null,
-        "campaign": {
-          "id": 7648,
-          "name": "Singles Day 2023"
-        },
-        "description": "Ensam på Singles' Day? Det är dessa produkter också!",
-        "highlightId": 734,
-        "id": 3883,
-        "imageUrl": "/images/697531-Singles-Day-Site-Mobil-TileBanner-992x558",
-        "priority": 5
-      },
       {
         "button": null,
         "campaign": {
